@@ -1,0 +1,8 @@
+[2020-11-09 10:13:05,842] Stard_End.py->setUpClass line:18 [INFO] : =====================测 试 类 初 始 化=====================
+[2020-11-09 10:13:05,842] Stard_End.py->setUp line:26 [INFO] : --------测试方法初始化---------------
+[2020-11-09 10:13:08,540] browser.py->__get_chrome_driver line:37 [INFO] : 初始化Google浏览器并启动
+[2020-11-09 10:13:09,669] base_page.py->set_browser_max line:25 [INFO] : 浏览器最大化
+[2020-11-09 10:13:10,300] base_page.py->open_url line:19 [INFO] : 打开url地址: https://www.91trial.com/User/Login/
+[2020-11-09 10:13:10,301] patient_search_case_test.py->test_patientSearch_success5_by_vistiManage line:82 [INFO] : test_patient_search1_by_name_success  用例开始执行
+[2020-11-09 10:13:19,568] login_ation.py->login_action line:20 [INFO] : 输入的账号是：zhxcra,  密码是：123123
+[2020-11-09 10:13:24,632] Stard_End.py->tearDownClass line:49 [INFO] : =====================测 试 类 执 行 完 毕=====================

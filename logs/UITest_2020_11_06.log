@@ -1,0 +1,175 @@
+[2020-11-06 15:08:53,463] Stard_End.py->setUpClass line:18 [INFO] : =====================测 试 类 初 始 化=====================
+[2020-11-06 15:08:53,465] Stard_End.py->setUp line:26 [INFO] : --------测试方法初始化---------------
+[2020-11-06 15:08:57,283] browser.py->__get_chrome_driver line:37 [INFO] : 初始化Google浏览器并启动
+[2020-11-06 15:08:58,486] base_page.py->set_browser_max line:25 [INFO] : 浏览器最大化
+[2020-11-06 15:08:59,174] base_page.py->open_url line:19 [INFO] : 打开url地址: https://www.91trial.com/User/Login/
+[2020-11-06 15:08:59,175] patient_search_case_test.py->test_patient_search1_by_name_success line:37 [INFO] : test_patient_search1_by_name_success  用例开始执行
+[2020-11-06 15:09:08,636] login_ation.py->login_action line:20 [INFO] : 输入的账号是：zhxcra,  密码是：123123
+[2020-11-06 15:09:27,571] patient_search_case_test.py->test_patient_search1_by_name_success line:46 [INFO] : test_patient_search1_by_name_success  用例结束执行
+[2020-11-06 15:09:36,812] common_action.py->quit line:24 [INFO] : 账号退出登录成功
+[2020-11-06 15:09:36,820] base_page.py->exit_driver line:60 [INFO] : 关闭浏览器
+[2020-11-06 15:09:39,229] Stard_End.py->tearDown line:43 [INFO] : --------测试方法执行完毕---------------
+[2020-11-06 15:09:39,230] Stard_End.py->setUp line:26 [INFO] : --------测试方法初始化---------------
+[2020-11-06 15:09:42,228] browser.py->__get_chrome_driver line:37 [INFO] : 初始化Google浏览器并启动
+[2020-11-06 15:09:43,467] base_page.py->set_browser_max line:25 [INFO] : 浏览器最大化
+[2020-11-06 15:09:44,312] base_page.py->open_url line:19 [INFO] : 打开url地址: https://www.91trial.com/User/Login/
+[2020-11-06 15:09:44,312] patient_search_case_test.py->test_patient_search2_by_Number_success line:51 [INFO] : test_patient_search2_by_Number_success  用例开始执行
+[2020-11-06 15:09:53,710] login_ation.py->login_action line:20 [INFO] : 输入的账号是：zhxcra,  密码是：123123
+[2020-11-06 15:10:11,031] patient_search_case_test.py->test_patient_search2_by_Number_success line:60 [INFO] : test_patient_search2_by_Number_success  用例结束执行
+[2020-11-06 15:10:20,291] common_action.py->quit line:24 [INFO] : 账号退出登录成功
+[2020-11-06 15:10:20,298] base_page.py->exit_driver line:60 [INFO] : 关闭浏览器
+[2020-11-06 15:10:22,731] Stard_End.py->tearDown line:43 [INFO] : --------测试方法执行完毕---------------
+[2020-11-06 15:10:22,732] Stard_End.py->setUp line:26 [INFO] : --------测试方法初始化---------------
+[2020-11-06 15:10:25,996] browser.py->__get_chrome_driver line:37 [INFO] : 初始化Google浏览器并启动
+[2020-11-06 15:10:27,239] base_page.py->set_browser_max line:25 [INFO] : 浏览器最大化
+[2020-11-06 15:10:28,039] base_page.py->open_url line:19 [INFO] : 打开url地址: https://www.91trial.com/User/Login/
+[2020-11-06 15:10:28,040] patient_search_case_test.py->test_patient_search3_by_name_fail line:66 [INFO] : test_patient_search3_by_name_fail  用例开始执行
+[2020-11-06 15:10:37,394] login_ation.py->login_action line:20 [INFO] : 输入的账号是：zhxcra,  密码是：123123
+[2020-11-06 15:10:47,543] Stard_End.py->setUpClass line:18 [INFO] : =====================测 试 类 初 始 化=====================
+[2020-11-06 15:10:47,544] Stard_End.py->setUp line:26 [INFO] : --------测试方法初始化---------------
+[2020-11-06 15:10:50,966] browser.py->__get_chrome_driver line:37 [INFO] : 初始化Google浏览器并启动
+[2020-11-06 15:10:52,144] base_page.py->set_browser_max line:25 [INFO] : 浏览器最大化
+[2020-11-06 15:10:52,789] base_page.py->open_url line:19 [INFO] : 打开url地址: https://www.91trial.com/User/Login/
+[2020-11-06 15:10:52,789] patient_search_case_test.py->test_patient_search1_by_name_success line:23 [INFO] : test_patient_search1_by_name_success  用例开始执行
+[2020-11-06 15:11:02,238] login_ation.py->login_action line:20 [INFO] : 输入的账号是：zhxcra,  密码是：123123
+[2020-11-06 15:11:19,298] patient_search_case_test.py->test_patient_search1_by_name_success line:32 [INFO] : test_patient_search1_by_name_success  用例结束执行
+[2020-11-06 15:11:28,524] common_action.py->quit line:24 [INFO] : 账号退出登录成功
+[2020-11-06 15:11:28,532] base_page.py->exit_driver line:60 [INFO] : 关闭浏览器
+[2020-11-06 15:11:31,045] Stard_End.py->tearDown line:43 [INFO] : --------测试方法执行完毕---------------
+[2020-11-06 15:11:31,046] Stard_End.py->setUp line:26 [INFO] : --------测试方法初始化---------------
+[2020-11-06 15:11:34,125] browser.py->__get_chrome_driver line:37 [INFO] : 初始化Google浏览器并启动
+[2020-11-06 15:11:35,321] base_page.py->set_browser_max line:25 [INFO] : 浏览器最大化
+[2020-11-06 15:11:35,906] base_page.py->open_url line:19 [INFO] : 打开url地址: https://www.91trial.com/User/Login/
+[2020-11-06 15:11:35,906] patient_search_case_test.py->test_patient_search2_by_Number_success line:51 [INFO] : test_patient_search2_by_Number_success  用例开始执行
+[2020-11-06 15:11:45,361] login_ation.py->login_action line:20 [INFO] : 输入的账号是：zhxcra,  密码是：123123
+[2020-11-06 15:12:02,488] patient_search_case_test.py->test_patient_search2_by_Number_success line:60 [INFO] : test_patient_search2_by_Number_success  用例结束执行
+[2020-11-06 15:12:11,703] common_action.py->quit line:24 [INFO] : 账号退出登录成功
+[2020-11-06 15:12:11,710] base_page.py->exit_driver line:60 [INFO] : 关闭浏览器
+[2020-11-06 15:12:14,148] Stard_End.py->tearDown line:43 [INFO] : --------测试方法执行完毕---------------
+[2020-11-06 15:12:14,149] Stard_End.py->setUp line:26 [INFO] : --------测试方法初始化---------------
+[2020-11-06 15:12:17,185] browser.py->__get_chrome_driver line:37 [INFO] : 初始化Google浏览器并启动
+[2020-11-06 15:12:18,366] base_page.py->set_browser_max line:25 [INFO] : 浏览器最大化
+[2020-11-06 15:12:19,010] base_page.py->open_url line:19 [INFO] : 打开url地址: https://www.91trial.com/User/Login/
+[2020-11-06 15:12:19,011] patient_search_case_test.py->test_patient_search3_by_name_fail line:66 [INFO] : test_patient_search3_by_name_fail  用例开始执行
+[2020-11-06 15:12:28,485] login_ation.py->login_action line:20 [INFO] : 输入的账号是：zhxcra,  密码是：123123
+[2020-11-06 15:12:46,199] patient_search_case_test.py->test_patient_search3_by_name_fail line:75 [INFO] : test_patient_search3_by_name_fail  用例结束执行
+[2020-11-06 15:12:55,402] common_action.py->quit line:24 [INFO] : 账号退出登录成功
+[2020-11-06 15:12:55,407] base_page.py->exit_driver line:60 [INFO] : 关闭浏览器
+[2020-11-06 15:12:57,999] Stard_End.py->tearDown line:43 [INFO] : --------测试方法执行完毕---------------
+[2020-11-06 15:12:58,000] Stard_End.py->setUp line:26 [INFO] : --------测试方法初始化---------------
+[2020-11-06 15:13:01,379] browser.py->__get_chrome_driver line:37 [INFO] : 初始化Google浏览器并启动
+[2020-11-06 15:13:02,570] base_page.py->set_browser_max line:25 [INFO] : 浏览器最大化
+[2020-11-06 15:13:03,282] base_page.py->open_url line:19 [INFO] : 打开url地址: https://www.91trial.com/User/Login/
+[2020-11-06 15:13:03,282] patient_search_case_test.py->test_patient_search4_by_Number_fail line:81 [INFO] : test_patient_search4_by_Number_fail  用例开始执行
+[2020-11-06 15:13:12,744] login_ation.py->login_action line:20 [INFO] : 输入的账号是：zhxcra,  密码是：123123
+[2020-11-06 15:13:29,937] patient_search_case_test.py->test_patient_search4_by_Number_fail line:90 [INFO] : test_patient_search4_by_Number_fail  用例结束执行
+[2020-11-06 15:13:39,182] common_action.py->quit line:24 [INFO] : 账号退出登录成功
+[2020-11-06 15:13:39,190] base_page.py->exit_driver line:60 [INFO] : 关闭浏览器
+[2020-11-06 15:13:41,610] Stard_End.py->tearDown line:43 [INFO] : --------测试方法执行完毕---------------
+[2020-11-06 15:13:41,610] Stard_End.py->setUp line:26 [INFO] : --------测试方法初始化---------------
+[2020-11-06 15:13:44,614] browser.py->__get_chrome_driver line:37 [INFO] : 初始化Google浏览器并启动
+[2020-11-06 15:13:45,806] base_page.py->set_browser_max line:25 [INFO] : 浏览器最大化
+[2020-11-06 15:13:46,421] base_page.py->open_url line:19 [INFO] : 打开url地址: https://www.91trial.com/User/Login/
+[2020-11-06 15:13:46,422] patient_search_case_test.py->test_patient_search5_by_name_success line:37 [INFO] : test_patient_search1_by_name_success  用例开始执行
+[2020-11-06 15:13:55,910] login_ation.py->login_action line:20 [INFO] : 输入的账号是：zhxcra,  密码是：123123
+[2020-11-06 15:14:15,034] patient_search_case_test.py->test_patient_search5_by_name_success line:46 [INFO] : test_patient_search1_by_name_success  用例结束执行
+[2020-11-06 15:14:24,263] common_action.py->quit line:24 [INFO] : 账号退出登录成功
+[2020-11-06 15:14:24,271] base_page.py->exit_driver line:60 [INFO] : 关闭浏览器
+[2020-11-06 15:14:26,683] Stard_End.py->tearDown line:43 [INFO] : --------测试方法执行完毕---------------
+[2020-11-06 15:14:26,684] Stard_End.py->tearDownClass line:49 [INFO] : =====================测 试 类 执 行 完 毕=====================
+[2020-11-06 15:25:01,657] Stard_End.py->setUpClass line:18 [INFO] : =====================测 试 类 初 始 化=====================
+[2020-11-06 15:25:01,662] Stard_End.py->setUp line:26 [INFO] : --------测试方法初始化---------------
+[2020-11-06 15:25:05,097] browser.py->__get_chrome_driver line:37 [INFO] : 初始化Google浏览器并启动
+[2020-11-06 15:25:06,296] base_page.py->set_browser_max line:25 [INFO] : 浏览器最大化
+[2020-11-06 15:25:06,862] base_page.py->open_url line:19 [INFO] : 打开url地址: https://www.91trial.com/User/Login/
+[2020-11-06 15:25:06,862] patient_search_case_test.py->test_patient_search5_by_name_success line:82 [INFO] : test_patient_search1_by_name_success  用例开始执行
+[2020-11-06 15:25:25,433] base_page.py->find_element line:91 [ERROR] : [用户名] 元素识别失败，原因是： Message: 
+
+[2020-11-06 15:25:25,433] base_page.py->click line:102 [ERROR] : [用户名] 元素点击操作失败，原因是：unsupported operand type(s) for +: 'NoneType' and 'str'
+[2020-11-06 15:25:38,951] base_page.py->find_element line:91 [ERROR] : [退出登录] 元素识别失败，原因是： Message: 
+
+[2020-11-06 15:25:38,951] base_page.py->click line:102 [ERROR] : [退出登录] 元素点击操作失败，原因是：unsupported operand type(s) for +: 'NoneType' and 'str'
+[2020-11-06 15:25:41,951] common_action.py->quit line:24 [INFO] : 账号退出登录成功
+[2020-11-06 15:25:41,958] base_page.py->exit_driver line:60 [INFO] : 关闭浏览器
+[2020-11-06 15:25:44,318] Stard_End.py->tearDown line:43 [INFO] : --------测试方法执行完毕---------------
+[2020-11-06 15:25:44,321] Stard_End.py->tearDownClass line:49 [INFO] : =====================测 试 类 执 行 完 毕=====================
+[2020-11-06 15:27:09,665] Stard_End.py->setUpClass line:18 [INFO] : =====================测 试 类 初 始 化=====================
+[2020-11-06 15:27:09,666] Stard_End.py->setUp line:26 [INFO] : --------测试方法初始化---------------
+[2020-11-06 15:27:12,943] browser.py->__get_chrome_driver line:37 [INFO] : 初始化Google浏览器并启动
+[2020-11-06 15:27:14,165] base_page.py->set_browser_max line:25 [INFO] : 浏览器最大化
+[2020-11-06 15:27:14,718] base_page.py->open_url line:19 [INFO] : 打开url地址: https://www.91trial.com/User/Login/
+[2020-11-06 15:27:14,719] patient_search_case_test.py->test_patientSearch_success5_byvistiManage line:82 [INFO] : test_patient_search1_by_name_success  用例开始执行
+[2020-11-06 15:27:33,256] base_page.py->find_element line:91 [ERROR] : [用户名] 元素识别失败，原因是： Message: 
+
+[2020-11-06 15:27:33,256] base_page.py->click line:102 [ERROR] : [用户名] 元素点击操作失败，原因是：unsupported operand type(s) for +: 'NoneType' and 'str'
+[2020-11-06 15:27:46,799] base_page.py->find_element line:91 [ERROR] : [退出登录] 元素识别失败，原因是： Message: 
+
+[2020-11-06 15:27:46,799] base_page.py->click line:102 [ERROR] : [退出登录] 元素点击操作失败，原因是：unsupported operand type(s) for +: 'NoneType' and 'str'
+[2020-11-06 15:27:49,800] common_action.py->quit line:24 [INFO] : 账号退出登录成功
+[2020-11-06 15:27:49,807] base_page.py->exit_driver line:60 [INFO] : 关闭浏览器
+[2020-11-06 15:27:52,136] Stard_End.py->tearDown line:43 [INFO] : --------测试方法执行完毕---------------
+[2020-11-06 15:27:52,138] Stard_End.py->tearDownClass line:49 [INFO] : =====================测 试 类 执 行 完 毕=====================
+[2020-11-06 15:28:04,343] Stard_End.py->setUpClass line:18 [INFO] : =====================测 试 类 初 始 化=====================
+[2020-11-06 15:28:04,344] Stard_End.py->setUp line:26 [INFO] : --------测试方法初始化---------------
+[2020-11-06 15:28:07,404] browser.py->__get_chrome_driver line:37 [INFO] : 初始化Google浏览器并启动
+[2020-11-06 15:28:08,591] base_page.py->set_browser_max line:25 [INFO] : 浏览器最大化
+[2020-11-06 15:28:09,170] base_page.py->open_url line:19 [INFO] : 打开url地址: https://www.91trial.com/User/Login/
+[2020-11-06 15:28:09,171] patient_search_case_test.py->test_patientSearch_success5_byvistiManage line:82 [INFO] : test_patient_search1_by_name_success  用例开始执行
+[2020-11-06 15:28:27,735] base_page.py->find_element line:91 [ERROR] : [用户名] 元素识别失败，原因是： Message: 
+
+[2020-11-06 15:28:27,735] base_page.py->click line:102 [ERROR] : [用户名] 元素点击操作失败，原因是：unsupported operand type(s) for +: 'NoneType' and 'str'
+[2020-11-06 15:28:41,284] base_page.py->find_element line:91 [ERROR] : [退出登录] 元素识别失败，原因是： Message: 
+
+[2020-11-06 15:28:41,284] base_page.py->click line:102 [ERROR] : [退出登录] 元素点击操作失败，原因是：unsupported operand type(s) for +: 'NoneType' and 'str'
+[2020-11-06 15:28:44,285] common_action.py->quit line:24 [INFO] : 账号退出登录成功
+[2020-11-06 15:28:44,294] base_page.py->exit_driver line:60 [INFO] : 关闭浏览器
+[2020-11-06 15:28:46,734] Stard_End.py->tearDown line:43 [INFO] : --------测试方法执行完毕---------------
+[2020-11-06 15:28:46,736] Stard_End.py->tearDownClass line:49 [INFO] : =====================测 试 类 执 行 完 毕=====================
+[2020-11-06 15:31:19,625] Stard_End.py->setUpClass line:18 [INFO] : =====================测 试 类 初 始 化=====================
+[2020-11-06 15:31:19,626] Stard_End.py->setUp line:26 [INFO] : --------测试方法初始化---------------
+[2020-11-06 15:31:22,960] browser.py->__get_chrome_driver line:37 [INFO] : 初始化Google浏览器并启动
+[2020-11-06 15:31:24,193] base_page.py->set_browser_max line:25 [INFO] : 浏览器最大化
+[2020-11-06 15:31:24,734] base_page.py->open_url line:19 [INFO] : 打开url地址: https://www.91trial.com/User/Login/
+[2020-11-06 15:31:24,734] patient_search_case_test.py->test_patientSearch_success5_byvistiManage line:82 [INFO] : test_patient_search1_by_name_success  用例开始执行
+[2020-11-06 15:31:43,281] base_page.py->find_element line:91 [ERROR] : [用户名] 元素识别失败，原因是： Message: 
+
+[2020-11-06 15:31:43,281] base_page.py->click line:102 [ERROR] : [用户名] 元素点击操作失败，原因是：unsupported operand type(s) for +: 'NoneType' and 'str'
+[2020-11-06 15:31:56,804] base_page.py->find_element line:91 [ERROR] : [退出登录] 元素识别失败，原因是： Message: 
+
+[2020-11-06 15:31:56,804] base_page.py->click line:102 [ERROR] : [退出登录] 元素点击操作失败，原因是：unsupported operand type(s) for +: 'NoneType' and 'str'
+[2020-11-06 15:31:59,805] common_action.py->quit line:24 [INFO] : 账号退出登录成功
+[2020-11-06 15:31:59,812] base_page.py->exit_driver line:60 [INFO] : 关闭浏览器
+[2020-11-06 15:32:02,274] Stard_End.py->tearDown line:43 [INFO] : --------测试方法执行完毕---------------
+[2020-11-06 15:32:02,276] Stard_End.py->tearDownClass line:49 [INFO] : =====================测 试 类 执 行 完 毕=====================
+[2020-11-06 15:33:23,941] Stard_End.py->setUpClass line:18 [INFO] : =====================测 试 类 初 始 化=====================
+[2020-11-06 15:33:23,942] Stard_End.py->setUp line:26 [INFO] : --------测试方法初始化---------------
+[2020-11-06 15:33:27,506] browser.py->__get_chrome_driver line:37 [INFO] : 初始化Google浏览器并启动
+[2020-11-06 15:33:28,757] base_page.py->set_browser_max line:25 [INFO] : 浏览器最大化
+[2020-11-06 15:33:29,411] base_page.py->open_url line:19 [INFO] : 打开url地址: https://www.91trial.com/User/Login/
+[2020-11-06 15:33:29,411] patient_search_case_test.py->test_patientSearch_success5_by_vistiManage line:82 [INFO] : test_patient_search1_by_name_success  用例开始执行
+[2020-11-06 15:33:38,832] login_ation.py->login_action line:20 [INFO] : 输入的账号是：zhxcra,  密码是：123123
+[2020-11-06 15:33:58,194] patient_search_case_test.py->test_patientSearch_success5_by_vistiManage line:93 [INFO] : test_patientSearch_success5_by_vistiManage  用例结束执行
+[2020-11-06 15:34:01,393] base_page.py->click line:102 [ERROR] : [用户名] 元素点击操作失败，原因是：Message: unknown error: Element <div id="dLabel" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">...</div> is not clickable at point (30, 724). Other element would receive the click: <div class="layui-layer-shade" id="layui-layer-shade2" times="2" style="z-index:19891015; background-color:#000; opacity:0.01; filter:alpha(opacity=1);"></div>
+  (Session info: chrome=86.0.4240.111)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+[2020-11-06 15:34:04,448] base_page.py->click line:102 [ERROR] : [退出登录] 元素点击操作失败，原因是：Message: element not visible
+  (Session info: chrome=86.0.4240.111)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+[2020-11-06 15:34:07,449] common_action.py->quit line:24 [INFO] : 账号退出登录成功
+[2020-11-06 15:34:07,456] base_page.py->exit_driver line:60 [INFO] : 关闭浏览器
+[2020-11-06 15:34:09,865] Stard_End.py->tearDown line:43 [INFO] : --------测试方法执行完毕---------------
+[2020-11-06 15:34:09,866] Stard_End.py->tearDownClass line:49 [INFO] : =====================测 试 类 执 行 完 毕=====================
+[2020-11-06 15:34:16,752] Stard_End.py->setUpClass line:18 [INFO] : =====================测 试 类 初 始 化=====================
+[2020-11-06 15:34:16,753] Stard_End.py->setUp line:26 [INFO] : --------测试方法初始化---------------
+[2020-11-06 15:34:20,019] browser.py->__get_chrome_driver line:37 [INFO] : 初始化Google浏览器并启动
+[2020-11-06 15:34:21,206] base_page.py->set_browser_max line:25 [INFO] : 浏览器最大化
+[2020-11-06 15:34:21,816] base_page.py->open_url line:19 [INFO] : 打开url地址: https://www.91trial.com/User/Login/
+[2020-11-06 15:34:21,816] patient_search_case_test.py->test_patientSearch_success5_by_vistiManage line:82 [INFO] : test_patient_search1_by_name_success  用例开始执行
+[2020-11-06 15:34:31,276] login_ation.py->login_action line:20 [INFO] : 输入的账号是：zhxcra,  密码是：123123
+[2020-11-06 15:34:50,537] patient_search_case_test.py->test_patientSearch_success5_by_vistiManage line:93 [INFO] : test_patientSearch_success5_by_vistiManage  用例结束执行
+[2020-11-06 15:34:59,758] common_action.py->quit line:24 [INFO] : 账号退出登录成功
+[2020-11-06 15:34:59,765] base_page.py->exit_driver line:60 [INFO] : 关闭浏览器
+[2020-11-06 15:35:02,415] Stard_End.py->tearDown line:43 [INFO] : --------测试方法执行完毕---------------
+[2020-11-06 15:35:02,416] Stard_End.py->tearDownClass line:49 [INFO] : =====================测 试 类 执 行 完 毕=====================

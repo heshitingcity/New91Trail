@@ -1,0 +1,4 @@
+*driver
+*.log
+config/config.ini
+/screent_shot/

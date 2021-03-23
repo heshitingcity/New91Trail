@@ -1,0 +1,1241 @@
+[2020-11-02 10:17:54,700] Stard_End.py->setUpClass line:18 [INFO] : =====================测 试 类 初 始 化=====================
+[2020-11-02 10:17:57,681] browser.py->__get_chrome_driver line:37 [INFO] : 初始化Google浏览器并启动
+[2020-11-02 10:17:58,826] base_page.py->set_browser_max line:25 [INFO] : 浏览器最大化
+[2020-11-02 10:17:59,330] base_page.py->open_url line:19 [INFO] : 打开url地址: https://www.91trial.com/User/Login/
+[2020-11-02 10:17:59,331] Stard_End.py->setUp line:30 [INFO] : --------测试方法初始化---------------
+[2020-11-02 10:17:59,331] project_search_case_test.py->test_ProjectSearch01_1_success line:25 [INFO] : test_ProjectSearch01_1_success 用例开始执行
+[2020-11-02 10:18:02,359] base_page.py->find_element line:89 [INFO] : [用户名输入框] 元素识别成功
+[2020-11-02 10:18:05,469] base_page.py->find_element line:89 [INFO] : [密码输入框] 元素识别成功
+[2020-11-02 10:18:08,581] base_page.py->find_element line:89 [INFO] : [登录按钮] 元素识别成功
+[2020-11-02 10:18:08,664] login_ation.py->login_action line:20 [INFO] : 输入的账号是：zhxcrc,  密码是：123123
+[2020-11-02 10:18:08,693] login_ation.py->default_login line:37 [INFO] : 默认的账号，密码登录成功！
+[2020-11-02 10:18:12,508] base_page.py->find_element line:89 [INFO] : [项目搜索输入框] 元素识别成功
+[2020-11-02 10:18:15,618] base_page.py->find_element line:89 [INFO] : [项目搜索按钮] 元素识别成功
+[2020-11-02 10:18:18,803] base_page.py->find_element line:89 [INFO] : [点击项目] 元素识别成功
+[2020-11-02 10:18:21,387] project_search_case_test.py->test_ProjectSearch01_1_success line:31 [INFO] : test_ProjectSearch01_1_success 用例结束执行
+[2020-11-02 10:18:21,411] base_page.py->find_element line:89 [INFO] : [菜单：受试者管理] 元素识别成功
+[2020-11-02 10:18:22,104] Stard_End.py->tearDown line:47 [INFO] : --------测试方法执行完毕---------------
+[2020-11-02 10:18:22,105] Stard_End.py->setUp line:30 [INFO] : --------测试方法初始化---------------
+[2020-11-02 10:18:22,105] project_search_case_test.py->test_ProjectSearch01_2_success line:37 [INFO] : test_ProjectSearch01_2_success 用例开始执行
+[2020-11-02 10:18:22,138] base_page.py->find_element line:89 [INFO] : [进入项目搜索按钮] 元素识别成功
+[2020-11-02 10:18:25,226] base_page.py->find_element line:89 [INFO] : [项目搜索输入框] 元素识别成功
+[2020-11-02 10:18:28,350] base_page.py->find_element line:89 [INFO] : [项目搜索按钮] 元素识别成功
+[2020-11-02 10:18:28,400] base_page.py->click line:102 [ERROR] : [项目搜索按钮] 元素点击操作失败，原因是：Message: unknown error: Element <span class="glyphicon glyphicon-search"></span> is not clickable at point (621, 84). Other element would receive the click: <input type="text" class="form-control" id="searchVal" placeholder="请输入项目名称">
+  (Session info: chrome=86.0.4240.111)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+[2020-11-02 10:18:31,422] base_page.py->find_element line:89 [INFO] : [点击搜索后的项目名称] 元素识别成功
+[2020-11-02 10:18:31,499] project_search_case_test.py->test_ProjectSearch01_2_success line:42 [INFO] : test_ProjectSearch01_2_success 用例结束执行
+[2020-11-02 10:18:31,501] Stard_End.py->tearDown line:47 [INFO] : --------测试方法执行完毕---------------
+[2020-11-02 10:18:34,545] base_page.py->find_element line:89 [INFO] : [用户名] 元素识别成功
+[2020-11-02 10:18:37,650] base_page.py->find_element line:89 [INFO] : [退出登录] 元素识别成功
+[2020-11-02 10:18:40,724] common_action.py->quit line:24 [INFO] : 账号退出登录成功
+[2020-11-02 10:18:40,730] base_page.py->exit_driver line:60 [INFO] : 关闭浏览器
+[2020-11-02 10:18:43,348] Stard_End.py->tearDownClass line:56 [INFO] : =====================测 试 类 执 行 完 毕=====================
+[2020-11-02 10:18:43,348] Stard_End.py->tearDownClass line:57 [INFO] :                                                                
+[2020-11-02 10:53:20,222] Stard_End.py->setUpClass line:18 [INFO] : =====================测 试 类 初 始 化=====================
+[2020-11-02 10:53:23,315] browser.py->__get_chrome_driver line:37 [INFO] : 初始化Google浏览器并启动
+[2020-11-02 10:53:24,458] base_page.py->set_browser_max line:25 [INFO] : 浏览器最大化
+[2020-11-02 10:53:24,948] base_page.py->open_url line:19 [INFO] : 打开url地址: https://www.91trial.com/User/Login/
+[2020-11-02 10:53:24,949] Stard_End.py->setUp line:30 [INFO] : --------测试方法初始化---------------
+[2020-11-02 10:53:24,949] project_search_case_test.py->test_ProjectSearch01_1_success line:25 [INFO] : test_ProjectSearch01_1_success 用例开始执行
+[2020-11-02 10:53:27,977] base_page.py->find_element line:89 [INFO] : [用户名输入框] 元素识别成功
+[2020-11-02 10:53:31,083] base_page.py->find_element line:89 [INFO] : [密码输入框] 元素识别成功
+[2020-11-02 10:53:34,175] base_page.py->find_element line:89 [INFO] : [登录按钮] 元素识别成功
+[2020-11-02 10:53:34,250] login_ation.py->login_action line:20 [INFO] : 输入的账号是：zhxcrc,  密码是：123123
+[2020-11-02 10:53:34,266] login_ation.py->default_login line:37 [INFO] : 默认的账号，密码登录成功！
+[2020-11-02 10:53:42,751] base_page.py->find_element line:89 [INFO] : [项目搜索输入框] 元素识别成功
+[2020-11-02 10:53:45,834] base_page.py->find_element line:89 [INFO] : [项目搜索按钮] 元素识别成功
+[2020-11-02 10:53:49,023] base_page.py->find_element line:89 [INFO] : [点击项目] 元素识别成功
+[2020-11-02 10:53:52,872] project_search_case_test.py->test_ProjectSearch01_1_success line:31 [INFO] : test_ProjectSearch01_1_success 用例结束执行
+[2020-11-02 10:53:52,892] base_page.py->find_element line:89 [INFO] : [菜单：受试者管理] 元素识别成功
+[2020-11-02 10:54:04,023] base_page.py->find_element line:91 [ERROR] : [查看访视_筛选访视] 元素识别失败，原因是： Message: 
+
+[2020-11-02 10:54:04,023] base_page.py->click line:102 [ERROR] : [查看访视_筛选访视] 元素点击操作失败，原因是：unsupported operand type(s) for +: 'NoneType' and 'str'
+[2020-11-02 10:54:04,025] Stard_End.py->tearDown line:47 [INFO] : --------测试方法执行完毕---------------
+[2020-11-02 10:54:04,026] Stard_End.py->setUp line:30 [INFO] : --------测试方法初始化---------------
+[2020-11-02 10:54:04,026] project_search_case_test.py->test_ProjectSearch01_2_success line:37 [INFO] : test_ProjectSearch01_2_success 用例开始执行
+[2020-11-02 10:54:04,068] base_page.py->find_element line:89 [INFO] : [进入项目搜索按钮] 元素识别成功
+[2020-11-02 10:54:07,148] base_page.py->find_element line:89 [INFO] : [项目搜索输入框] 元素识别成功
+[2020-11-02 10:54:10,278] base_page.py->find_element line:89 [INFO] : [项目搜索按钮] 元素识别成功
+[2020-11-02 10:54:10,318] base_page.py->click line:102 [ERROR] : [项目搜索按钮] 元素点击操作失败，原因是：Message: unknown error: Element <span class="glyphicon glyphicon-search"></span> is not clickable at point (621, 84). Other element would receive the click: <input type="text" class="form-control" id="searchVal" placeholder="请输入项目名称">
+  (Session info: chrome=86.0.4240.111)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+[2020-11-02 10:54:13,351] base_page.py->find_element line:89 [INFO] : [点击搜索后的项目名称] 元素识别成功
+[2020-11-02 10:54:13,442] project_search_case_test.py->test_ProjectSearch01_2_success line:42 [INFO] : test_ProjectSearch01_2_success 用例结束执行
+[2020-11-02 10:54:13,445] Stard_End.py->tearDown line:47 [INFO] : --------测试方法执行完毕---------------
+[2020-11-02 10:54:16,497] base_page.py->find_element line:89 [INFO] : [用户名] 元素识别成功
+[2020-11-02 10:54:19,595] base_page.py->find_element line:89 [INFO] : [退出登录] 元素识别成功
+[2020-11-02 10:54:22,660] common_action.py->quit line:24 [INFO] : 账号退出登录成功
+[2020-11-02 10:54:22,660] base_page.py->exit_driver line:60 [INFO] : 关闭浏览器
+[2020-11-02 10:54:24,951] Stard_End.py->tearDownClass line:56 [INFO] : =====================测 试 类 执 行 完 毕=====================
+[2020-11-02 10:54:24,951] Stard_End.py->tearDownClass line:57 [INFO] :                                                                
+[2020-11-02 14:47:18,965] Stard_End.py->setUpClass line:18 [INFO] : =====================测 试 类 初 始 化=====================
+[2020-11-02 14:47:21,579] browser.py->__get_chrome_driver line:37 [INFO] : 初始化Google浏览器并启动
+[2020-11-02 14:47:22,709] base_page.py->set_browser_max line:25 [INFO] : 浏览器最大化
+[2020-11-02 14:47:23,150] base_page.py->open_url line:19 [INFO] : 打开url地址: https://www.91trial.com/User/Login/
+[2020-11-02 14:47:23,150] Stard_End.py->setUp line:30 [INFO] : --------测试方法初始化---------------
+[2020-11-02 14:47:23,150] project_search_case_test.py->test_ProjectSearch01_1_success line:25 [INFO] : test_ProjectSearch01_1_success 用例开始执行
+[2020-11-02 14:47:26,178] base_page.py->find_element line:89 [INFO] : [用户名输入框] 元素识别成功
+[2020-11-02 14:47:29,285] base_page.py->find_element line:89 [INFO] : [密码输入框] 元素识别成功
+[2020-11-02 14:47:32,404] base_page.py->find_element line:89 [INFO] : [登录按钮] 元素识别成功
+[2020-11-02 14:47:32,492] login_ation.py->login_action line:20 [INFO] : 输入的账号是：zhxcrc,  密码是：123123
+[2020-11-02 14:47:32,521] login_ation.py->default_login line:37 [INFO] : 默认的账号，密码登录成功！
+[2020-11-02 14:47:35,742] base_page.py->find_element line:89 [INFO] : [项目搜索输入框] 元素识别成功
+[2020-11-02 14:47:38,827] base_page.py->find_element line:89 [INFO] : [项目搜索按钮] 元素识别成功
+[2020-11-02 14:47:42,010] base_page.py->find_element line:89 [INFO] : [点击项目] 元素识别成功
+[2020-11-02 14:47:44,363] project_search_case_test.py->test_ProjectSearch01_1_success line:31 [INFO] : test_ProjectSearch01_1_success 用例结束执行
+[2020-11-02 14:47:44,381] base_page.py->find_element line:89 [INFO] : [菜单：受试者管理] 元素识别成功
+[2020-11-02 14:47:44,987] base_page.py->find_element line:89 [INFO] : [姓名/编号搜索输入] 元素识别成功
+[2020-11-02 14:47:55,040] base_page.py->input line:111 [ERROR] : [姓名/编号搜索输入]元素输入数据失败，原因是：Message: element not visible
+  (Session info: chrome=86.0.4240.111)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+[2020-11-02 14:48:05,565] base_page.py->find_element line:91 [ERROR] : [姓名/编号搜索按钮] 元素识别失败，原因是： Message: 
+
+[2020-11-02 14:48:05,565] base_page.py->click line:102 [ERROR] : [姓名/编号搜索按钮] 元素点击操作失败，原因是：unsupported operand type(s) for +: 'NoneType' and 'str'
+[2020-11-02 14:48:05,584] base_page.py->find_element line:89 [INFO] : [查看访视_筛选访视] 元素识别成功
+[2020-11-02 14:48:05,664] Stard_End.py->tearDown line:47 [INFO] : --------测试方法执行完毕---------------
+[2020-11-02 14:48:05,665] Stard_End.py->setUp line:30 [INFO] : --------测试方法初始化---------------
+[2020-11-02 14:48:05,665] project_search_case_test.py->test_ProjectSearch01_2_success line:38 [INFO] : test_ProjectSearch01_2_success 用例开始执行
+[2020-11-02 14:48:05,700] base_page.py->find_element line:89 [INFO] : [进入项目搜索按钮] 元素识别成功
+[2020-11-02 14:48:05,753] base_page.py->click line:102 [ERROR] : [进入项目搜索按钮] 元素点击操作失败，原因是：Message: unknown error: Element <span class="nalSpan" style="font-size:10px;padding-top:4px">...</span> is not clickable at point (30, 112). Other element would receive the click: <div class="layui-layer-shade" id="layui-layer-shade1" times="1" style="z-index:19891014; background-color:#000; opacity:0.01; filter:alpha(opacity=1);"></div>
+  (Session info: chrome=86.0.4240.111)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+[2020-11-02 14:48:19,295] base_page.py->find_element line:91 [ERROR] : [项目搜索输入框] 元素识别失败，原因是： Message: 
+
+[2020-11-02 14:48:19,295] base_page.py->input line:111 [ERROR] : [项目搜索输入框]元素输入数据失败，原因是：unsupported operand type(s) for +: 'NoneType' and 'str'
+[2020-11-02 14:48:22,318] base_page.py->find_element line:89 [INFO] : [项目搜索按钮] 元素识别成功
+[2020-11-02 14:48:22,345] base_page.py->click line:102 [ERROR] : [项目搜索按钮] 元素点击操作失败，原因是：Message: element not visible
+  (Session info: chrome=86.0.4240.111)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+[2020-11-02 14:48:35,878] base_page.py->find_element line:91 [ERROR] : [点击搜索后的项目名称] 元素识别失败，原因是： Message: 
+
+[2020-11-02 14:48:35,878] base_page.py->click line:102 [ERROR] : [点击搜索后的项目名称] 元素点击操作失败，原因是：unsupported operand type(s) for +: 'NoneType' and 'str'
+[2020-11-02 14:48:35,878] project_search_case_test.py->test_ProjectSearch01_2_success line:43 [INFO] : test_ProjectSearch01_2_success 用例结束执行
+[2020-11-02 14:48:35,881] Stard_End.py->tearDown line:47 [INFO] : --------测试方法执行完毕---------------
+[2020-11-02 14:48:38,928] base_page.py->find_element line:89 [INFO] : [用户名] 元素识别成功
+[2020-11-02 14:48:41,865] Stard_End.py->setUpClass line:18 [INFO] : =====================测 试 类 初 始 化=====================
+[2020-11-02 14:48:44,452] browser.py->__get_chrome_driver line:37 [INFO] : 初始化Google浏览器并启动
+[2020-11-02 14:48:45,581] base_page.py->set_browser_max line:25 [INFO] : 浏览器最大化
+[2020-11-02 14:48:46,010] base_page.py->open_url line:19 [INFO] : 打开url地址: https://www.91trial.com/User/Login/
+[2020-11-02 14:48:46,010] Stard_End.py->setUp line:30 [INFO] : --------测试方法初始化---------------
+[2020-11-02 14:48:46,010] project_search_case_test.py->test_ProjectSearch01_1_success line:25 [INFO] : test_ProjectSearch01_1_success 用例开始执行
+[2020-11-02 14:48:49,042] base_page.py->find_element line:89 [INFO] : [用户名输入框] 元素识别成功
+[2020-11-02 14:48:52,144] base_page.py->find_element line:89 [INFO] : [密码输入框] 元素识别成功
+[2020-11-02 14:48:55,237] base_page.py->find_element line:89 [INFO] : [登录按钮] 元素识别成功
+[2020-11-02 14:48:55,314] login_ation.py->login_action line:20 [INFO] : 输入的账号是：zhxcrc,  密码是：123123
+[2020-11-02 14:48:55,342] login_ation.py->default_login line:37 [INFO] : 默认的账号，密码登录成功！
+[2020-11-02 14:48:58,404] base_page.py->find_element line:89 [INFO] : [项目搜索输入框] 元素识别成功
+[2020-11-02 14:49:01,498] base_page.py->find_element line:89 [INFO] : [项目搜索按钮] 元素识别成功
+[2020-11-02 14:49:04,675] base_page.py->find_element line:89 [INFO] : [点击项目] 元素识别成功
+[2020-11-02 14:49:07,127] project_search_case_test.py->test_ProjectSearch01_1_success line:31 [INFO] : test_ProjectSearch01_1_success 用例结束执行
+[2020-11-02 14:49:07,152] base_page.py->find_element line:89 [INFO] : [菜单：受试者管理] 元素识别成功
+[2020-11-02 14:49:07,705] base_page.py->find_element line:89 [INFO] : [姓名/编号搜索输入] 元素识别成功
+[2020-11-02 14:49:17,724] base_page.py->input line:111 [ERROR] : [姓名/编号搜索输入]元素输入数据失败，原因是：Message: element not visible
+  (Session info: chrome=86.0.4240.111)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+[2020-11-02 14:49:28,254] base_page.py->find_element line:91 [ERROR] : [姓名/编号搜索按钮] 元素识别失败，原因是： Message: 
+
+[2020-11-02 14:49:28,254] base_page.py->click line:102 [ERROR] : [姓名/编号搜索按钮] 元素点击操作失败，原因是：unsupported operand type(s) for +: 'NoneType' and 'str'
+[2020-11-02 14:49:28,271] base_page.py->find_element line:89 [INFO] : [查看访视_筛选访视] 元素识别成功
+[2020-11-02 14:49:28,383] Stard_End.py->tearDown line:47 [INFO] : --------测试方法执行完毕---------------
+[2020-11-02 14:49:28,384] Stard_End.py->setUp line:30 [INFO] : --------测试方法初始化---------------
+[2020-11-02 14:49:28,384] project_search_case_test.py->test_ProjectSearch01_2_success line:38 [INFO] : test_ProjectSearch01_2_success 用例开始执行
+[2020-11-02 14:49:28,425] base_page.py->find_element line:89 [INFO] : [进入项目搜索按钮] 元素识别成功
+[2020-11-02 14:49:28,481] base_page.py->click line:102 [ERROR] : [进入项目搜索按钮] 元素点击操作失败，原因是：Message: unknown error: Element <span class="nalSpan" style="font-size:10px;padding-top:4px">...</span> is not clickable at point (30, 112). Other element would receive the click: <div class="layui-layer-shade" id="layui-layer-shade1" times="1" style="z-index:19891014; background-color:#000; opacity:0.01; filter:alpha(opacity=1);"></div>
+  (Session info: chrome=86.0.4240.111)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+[2020-11-02 14:49:42,012] base_page.py->find_element line:91 [ERROR] : [项目搜索输入框] 元素识别失败，原因是： Message: 
+
+[2020-11-02 14:49:42,012] base_page.py->input line:111 [ERROR] : [项目搜索输入框]元素输入数据失败，原因是：unsupported operand type(s) for +: 'NoneType' and 'str'
+[2020-11-02 14:49:45,035] base_page.py->find_element line:89 [INFO] : [项目搜索按钮] 元素识别成功
+[2020-11-02 14:49:45,060] base_page.py->click line:102 [ERROR] : [项目搜索按钮] 元素点击操作失败，原因是：Message: element not visible
+  (Session info: chrome=86.0.4240.111)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+[2020-11-02 14:49:58,580] base_page.py->find_element line:91 [ERROR] : [点击搜索后的项目名称] 元素识别失败，原因是： Message: 
+
+[2020-11-02 14:49:58,580] base_page.py->click line:102 [ERROR] : [点击搜索后的项目名称] 元素点击操作失败，原因是：unsupported operand type(s) for +: 'NoneType' and 'str'
+[2020-11-02 14:49:58,580] project_search_case_test.py->test_ProjectSearch01_2_success line:43 [INFO] : test_ProjectSearch01_2_success 用例结束执行
+[2020-11-02 14:49:58,583] Stard_End.py->tearDown line:47 [INFO] : --------测试方法执行完毕---------------
+[2020-11-02 14:50:01,628] base_page.py->find_element line:89 [INFO] : [用户名] 元素识别成功
+[2020-11-02 14:50:04,725] base_page.py->find_element line:89 [INFO] : [退出登录] 元素识别成功
+[2020-11-02 14:50:07,795] common_action.py->quit line:24 [INFO] : 账号退出登录成功
+[2020-11-02 14:50:07,799] base_page.py->exit_driver line:60 [INFO] : 关闭浏览器
+[2020-11-02 14:50:10,186] Stard_End.py->tearDownClass line:56 [INFO] : =====================测 试 类 执 行 完 毕=====================
+[2020-11-02 14:50:10,186] Stard_End.py->tearDownClass line:57 [INFO] :                                                                
+[2020-11-02 14:56:18,354] Stard_End.py->setUpClass line:18 [INFO] : =====================测 试 类 初 始 化=====================
+[2020-11-02 14:56:20,980] browser.py->__get_chrome_driver line:37 [INFO] : 初始化Google浏览器并启动
+[2020-11-02 14:56:22,112] base_page.py->set_browser_max line:25 [INFO] : 浏览器最大化
+[2020-11-02 14:56:22,611] base_page.py->open_url line:19 [INFO] : 打开url地址: https://www.91trial.com/User/Login/
+[2020-11-02 14:56:22,611] Stard_End.py->setUp line:30 [INFO] : --------测试方法初始化---------------
+[2020-11-02 14:56:22,612] project_search_case_test.py->test_ProjectSearch01_1_success line:25 [INFO] : test_ProjectSearch01_1_success 用例开始执行
+[2020-11-02 14:56:25,641] base_page.py->find_element line:89 [INFO] : [用户名输入框] 元素识别成功
+[2020-11-02 14:56:28,752] base_page.py->find_element line:89 [INFO] : [密码输入框] 元素识别成功
+[2020-11-02 14:56:31,867] base_page.py->find_element line:89 [INFO] : [登录按钮] 元素识别成功
+[2020-11-02 14:56:31,924] login_ation.py->login_action line:20 [INFO] : 输入的账号是：zhxcrc,  密码是：123123
+[2020-11-02 14:56:31,941] login_ation.py->default_login line:37 [INFO] : 默认的账号，密码登录成功！
+[2020-11-02 14:56:36,992] base_page.py->find_element line:89 [INFO] : [项目搜索输入框] 元素识别成功
+[2020-11-02 14:56:40,285] base_page.py->find_element line:89 [INFO] : [项目搜索按钮] 元素识别成功
+[2020-11-02 14:56:43,507] base_page.py->find_element line:89 [INFO] : [点击项目] 元素识别成功
+[2020-11-02 14:56:46,221] project_search_case_test.py->test_ProjectSearch01_1_success line:31 [INFO] : test_ProjectSearch01_1_success 用例结束执行
+[2020-11-02 14:56:46,224] Stard_End.py->tearDown line:47 [INFO] : --------测试方法执行完毕---------------
+[2020-11-02 14:56:46,224] Stard_End.py->setUp line:30 [INFO] : --------测试方法初始化---------------
+[2020-11-02 14:56:46,224] project_search_case_test.py->test_ProjectSearch01_2_success line:36 [INFO] : test_ProjectSearch01_2_success 用例开始执行
+[2020-11-02 14:56:46,256] base_page.py->find_element line:89 [INFO] : [进入项目搜索按钮] 元素识别成功
+[2020-11-02 14:56:49,353] base_page.py->find_element line:89 [INFO] : [项目搜索输入框] 元素识别成功
+[2020-11-02 14:56:52,467] base_page.py->find_element line:89 [INFO] : [项目搜索按钮] 元素识别成功
+[2020-11-02 14:56:55,564] base_page.py->find_element line:89 [INFO] : [点击搜索后的项目名称] 元素识别成功
+[2020-11-02 14:56:55,658] project_search_case_test.py->test_ProjectSearch01_2_success line:41 [INFO] : test_ProjectSearch01_2_success 用例结束执行
+[2020-11-02 14:56:55,661] Stard_End.py->tearDown line:47 [INFO] : --------测试方法执行完毕---------------
+[2020-11-02 14:56:58,715] base_page.py->find_element line:89 [INFO] : [用户名] 元素识别成功
+[2020-11-02 14:57:01,797] base_page.py->find_element line:89 [INFO] : [退出登录] 元素识别成功
+[2020-11-02 14:57:04,862] common_action.py->quit line:24 [INFO] : 账号退出登录成功
+[2020-11-02 14:57:04,868] base_page.py->exit_driver line:60 [INFO] : 关闭浏览器
+[2020-11-02 14:57:08,386] Stard_End.py->tearDownClass line:56 [INFO] : =====================测 试 类 执 行 完 毕=====================
+[2020-11-02 14:57:08,386] Stard_End.py->tearDownClass line:57 [INFO] :                                                                
+[2020-11-02 15:24:38,773] Stard_End.py->setUpClass line:18 [INFO] : =====================测 试 类 初 始 化=====================
+[2020-11-02 15:24:41,342] browser.py->__get_chrome_driver line:37 [INFO] : 初始化Google浏览器并启动
+[2020-11-02 15:24:42,468] base_page.py->set_browser_max line:25 [INFO] : 浏览器最大化
+[2020-11-02 15:24:42,946] base_page.py->open_url line:19 [INFO] : 打开url地址: https://www.91trial.com/User/Login/
+[2020-11-02 15:24:42,947] Stard_End.py->setUp line:30 [INFO] : --------测试方法初始化---------------
+[2020-11-02 15:24:42,947] patient_search_case_test.py->test_patient_search_by_name line:20 [INFO] : test_patient_search_by_name  用例开始执行
+[2020-11-02 15:24:45,974] base_page.py->find_element line:89 [INFO] : [用户名输入框] 元素识别成功
+[2020-11-02 15:24:49,076] base_page.py->find_element line:89 [INFO] : [密码输入框] 元素识别成功
+[2020-11-02 15:24:52,199] base_page.py->find_element line:89 [INFO] : [登录按钮] 元素识别成功
+[2020-11-02 15:24:52,281] login_ation.py->login_action line:20 [INFO] : 输入的账号是：zhxcrc,  密码是：123123
+[2020-11-02 15:24:52,296] login_ation.py->default_login line:37 [INFO] : 默认的账号，密码登录成功！
+[2020-11-02 15:24:57,309] Stard_End.py->tearDown line:47 [INFO] : --------测试方法执行完毕---------------
+[2020-11-02 15:25:00,358] base_page.py->find_element line:89 [INFO] : [用户名] 元素识别成功
+[2020-11-02 15:25:03,455] base_page.py->find_element line:89 [INFO] : [退出登录] 元素识别成功
+[2020-11-02 15:25:06,520] common_action.py->quit line:24 [INFO] : 账号退出登录成功
+[2020-11-02 15:25:06,526] base_page.py->exit_driver line:60 [INFO] : 关闭浏览器
+[2020-11-02 15:25:09,125] Stard_End.py->tearDownClass line:56 [INFO] : =====================测 试 类 执 行 完 毕=====================
+[2020-11-02 15:25:09,125] Stard_End.py->tearDownClass line:57 [INFO] :                                                                
+[2020-11-02 15:25:09,126] Stard_End.py->setUpClass line:18 [INFO] : =====================测 试 类 初 始 化=====================
+[2020-11-02 15:25:11,634] browser.py->__get_chrome_driver line:37 [INFO] : 初始化Google浏览器并启动
+[2020-11-02 15:25:12,761] base_page.py->set_browser_max line:25 [INFO] : 浏览器最大化
+[2020-11-02 15:25:13,255] base_page.py->open_url line:19 [INFO] : 打开url地址: https://www.91trial.com/User/Login/
+[2020-11-02 15:25:13,255] Stard_End.py->setUp line:30 [INFO] : --------测试方法初始化---------------
+[2020-11-02 15:25:13,255] project_search_case_test.py->test_ProjectSearch01_1_success line:22 [INFO] : test_ProjectSearch01_1_success 用例开始执行
+[2020-11-02 15:25:16,283] base_page.py->find_element line:89 [INFO] : [用户名输入框] 元素识别成功
+[2020-11-02 15:25:19,401] base_page.py->find_element line:89 [INFO] : [密码输入框] 元素识别成功
+[2020-11-02 15:25:22,518] base_page.py->find_element line:89 [INFO] : [登录按钮] 元素识别成功
+[2020-11-02 15:25:22,601] login_ation.py->login_action line:20 [INFO] : 输入的账号是：zhxcrc,  密码是：123123
+[2020-11-02 15:25:22,613] login_ation.py->default_login line:37 [INFO] : 默认的账号，密码登录成功！
+[2020-11-02 15:25:27,949] base_page.py->find_element line:89 [INFO] : [项目搜索输入框] 元素识别成功
+[2020-11-02 15:25:31,199] base_page.py->find_element line:89 [INFO] : [项目搜索按钮] 元素识别成功
+[2020-11-02 15:25:34,399] base_page.py->find_element line:89 [INFO] : [点击项目] 元素识别成功
+[2020-11-02 15:25:37,440] project_search_case_test.py->test_ProjectSearch01_1_success line:28 [INFO] : test_ProjectSearch01_1_success 用例结束执行
+[2020-11-02 15:25:37,442] Stard_End.py->tearDown line:47 [INFO] : --------测试方法执行完毕---------------
+[2020-11-02 15:25:37,443] Stard_End.py->setUp line:30 [INFO] : --------测试方法初始化---------------
+[2020-11-02 15:25:37,443] project_search_case_test.py->test_ProjectSearch01_2_success line:33 [INFO] : test_ProjectSearch01_2_success 用例开始执行
+[2020-11-02 15:25:37,472] base_page.py->find_element line:89 [INFO] : [进入项目搜索按钮] 元素识别成功
+[2020-11-02 15:25:40,564] base_page.py->find_element line:89 [INFO] : [项目搜索输入框] 元素识别成功
+[2020-11-02 15:25:43,662] base_page.py->find_element line:89 [INFO] : [项目搜索按钮] 元素识别成功
+[2020-11-02 15:25:46,760] base_page.py->find_element line:89 [INFO] : [点击搜索后的项目名称] 元素识别成功
+[2020-11-02 15:25:46,854] project_search_case_test.py->test_ProjectSearch01_2_success line:38 [INFO] : test_ProjectSearch01_2_success 用例结束执行
+[2020-11-02 15:25:46,857] Stard_End.py->tearDown line:47 [INFO] : --------测试方法执行完毕---------------
+[2020-11-02 15:25:49,910] base_page.py->find_element line:89 [INFO] : [用户名] 元素识别成功
+[2020-11-02 15:25:53,022] base_page.py->find_element line:89 [INFO] : [退出登录] 元素识别成功
+[2020-11-02 15:25:56,087] common_action.py->quit line:24 [INFO] : 账号退出登录成功
+[2020-11-02 15:25:56,092] base_page.py->exit_driver line:60 [INFO] : 关闭浏览器
+[2020-11-02 15:25:59,344] Stard_End.py->tearDownClass line:56 [INFO] : =====================测 试 类 执 行 完 毕=====================
+[2020-11-02 15:25:59,344] Stard_End.py->tearDownClass line:57 [INFO] :                                                                
+[2020-11-02 15:26:47,971] Stard_End.py->setUpClass line:18 [INFO] : =====================测 试 类 初 始 化=====================
+[2020-11-02 15:26:50,557] browser.py->__get_chrome_driver line:37 [INFO] : 初始化Google浏览器并启动
+[2020-11-02 15:26:51,698] base_page.py->set_browser_max line:25 [INFO] : 浏览器最大化
+[2020-11-02 15:26:52,116] base_page.py->open_url line:19 [INFO] : 打开url地址: https://www.91trial.com/User/Login/
+[2020-11-02 15:26:52,116] Stard_End.py->setUp line:30 [INFO] : --------测试方法初始化---------------
+[2020-11-02 15:26:52,117] patient_search_case_test.py->test_patient_search_by_name line:20 [INFO] : test_patient_search_by_name  用例开始执行
+[2020-11-02 15:26:55,143] base_page.py->find_element line:89 [INFO] : [用户名输入框] 元素识别成功
+[2020-11-02 15:26:58,243] base_page.py->find_element line:89 [INFO] : [密码输入框] 元素识别成功
+[2020-11-02 15:27:01,346] base_page.py->find_element line:89 [INFO] : [登录按钮] 元素识别成功
+[2020-11-02 15:27:01,439] login_ation.py->login_action line:20 [INFO] : 输入的账号是：zhxcrc,  密码是：123123
+[2020-11-02 15:27:01,455] login_ation.py->default_login line:37 [INFO] : 默认的账号，密码登录成功！
+[2020-11-02 15:27:06,468] Stard_End.py->tearDown line:47 [INFO] : --------测试方法执行完毕---------------
+[2020-11-02 15:27:09,507] base_page.py->find_element line:89 [INFO] : [用户名] 元素识别成功
+[2020-11-02 15:27:12,603] base_page.py->find_element line:89 [INFO] : [退出登录] 元素识别成功
+[2020-11-02 15:27:15,665] common_action.py->quit line:24 [INFO] : 账号退出登录成功
+[2020-11-02 15:27:15,672] base_page.py->exit_driver line:60 [INFO] : 关闭浏览器
+[2020-11-02 15:27:17,907] Stard_End.py->tearDownClass line:56 [INFO] : =====================测 试 类 执 行 完 毕=====================
+[2020-11-02 15:27:17,907] Stard_End.py->tearDownClass line:57 [INFO] :                                                                
+[2020-11-02 15:27:17,908] Stard_End.py->setUpClass line:18 [INFO] : =====================测 试 类 初 始 化=====================
+[2020-11-02 15:27:20,435] browser.py->__get_chrome_driver line:37 [INFO] : 初始化Google浏览器并启动
+[2020-11-02 15:27:21,568] base_page.py->set_browser_max line:25 [INFO] : 浏览器最大化
+[2020-11-02 15:27:22,049] base_page.py->open_url line:19 [INFO] : 打开url地址: https://www.91trial.com/User/Login/
+[2020-11-02 15:27:22,049] Stard_End.py->setUp line:30 [INFO] : --------测试方法初始化---------------
+[2020-11-02 15:27:22,050] project_search_case_test.py->test_ProjectSearch01_1_success line:22 [INFO] : test_ProjectSearch01_1_success 用例开始执行
+[2020-11-02 15:27:35,589] base_page.py->find_element line:91 [ERROR] : [项目搜索输入框] 元素识别失败，原因是： Message: 
+
+[2020-11-02 15:27:35,589] base_page.py->input line:111 [ERROR] : [项目搜索输入框]元素输入数据失败，原因是：unsupported operand type(s) for +: 'NoneType' and 'str'
+[2020-11-02 15:27:49,134] base_page.py->find_element line:91 [ERROR] : [项目搜索按钮] 元素识别失败，原因是： Message: 
+
+[2020-11-02 15:27:49,134] base_page.py->click line:102 [ERROR] : [项目搜索按钮] 元素点击操作失败，原因是：unsupported operand type(s) for +: 'NoneType' and 'str'
+[2020-11-02 15:28:02,681] base_page.py->find_element line:91 [ERROR] : [点击项目] 元素识别失败，原因是： Message: 
+
+[2020-11-02 15:28:02,681] base_page.py->click line:102 [ERROR] : [点击项目] 元素点击操作失败，原因是：unsupported operand type(s) for +: 'NoneType' and 'str'
+[2020-11-02 15:28:02,682] project_search_case_test.py->test_ProjectSearch01_1_success line:28 [INFO] : test_ProjectSearch01_1_success 用例结束执行
+[2020-11-02 15:28:02,684] Stard_End.py->tearDown line:47 [INFO] : --------测试方法执行完毕---------------
+[2020-11-02 15:28:02,684] Stard_End.py->setUp line:30 [INFO] : --------测试方法初始化---------------
+[2020-11-02 15:28:02,684] project_search_case_test.py->test_ProjectSearch01_2_success line:33 [INFO] : test_ProjectSearch01_2_success 用例开始执行
+[2020-11-02 15:28:13,246] base_page.py->find_element line:91 [ERROR] : [进入项目搜索按钮] 元素识别失败，原因是： Message: 
+
+[2020-11-02 15:28:13,246] base_page.py->click line:102 [ERROR] : [进入项目搜索按钮] 元素点击操作失败，原因是：unsupported operand type(s) for +: 'NoneType' and 'str'
+[2020-11-02 15:28:26,767] base_page.py->find_element line:91 [ERROR] : [项目搜索输入框] 元素识别失败，原因是： Message: 
+
+[2020-11-02 15:28:26,767] base_page.py->input line:111 [ERROR] : [项目搜索输入框]元素输入数据失败，原因是：unsupported operand type(s) for +: 'NoneType' and 'str'
+[2020-11-02 15:28:34,380] Stard_End.py->setUpClass line:18 [INFO] : =====================测 试 类 初 始 化=====================
+[2020-11-02 15:28:36,925] browser.py->__get_chrome_driver line:37 [INFO] : 初始化Google浏览器并启动
+[2020-11-02 15:28:38,052] base_page.py->set_browser_max line:25 [INFO] : 浏览器最大化
+[2020-11-02 15:28:38,471] base_page.py->open_url line:19 [INFO] : 打开url地址: https://www.91trial.com/User/Login/
+[2020-11-02 15:28:38,471] Stard_End.py->setUp line:30 [INFO] : --------测试方法初始化---------------
+[2020-11-02 15:28:38,471] patient_search_case_test.py->test_patient_search_by_name line:20 [INFO] : test_patient_search_by_name  用例开始执行
+[2020-11-02 15:28:41,500] base_page.py->find_element line:89 [INFO] : [用户名输入框] 元素识别成功
+[2020-11-02 15:28:44,601] base_page.py->find_element line:89 [INFO] : [密码输入框] 元素识别成功
+[2020-11-02 15:28:47,695] base_page.py->find_element line:89 [INFO] : [登录按钮] 元素识别成功
+[2020-11-02 15:28:47,762] login_ation.py->login_action line:20 [INFO] : 输入的账号是：zhxcrc,  密码是：123123
+[2020-11-02 15:28:47,776] login_ation.py->default_login line:37 [INFO] : 默认的账号，密码登录成功！
+[2020-11-02 15:28:52,794] Stard_End.py->tearDown line:47 [INFO] : --------测试方法执行完毕---------------
+[2020-11-02 15:28:55,849] base_page.py->find_element line:89 [INFO] : [用户名] 元素识别成功
+[2020-11-02 15:28:58,950] base_page.py->find_element line:89 [INFO] : [退出登录] 元素识别成功
+[2020-11-02 15:29:02,015] common_action.py->quit line:24 [INFO] : 账号退出登录成功
+[2020-11-02 15:29:02,021] base_page.py->exit_driver line:60 [INFO] : 关闭浏览器
+[2020-11-02 15:29:04,234] Stard_End.py->tearDownClass line:56 [INFO] : =====================测 试 类 执 行 完 毕=====================
+[2020-11-02 15:29:04,235] Stard_End.py->tearDownClass line:57 [INFO] :                                                                
+[2020-11-02 15:29:04,235] Stard_End.py->setUpClass line:18 [INFO] : =====================测 试 类 初 始 化=====================
+[2020-11-02 15:29:06,867] browser.py->__get_chrome_driver line:37 [INFO] : 初始化Google浏览器并启动
+[2020-11-02 15:29:07,998] base_page.py->set_browser_max line:25 [INFO] : 浏览器最大化
+[2020-11-02 15:29:08,420] base_page.py->open_url line:19 [INFO] : 打开url地址: https://www.91trial.com/User/Login/
+[2020-11-02 15:29:08,420] Stard_End.py->setUp line:30 [INFO] : --------测试方法初始化---------------
+[2020-11-02 15:29:08,421] project_search_case_test.py->test_ProjectSearch01_1_success line:22 [INFO] : test_ProjectSearch01_1_success 用例开始执行
+[2020-11-02 15:29:21,978] base_page.py->find_element line:91 [ERROR] : [项目搜索输入框] 元素识别失败，原因是： Message: 
+
+[2020-11-02 15:29:21,978] base_page.py->input line:111 [ERROR] : [项目搜索输入框]元素输入数据失败，原因是：unsupported operand type(s) for +: 'NoneType' and 'str'
+[2020-11-02 15:29:35,501] base_page.py->find_element line:91 [ERROR] : [项目搜索按钮] 元素识别失败，原因是： Message: 
+
+[2020-11-02 15:29:35,501] base_page.py->click line:102 [ERROR] : [项目搜索按钮] 元素点击操作失败，原因是：unsupported operand type(s) for +: 'NoneType' and 'str'
+[2020-11-02 15:29:49,024] base_page.py->find_element line:91 [ERROR] : [点击项目] 元素识别失败，原因是： Message: 
+
+[2020-11-02 15:29:49,024] base_page.py->click line:102 [ERROR] : [点击项目] 元素点击操作失败，原因是：unsupported operand type(s) for +: 'NoneType' and 'str'
+[2020-11-02 15:29:49,024] project_search_case_test.py->test_ProjectSearch01_1_success line:28 [INFO] : test_ProjectSearch01_1_success 用例结束执行
+[2020-11-02 15:29:49,027] Stard_End.py->tearDown line:47 [INFO] : --------测试方法执行完毕---------------
+[2020-11-02 15:29:49,027] Stard_End.py->setUp line:30 [INFO] : --------测试方法初始化---------------
+[2020-11-02 15:29:49,027] project_search_case_test.py->test_ProjectSearch01_2_success line:33 [INFO] : test_ProjectSearch01_2_success 用例开始执行
+[2020-11-02 15:29:59,595] base_page.py->find_element line:91 [ERROR] : [进入项目搜索按钮] 元素识别失败，原因是： Message: 
+
+[2020-11-02 15:29:59,595] base_page.py->click line:102 [ERROR] : [进入项目搜索按钮] 元素点击操作失败，原因是：unsupported operand type(s) for +: 'NoneType' and 'str'
+[2020-11-02 15:30:13,119] base_page.py->find_element line:91 [ERROR] : [项目搜索输入框] 元素识别失败，原因是： Message: 
+
+[2020-11-02 15:30:13,119] base_page.py->input line:111 [ERROR] : [项目搜索输入框]元素输入数据失败，原因是：unsupported operand type(s) for +: 'NoneType' and 'str'
+[2020-11-02 15:30:26,680] base_page.py->find_element line:91 [ERROR] : [项目搜索按钮] 元素识别失败，原因是： Message: 
+
+[2020-11-02 15:30:26,680] base_page.py->click line:102 [ERROR] : [项目搜索按钮] 元素点击操作失败，原因是：unsupported operand type(s) for +: 'NoneType' and 'str'
+[2020-11-02 15:30:40,201] base_page.py->find_element line:91 [ERROR] : [点击搜索后的项目名称] 元素识别失败，原因是： Message: 
+
+[2020-11-02 15:30:40,201] base_page.py->click line:102 [ERROR] : [点击搜索后的项目名称] 元素点击操作失败，原因是：unsupported operand type(s) for +: 'NoneType' and 'str'
+[2020-11-02 15:30:40,201] project_search_case_test.py->test_ProjectSearch01_2_success line:38 [INFO] : test_ProjectSearch01_2_success 用例结束执行
+[2020-11-02 15:30:40,204] Stard_End.py->tearDown line:47 [INFO] : --------测试方法执行完毕---------------
+[2020-11-02 15:30:53,758] base_page.py->find_element line:91 [ERROR] : [用户名] 元素识别失败，原因是： Message: 
+
+[2020-11-02 15:30:53,758] base_page.py->click line:102 [ERROR] : [用户名] 元素点击操作失败，原因是：unsupported operand type(s) for +: 'NoneType' and 'str'
+[2020-11-02 15:31:07,312] base_page.py->find_element line:91 [ERROR] : [退出登录] 元素识别失败，原因是： Message: 
+
+[2020-11-02 15:31:07,312] base_page.py->click line:102 [ERROR] : [退出登录] 元素点击操作失败，原因是：unsupported operand type(s) for +: 'NoneType' and 'str'
+[2020-11-02 15:31:10,313] common_action.py->quit line:24 [INFO] : 账号退出登录成功
+[2020-11-02 15:31:10,321] base_page.py->exit_driver line:60 [INFO] : 关闭浏览器
+[2020-11-02 15:31:12,573] Stard_End.py->tearDownClass line:56 [INFO] : =====================测 试 类 执 行 完 毕=====================
+[2020-11-02 15:31:12,573] Stard_End.py->tearDownClass line:57 [INFO] :                                                                
+[2020-11-02 15:31:57,241] Stard_End.py->setUpClass line:18 [INFO] : =====================测 试 类 初 始 化=====================
+[2020-11-02 15:31:59,892] browser.py->__get_chrome_driver line:37 [INFO] : 初始化Google浏览器并启动
+[2020-11-02 15:32:01,023] base_page.py->set_browser_max line:25 [INFO] : 浏览器最大化
+[2020-11-02 15:32:01,594] base_page.py->open_url line:19 [INFO] : 打开url地址: https://www.91trial.com/User/Login/
+[2020-11-02 15:32:01,594] Stard_End.py->setUp line:30 [INFO] : --------测试方法初始化---------------
+[2020-11-02 15:32:01,595] patient_search_case_test.py->test_patient_search_by_name line:20 [INFO] : test_patient_search_by_name  用例开始执行
+[2020-11-02 15:32:04,621] base_page.py->find_element line:89 [INFO] : [用户名输入框] 元素识别成功
+[2020-11-02 15:32:07,714] base_page.py->find_element line:89 [INFO] : [密码输入框] 元素识别成功
+[2020-11-02 15:32:10,826] base_page.py->find_element line:89 [INFO] : [登录按钮] 元素识别成功
+[2020-11-02 15:32:10,906] login_ation.py->login_action line:20 [INFO] : 输入的账号是：zhxcrc,  密码是：123123
+[2020-11-02 15:32:10,933] login_ation.py->default_login line:37 [INFO] : 默认的账号，密码登录成功！
+[2020-11-02 15:32:15,953] Stard_End.py->tearDown line:47 [INFO] : --------测试方法执行完毕---------------
+[2020-11-02 15:32:19,007] base_page.py->find_element line:89 [INFO] : [用户名] 元素识别成功
+[2020-11-02 15:32:22,096] base_page.py->find_element line:89 [INFO] : [退出登录] 元素识别成功
+[2020-11-02 15:32:25,157] common_action.py->quit line:24 [INFO] : 账号退出登录成功
+[2020-11-02 15:32:25,163] base_page.py->exit_driver line:60 [INFO] : 关闭浏览器
+[2020-11-02 15:32:27,401] Stard_End.py->tearDownClass line:56 [INFO] : =====================测 试 类 执 行 完 毕=====================
+[2020-11-02 15:32:27,402] Stard_End.py->tearDownClass line:57 [INFO] :                                                                
+[2020-11-02 15:32:27,402] Stard_End.py->setUpClass line:18 [INFO] : =====================测 试 类 初 始 化=====================
+[2020-11-02 15:32:29,993] browser.py->__get_chrome_driver line:37 [INFO] : 初始化Google浏览器并启动
+[2020-11-02 15:32:31,123] base_page.py->set_browser_max line:25 [INFO] : 浏览器最大化
+[2020-11-02 15:32:31,563] base_page.py->open_url line:19 [INFO] : 打开url地址: https://www.91trial.com/User/Login/
+[2020-11-02 15:32:31,563] Stard_End.py->setUp line:30 [INFO] : --------测试方法初始化---------------
+[2020-11-02 15:32:31,564] project_search_case_test.py->test_ProjectSearch01_1_success line:22 [INFO] : test_ProjectSearch01_1_success 用例开始执行
+[2020-11-02 15:32:45,117] base_page.py->find_element line:91 [ERROR] : [项目搜索输入框] 元素识别失败，原因是： Message: 
+
+[2020-11-02 15:32:45,117] base_page.py->input line:111 [ERROR] : [项目搜索输入框]元素输入数据失败，原因是：unsupported operand type(s) for +: 'NoneType' and 'str'
+[2020-11-02 15:32:58,629] base_page.py->find_element line:91 [ERROR] : [项目搜索按钮] 元素识别失败，原因是： Message: 
+
+[2020-11-02 15:32:58,629] base_page.py->click line:102 [ERROR] : [项目搜索按钮] 元素点击操作失败，原因是：unsupported operand type(s) for +: 'NoneType' and 'str'
+[2020-11-02 15:33:12,152] base_page.py->find_element line:91 [ERROR] : [点击项目] 元素识别失败，原因是： Message: 
+
+[2020-11-02 15:33:12,152] base_page.py->click line:102 [ERROR] : [点击项目] 元素点击操作失败，原因是：unsupported operand type(s) for +: 'NoneType' and 'str'
+[2020-11-02 15:33:12,152] project_search_case_test.py->test_ProjectSearch01_1_success line:28 [INFO] : test_ProjectSearch01_1_success 用例结束执行
+[2020-11-02 15:33:12,155] Stard_End.py->tearDown line:47 [INFO] : --------测试方法执行完毕---------------
+[2020-11-02 15:33:12,155] Stard_End.py->setUp line:30 [INFO] : --------测试方法初始化---------------
+[2020-11-02 15:33:12,155] project_search_case_test.py->test_ProjectSearch01_2_success line:33 [INFO] : test_ProjectSearch01_2_success 用例开始执行
+[2020-11-02 15:33:22,698] base_page.py->find_element line:91 [ERROR] : [进入项目搜索按钮] 元素识别失败，原因是： Message: 
+
+[2020-11-02 15:33:22,698] base_page.py->click line:102 [ERROR] : [进入项目搜索按钮] 元素点击操作失败，原因是：unsupported operand type(s) for +: 'NoneType' and 'str'
+[2020-11-02 15:33:36,223] base_page.py->find_element line:91 [ERROR] : [项目搜索输入框] 元素识别失败，原因是： Message: 
+
+[2020-11-02 15:33:36,223] base_page.py->input line:111 [ERROR] : [项目搜索输入框]元素输入数据失败，原因是：unsupported operand type(s) for +: 'NoneType' and 'str'
+[2020-11-02 15:33:49,761] base_page.py->find_element line:91 [ERROR] : [项目搜索按钮] 元素识别失败，原因是： Message: 
+
+[2020-11-02 15:33:49,761] base_page.py->click line:102 [ERROR] : [项目搜索按钮] 元素点击操作失败，原因是：unsupported operand type(s) for +: 'NoneType' and 'str'
+[2020-11-02 15:34:03,318] base_page.py->find_element line:91 [ERROR] : [点击搜索后的项目名称] 元素识别失败，原因是： Message: 
+
+[2020-11-02 15:34:03,318] base_page.py->click line:102 [ERROR] : [点击搜索后的项目名称] 元素点击操作失败，原因是：unsupported operand type(s) for +: 'NoneType' and 'str'
+[2020-11-02 15:34:03,318] project_search_case_test.py->test_ProjectSearch01_2_success line:38 [INFO] : test_ProjectSearch01_2_success 用例结束执行
+[2020-11-02 15:34:03,321] Stard_End.py->tearDown line:47 [INFO] : --------测试方法执行完毕---------------
+[2020-11-02 15:34:16,867] base_page.py->find_element line:91 [ERROR] : [用户名] 元素识别失败，原因是： Message: 
+
+[2020-11-02 15:34:16,867] base_page.py->click line:102 [ERROR] : [用户名] 元素点击操作失败，原因是：unsupported operand type(s) for +: 'NoneType' and 'str'
+[2020-11-02 15:34:30,405] base_page.py->find_element line:91 [ERROR] : [退出登录] 元素识别失败，原因是： Message: 
+
+[2020-11-02 15:34:30,405] base_page.py->click line:102 [ERROR] : [退出登录] 元素点击操作失败，原因是：unsupported operand type(s) for +: 'NoneType' and 'str'
+[2020-11-02 15:34:33,406] common_action.py->quit line:24 [INFO] : 账号退出登录成功
+[2020-11-02 15:34:33,413] base_page.py->exit_driver line:60 [INFO] : 关闭浏览器
+[2020-11-02 15:34:35,652] Stard_End.py->tearDownClass line:56 [INFO] : =====================测 试 类 执 行 完 毕=====================
+[2020-11-02 15:34:35,652] Stard_End.py->tearDownClass line:57 [INFO] :                                                                
+[2020-11-02 15:57:22,523] Stard_End.py->setUpClass line:18 [INFO] : =====================测 试 类 初 始 化=====================
+[2020-11-02 15:57:25,722] browser.py->__get_chrome_driver line:37 [INFO] : 初始化Google浏览器并启动
+[2020-11-02 15:57:26,866] base_page.py->set_browser_max line:25 [INFO] : 浏览器最大化
+[2020-11-02 15:57:27,379] base_page.py->open_url line:19 [INFO] : 打开url地址: https://www.91trial.com/User/Login/
+[2020-11-02 15:57:27,380] Stard_End.py->setUp line:30 [INFO] : --------测试方法初始化---------------
+[2020-11-02 15:57:27,380] patient_search_case_test.py->test_patient_search_by_name line:20 [INFO] : test_patient_search_by_name  用例开始执行
+[2020-11-02 15:57:30,409] base_page.py->find_element line:89 [INFO] : [用户名输入框] 元素识别成功
+[2020-11-02 15:57:33,539] base_page.py->find_element line:89 [INFO] : [密码输入框] 元素识别成功
+[2020-11-02 15:57:36,682] base_page.py->find_element line:89 [INFO] : [登录按钮] 元素识别成功
+[2020-11-02 15:57:36,771] login_ation.py->login_action line:20 [INFO] : 输入的账号是：zhxcrc,  密码是：123123
+[2020-11-02 15:57:36,799] login_ation.py->default_login line:37 [INFO] : 默认的账号，密码登录成功！
+[2020-11-02 15:57:41,819] Stard_End.py->tearDown line:47 [INFO] : --------测试方法执行完毕---------------
+[2020-11-02 15:57:44,875] base_page.py->find_element line:89 [INFO] : [用户名] 元素识别成功
+[2020-11-02 15:57:47,977] base_page.py->find_element line:89 [INFO] : [退出登录] 元素识别成功
+[2020-11-02 15:57:51,046] common_action.py->quit line:24 [INFO] : 账号退出登录成功
+[2020-11-02 15:57:51,053] base_page.py->exit_driver line:60 [INFO] : 关闭浏览器
+[2020-11-02 15:57:53,375] Stard_End.py->tearDownClass line:56 [INFO] : =====================测 试 类 执 行 完 毕=====================
+[2020-11-02 15:57:53,376] Stard_End.py->tearDownClass line:57 [INFO] :                                                                
+[2020-11-02 15:57:53,376] Stard_End.py->setUpClass line:18 [INFO] : =====================测 试 类 初 始 化=====================
+[2020-11-02 15:57:56,109] browser.py->__get_chrome_driver line:37 [INFO] : 初始化Google浏览器并启动
+[2020-11-02 15:57:57,238] base_page.py->set_browser_max line:25 [INFO] : 浏览器最大化
+[2020-11-02 15:57:57,737] base_page.py->open_url line:19 [INFO] : 打开url地址: https://www.91trial.com/User/Login/
+[2020-11-02 15:57:57,737] Stard_End.py->setUp line:30 [INFO] : --------测试方法初始化---------------
+[2020-11-02 15:57:57,738] project_search_case_test.py->test_ProjectSearch01_1_success line:22 [INFO] : test_ProjectSearch01_1_success 用例开始执行
+[2020-11-02 15:58:11,310] base_page.py->find_element line:91 [ERROR] : [项目搜索输入框] 元素识别失败，原因是： Message: 
+
+[2020-11-02 15:58:11,310] base_page.py->input line:111 [ERROR] : [项目搜索输入框]元素输入数据失败，原因是：unsupported operand type(s) for +: 'NoneType' and 'str'
+[2020-11-02 15:58:24,836] base_page.py->find_element line:91 [ERROR] : [项目搜索按钮] 元素识别失败，原因是： Message: 
+
+[2020-11-02 15:58:24,836] base_page.py->click line:102 [ERROR] : [项目搜索按钮] 元素点击操作失败，原因是：unsupported operand type(s) for +: 'NoneType' and 'str'
+[2020-11-02 15:58:38,388] base_page.py->find_element line:91 [ERROR] : [点击项目] 元素识别失败，原因是： Message: 
+
+[2020-11-02 15:58:38,388] base_page.py->click line:102 [ERROR] : [点击项目] 元素点击操作失败，原因是：unsupported operand type(s) for +: 'NoneType' and 'str'
+[2020-11-02 15:58:38,388] project_search_case_test.py->test_ProjectSearch01_1_success line:27 [INFO] : test_ProjectSearch01_1_success 用例结束执行
+[2020-11-02 15:58:38,391] Stard_End.py->tearDown line:47 [INFO] : --------测试方法执行完毕---------------
+[2020-11-02 15:58:51,950] base_page.py->find_element line:91 [ERROR] : [用户名] 元素识别失败，原因是： Message: 
+
+[2020-11-02 15:58:51,950] base_page.py->click line:102 [ERROR] : [用户名] 元素点击操作失败，原因是：unsupported operand type(s) for +: 'NoneType' and 'str'
+[2020-11-02 15:59:05,505] base_page.py->find_element line:91 [ERROR] : [退出登录] 元素识别失败，原因是： Message: 
+
+[2020-11-02 15:59:05,505] base_page.py->click line:102 [ERROR] : [退出登录] 元素点击操作失败，原因是：unsupported operand type(s) for +: 'NoneType' and 'str'
+[2020-11-02 15:59:08,505] common_action.py->quit line:24 [INFO] : 账号退出登录成功
+[2020-11-02 15:59:08,514] base_page.py->exit_driver line:60 [INFO] : 关闭浏览器
+[2020-11-02 15:59:10,843] Stard_End.py->tearDownClass line:56 [INFO] : =====================测 试 类 执 行 完 毕=====================
+[2020-11-02 15:59:10,844] Stard_End.py->tearDownClass line:57 [INFO] :                                                                
+[2020-11-02 16:09:00,926] Stard_End.py->setUpClass line:18 [INFO] : =====================测 试 类 初 始 化=====================
+[2020-11-02 16:09:03,549] browser.py->__get_chrome_driver line:37 [INFO] : 初始化Google浏览器并启动
+[2020-11-02 16:09:04,677] base_page.py->set_browser_max line:25 [INFO] : 浏览器最大化
+[2020-11-02 16:09:05,232] base_page.py->open_url line:19 [INFO] : 打开url地址: https://www.91trial.com/User/Login/
+[2020-11-02 16:09:05,232] Stard_End.py->setUp line:30 [INFO] : --------测试方法初始化---------------
+[2020-11-02 16:09:05,232] patient_search_case_test.py->test_patient_search_by_name line:20 [INFO] : test_patient_search_by_name  用例开始执行
+[2020-11-02 16:09:08,266] base_page.py->find_element line:89 [INFO] : [用户名输入框] 元素识别成功
+[2020-11-02 16:09:11,369] base_page.py->find_element line:89 [INFO] : [密码输入框] 元素识别成功
+[2020-11-02 16:09:14,483] base_page.py->find_element line:89 [INFO] : [登录按钮] 元素识别成功
+[2020-11-02 16:09:14,563] login_ation.py->login_action line:20 [INFO] : 输入的账号是：zhxcrc,  密码是：123123
+[2020-11-02 16:09:14,579] login_ation.py->default_login line:37 [INFO] : 默认的账号，密码登录成功！
+[2020-11-02 16:09:19,593] Stard_End.py->tearDown line:47 [INFO] : --------测试方法执行完毕---------------
+[2020-11-02 16:09:22,634] base_page.py->find_element line:89 [INFO] : [用户名] 元素识别成功
+[2020-11-02 16:09:25,740] base_page.py->find_element line:89 [INFO] : [退出登录] 元素识别成功
+[2020-11-02 16:09:28,815] common_action.py->quit line:24 [INFO] : 账号退出登录成功
+[2020-11-02 16:09:28,821] base_page.py->exit_driver line:60 [INFO] : 关闭浏览器
+[2020-11-02 16:09:31,130] Stard_End.py->tearDownClass line:56 [INFO] : =====================测 试 类 执 行 完 毕=====================
+[2020-11-02 16:09:31,130] Stard_End.py->tearDownClass line:57 [INFO] :                                                                
+[2020-11-02 16:09:31,131] Stard_End.py->setUpClass line:18 [INFO] : =====================测 试 类 初 始 化=====================
+[2020-11-02 16:09:33,837] browser.py->__get_chrome_driver line:37 [INFO] : 初始化Google浏览器并启动
+[2020-11-02 16:09:34,974] base_page.py->set_browser_max line:25 [INFO] : 浏览器最大化
+[2020-11-02 16:09:36,382] base_page.py->open_url line:19 [INFO] : 打开url地址: https://www.91trial.com/User/Login/
+[2020-11-02 16:09:36,382] Stard_End.py->setUp line:30 [INFO] : --------测试方法初始化---------------
+[2020-11-02 16:09:36,382] project_search_case_test.py->test_ProjectSearch01_1_success line:22 [INFO] : test_ProjectSearch01_1_success 用例开始执行
+[2020-11-02 16:09:49,959] base_page.py->find_element line:91 [ERROR] : [项目搜索输入框] 元素识别失败，原因是： Message: 
+
+[2020-11-02 16:09:49,959] base_page.py->input line:111 [ERROR] : [项目搜索输入框]元素输入数据失败，原因是：unsupported operand type(s) for +: 'NoneType' and 'str'
+[2020-11-02 16:10:03,514] base_page.py->find_element line:91 [ERROR] : [项目搜索按钮] 元素识别失败，原因是： Message: 
+
+[2020-11-02 16:10:03,514] base_page.py->click line:102 [ERROR] : [项目搜索按钮] 元素点击操作失败，原因是：unsupported operand type(s) for +: 'NoneType' and 'str'
+[2020-11-02 16:10:17,065] base_page.py->find_element line:91 [ERROR] : [点击项目] 元素识别失败，原因是： Message: 
+
+[2020-11-02 16:10:17,065] base_page.py->click line:102 [ERROR] : [点击项目] 元素点击操作失败，原因是：unsupported operand type(s) for +: 'NoneType' and 'str'
+[2020-11-02 16:10:17,065] project_search_case_test.py->test_ProjectSearch01_1_success line:27 [INFO] : test_ProjectSearch01_1_success 用例结束执行
+[2020-11-02 16:10:17,068] Stard_End.py->tearDown line:47 [INFO] : --------测试方法执行完毕---------------
+[2020-11-02 16:10:30,632] base_page.py->find_element line:91 [ERROR] : [用户名] 元素识别失败，原因是： Message: 
+
+[2020-11-02 16:10:30,632] base_page.py->click line:102 [ERROR] : [用户名] 元素点击操作失败，原因是：unsupported operand type(s) for +: 'NoneType' and 'str'
+[2020-11-02 16:10:44,157] base_page.py->find_element line:91 [ERROR] : [退出登录] 元素识别失败，原因是： Message: 
+
+[2020-11-02 16:10:44,157] base_page.py->click line:102 [ERROR] : [退出登录] 元素点击操作失败，原因是：unsupported operand type(s) for +: 'NoneType' and 'str'
+[2020-11-02 16:10:47,157] common_action.py->quit line:24 [INFO] : 账号退出登录成功
+[2020-11-02 16:10:47,163] base_page.py->exit_driver line:60 [INFO] : 关闭浏览器
+[2020-11-02 16:10:49,370] Stard_End.py->tearDownClass line:56 [INFO] : =====================测 试 类 执 行 完 毕=====================
+[2020-11-02 16:10:49,370] Stard_End.py->tearDownClass line:57 [INFO] :                                                                
+[2020-11-02 16:57:47,189] Stard_End.py->setUpClass line:18 [INFO] : =====================测 试 类 初 始 化=====================
+[2020-11-02 16:57:49,857] browser.py->__get_chrome_driver line:37 [INFO] : 初始化Google浏览器并启动
+[2020-11-02 16:57:50,992] base_page.py->set_browser_max line:25 [INFO] : 浏览器最大化
+[2020-11-02 16:57:52,241] base_page.py->open_url line:19 [INFO] : 打开url地址: https://www.91trial.com/User/Login/
+[2020-11-02 16:57:52,241] Stard_End.py->setUp line:30 [INFO] : --------测试方法初始化---------------
+[2020-11-02 16:57:52,241] login_case_test.py->test_login01_success line:24 [INFO] : test_login01_success 用例开始执行
+[2020-11-02 16:57:55,270] base_page.py->find_element line:89 [INFO] : [用户名输入框] 元素识别成功
+[2020-11-02 16:57:58,378] base_page.py->find_element line:89 [INFO] : [密码输入框] 元素识别成功
+[2020-11-02 16:58:01,494] base_page.py->find_element line:89 [INFO] : [登录按钮] 元素识别成功
+[2020-11-02 16:58:01,582] login_ation.py->login_action line:20 [INFO] : 输入的账号是：zhxcrc,  密码是：123123
+[2020-11-02 16:58:01,594] login_case_test.py->test_login01_success line:30 [INFO] : test_login01_success 用例结束执行
+[2020-11-02 16:58:01,596] Stard_End.py->tearDown line:47 [INFO] : --------测试方法执行完毕---------------
+[2020-11-02 16:58:08,829] base_page.py->find_element line:89 [INFO] : [用户名] 元素识别成功
+[2020-11-02 16:58:11,933] base_page.py->find_element line:89 [INFO] : [退出登录] 元素识别成功
+[2020-11-02 16:58:15,001] common_action.py->quit line:24 [INFO] : 账号退出登录成功
+[2020-11-02 16:58:15,009] base_page.py->exit_driver line:60 [INFO] : 关闭浏览器
+[2020-11-02 16:58:17,241] Stard_End.py->tearDownClass line:56 [INFO] : =====================测 试 类 执 行 完 毕=====================
+[2020-11-02 16:58:17,241] Stard_End.py->tearDownClass line:57 [INFO] :                                                                
+[2020-11-02 16:58:17,241] Stard_End.py->setUpClass line:18 [INFO] : =====================测 试 类 初 始 化=====================
+[2020-11-02 16:58:19,792] browser.py->__get_chrome_driver line:37 [INFO] : 初始化Google浏览器并启动
+[2020-11-02 16:58:20,930] base_page.py->set_browser_max line:25 [INFO] : 浏览器最大化
+[2020-11-02 16:58:21,410] base_page.py->open_url line:19 [INFO] : 打开url地址: https://www.91trial.com/User/Login/
+[2020-11-02 16:58:21,411] Stard_End.py->setUp line:30 [INFO] : --------测试方法初始化---------------
+[2020-11-02 16:58:21,411] project_search_case_test.py->test_ProjectSearch01_1_success line:23 [INFO] : test_ProjectSearch01_1_success 用例开始执行
+[2020-11-02 16:58:26,414] Stard_End.py->tearDown line:47 [INFO] : --------测试方法执行完毕---------------
+[2020-11-02 16:58:26,417] Stard_End.py->setUp line:30 [INFO] : --------测试方法初始化---------------
+[2020-11-02 16:58:26,417] project_search_case_test.py->test_ProjectSearch01_2_success line:34 [INFO] : test_ProjectSearch01_2_success 用例开始执行
+[2020-11-02 16:58:36,973] base_page.py->find_element line:91 [ERROR] : [进入项目搜索按钮] 元素识别失败，原因是： Message: 
+
+[2020-11-02 16:58:36,973] base_page.py->click line:102 [ERROR] : [进入项目搜索按钮] 元素点击操作失败，原因是：unsupported operand type(s) for +: 'NoneType' and 'str'
+[2020-11-02 16:58:50,491] base_page.py->find_element line:91 [ERROR] : [项目搜索输入框] 元素识别失败，原因是： Message: 
+
+[2020-11-02 16:58:50,491] base_page.py->input line:111 [ERROR] : [项目搜索输入框]元素输入数据失败，原因是：unsupported operand type(s) for +: 'NoneType' and 'str'
+[2020-11-02 16:59:04,037] base_page.py->find_element line:91 [ERROR] : [项目搜索按钮] 元素识别失败，原因是： Message: 
+
+[2020-11-02 16:59:04,037] base_page.py->click line:102 [ERROR] : [项目搜索按钮] 元素点击操作失败，原因是：unsupported operand type(s) for +: 'NoneType' and 'str'
+[2020-11-02 16:59:17,573] base_page.py->find_element line:91 [ERROR] : [点击搜索后的项目名称] 元素识别失败，原因是： Message: 
+
+[2020-11-02 16:59:17,573] base_page.py->click line:102 [ERROR] : [点击搜索后的项目名称] 元素点击操作失败，原因是：unsupported operand type(s) for +: 'NoneType' and 'str'
+[2020-11-02 16:59:17,573] project_search_case_test.py->test_ProjectSearch01_2_success line:39 [INFO] : test_ProjectSearch01_2_success 用例结束执行
+[2020-11-02 16:59:17,576] Stard_End.py->tearDown line:47 [INFO] : --------测试方法执行完毕---------------
+[2020-11-02 16:59:17,576] Stard_End.py->setUp line:30 [INFO] : --------测试方法初始化---------------
+[2020-11-02 16:59:17,576] login_case_test.py->test_login01_success line:24 [INFO] : test_login01_success 用例开始执行
+[2020-11-02 16:59:22,580] Stard_End.py->tearDown line:47 [INFO] : --------测试方法执行完毕---------------
+[2020-11-02 16:59:36,163] base_page.py->find_element line:91 [ERROR] : [用户名] 元素识别失败，原因是： Message: 
+
+[2020-11-02 16:59:36,163] base_page.py->click line:102 [ERROR] : [用户名] 元素点击操作失败，原因是：unsupported operand type(s) for +: 'NoneType' and 'str'
+[2020-11-02 16:59:49,696] base_page.py->find_element line:91 [ERROR] : [退出登录] 元素识别失败，原因是： Message: 
+
+[2020-11-02 16:59:49,696] base_page.py->click line:102 [ERROR] : [退出登录] 元素点击操作失败，原因是：unsupported operand type(s) for +: 'NoneType' and 'str'
+[2020-11-02 16:59:52,697] common_action.py->quit line:24 [INFO] : 账号退出登录成功
+[2020-11-02 16:59:52,702] base_page.py->exit_driver line:60 [INFO] : 关闭浏览器
+[2020-11-02 16:59:54,998] Stard_End.py->tearDownClass line:56 [INFO] : =====================测 试 类 执 行 完 毕=====================
+[2020-11-02 16:59:54,998] Stard_End.py->tearDownClass line:57 [INFO] :                                                                
+[2020-11-02 17:00:00,417] Stard_End.py->setUpClass line:18 [INFO] : =====================测 试 类 初 始 化=====================
+[2020-11-02 17:00:03,008] browser.py->__get_chrome_driver line:37 [INFO] : 初始化Google浏览器并启动
+[2020-11-02 17:00:04,135] base_page.py->set_browser_max line:25 [INFO] : 浏览器最大化
+[2020-11-02 17:00:04,561] base_page.py->open_url line:19 [INFO] : 打开url地址: https://www.91trial.com/User/Login/
+[2020-11-02 17:00:04,562] Stard_End.py->setUp line:30 [INFO] : --------测试方法初始化---------------
+[2020-11-02 17:00:04,562] login_case_test.py->test_login01_success line:24 [INFO] : test_login01_success 用例开始执行
+[2020-11-02 17:00:07,590] base_page.py->find_element line:89 [INFO] : [用户名输入框] 元素识别成功
+[2020-11-02 17:00:10,682] base_page.py->find_element line:89 [INFO] : [密码输入框] 元素识别成功
+[2020-11-02 17:00:13,793] base_page.py->find_element line:89 [INFO] : [登录按钮] 元素识别成功
+[2020-11-02 17:00:13,876] login_ation.py->login_action line:20 [INFO] : 输入的账号是：zhxcra,  密码是：123123
+[2020-11-02 17:00:13,889] login_case_test.py->test_login01_success line:30 [INFO] : test_login01_success 用例结束执行
+[2020-11-02 17:00:13,891] Stard_End.py->tearDown line:47 [INFO] : --------测试方法执行完毕---------------
+[2020-11-02 17:00:16,923] base_page.py->find_element line:89 [INFO] : [用户名] 元素识别成功
+[2020-11-02 17:00:20,009] base_page.py->find_element line:89 [INFO] : [退出登录] 元素识别成功
+[2020-11-02 17:00:23,066] common_action.py->quit line:24 [INFO] : 账号退出登录成功
+[2020-11-02 17:00:23,073] base_page.py->exit_driver line:60 [INFO] : 关闭浏览器
+[2020-11-02 17:00:25,308] Stard_End.py->tearDownClass line:56 [INFO] : =====================测 试 类 执 行 完 毕=====================
+[2020-11-02 17:00:25,308] Stard_End.py->tearDownClass line:57 [INFO] :                                                                
+[2020-11-02 17:00:25,308] Stard_End.py->setUpClass line:18 [INFO] : =====================测 试 类 初 始 化=====================
+[2020-11-02 17:00:27,842] browser.py->__get_chrome_driver line:37 [INFO] : 初始化Google浏览器并启动
+[2020-11-02 17:00:28,975] base_page.py->set_browser_max line:25 [INFO] : 浏览器最大化
+[2020-11-02 17:00:29,415] base_page.py->open_url line:19 [INFO] : 打开url地址: https://www.91trial.com/User/Login/
+[2020-11-02 17:00:29,415] Stard_End.py->setUp line:30 [INFO] : --------测试方法初始化---------------
+[2020-11-02 17:00:29,415] project_search_case_test.py->test_ProjectSearch01_1_success line:23 [INFO] : test_ProjectSearch01_1_success 用例开始执行
+[2020-11-02 17:00:34,417] Stard_End.py->tearDown line:47 [INFO] : --------测试方法执行完毕---------------
+[2020-11-02 17:00:34,420] Stard_End.py->setUp line:30 [INFO] : --------测试方法初始化---------------
+[2020-11-02 17:00:34,420] project_search_case_test.py->test_ProjectSearch01_2_success line:34 [INFO] : test_ProjectSearch01_2_success 用例开始执行
+[2020-11-02 17:00:44,963] base_page.py->find_element line:91 [ERROR] : [进入项目搜索按钮] 元素识别失败，原因是： Message: 
+
+[2020-11-02 17:00:44,963] base_page.py->click line:102 [ERROR] : [进入项目搜索按钮] 元素点击操作失败，原因是：unsupported operand type(s) for +: 'NoneType' and 'str'
+[2020-11-02 17:00:58,476] base_page.py->find_element line:91 [ERROR] : [项目搜索输入框] 元素识别失败，原因是： Message: 
+
+[2020-11-02 17:00:58,476] base_page.py->input line:111 [ERROR] : [项目搜索输入框]元素输入数据失败，原因是：unsupported operand type(s) for +: 'NoneType' and 'str'
+[2020-11-02 17:01:11,669] base_page.py->find_element line:91 [ERROR] : [项目搜索按钮] 元素识别失败，原因是： ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+[2020-11-02 17:01:11,669] base_page.py->click line:102 [ERROR] : [项目搜索按钮] 元素点击操作失败，原因是：unsupported operand type(s) for +: 'NoneType' and 'str'
+[2020-11-02 17:01:15,674] connectionpool.py->urlopen line:744 [WARNING] : Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F8FCA0A2E0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')': /session/e9192871f7e0cdfcd0a32f5c63b423e1/timeouts/implicit_wait
+[2020-11-02 17:01:16,683] connectionpool.py->urlopen line:744 [WARNING] : Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F8FCA0A070>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')': /session/e9192871f7e0cdfcd0a32f5c63b423e1/timeouts/implicit_wait
+[2020-11-02 17:01:17,689] connectionpool.py->urlopen line:744 [WARNING] : Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F8FCA0A490>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')': /session/e9192871f7e0cdfcd0a32f5c63b423e1/timeouts/implicit_wait
+[2020-11-02 17:01:18,695] base_page.py->find_element line:91 [ERROR] : [点击搜索后的项目名称] 元素识别失败，原因是： HTTPConnectionPool(host='127.0.0.1', port=50729): Max retries exceeded with url: /session/e9192871f7e0cdfcd0a32f5c63b423e1/timeouts/implicit_wait (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F8FCA0A5B0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+[2020-11-02 17:01:18,696] base_page.py->click line:102 [ERROR] : [点击搜索后的项目名称] 元素点击操作失败，原因是：unsupported operand type(s) for +: 'NoneType' and 'str'
+[2020-11-02 17:01:18,696] project_search_case_test.py->test_ProjectSearch01_2_success line:39 [INFO] : test_ProjectSearch01_2_success 用例结束执行
+[2020-11-02 17:01:19,701] connectionpool.py->urlopen line:744 [WARNING] : Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F8FCA0A550>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')': /session/e9192871f7e0cdfcd0a32f5c63b423e1/timeouts/implicit_wait
+[2020-11-02 17:01:20,705] connectionpool.py->urlopen line:744 [WARNING] : Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F8FCA0A4C0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')': /session/e9192871f7e0cdfcd0a32f5c63b423e1/timeouts/implicit_wait
+[2020-11-02 17:01:21,710] connectionpool.py->urlopen line:744 [WARNING] : Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F8FCA0A6A0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')': /session/e9192871f7e0cdfcd0a32f5c63b423e1/timeouts/implicit_wait
+[2020-11-02 17:01:22,734] Stard_End.py->setUp line:30 [INFO] : --------测试方法初始化---------------
+[2020-11-02 17:01:22,734] login_case_test.py->test_login01_success line:24 [INFO] : test_login01_success 用例开始执行
+[2020-11-02 17:01:28,740] connectionpool.py->urlopen line:744 [WARNING] : Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F8FC9FF310>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')': /session/e9192871f7e0cdfcd0a32f5c63b423e1/timeouts/implicit_wait
+[2020-11-02 17:01:29,746] connectionpool.py->urlopen line:744 [WARNING] : Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F8FC9FF4C0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')': /session/e9192871f7e0cdfcd0a32f5c63b423e1/timeouts/implicit_wait
+[2020-11-02 17:01:30,751] connectionpool.py->urlopen line:744 [WARNING] : Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F8FC9FF610>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')': /session/e9192871f7e0cdfcd0a32f5c63b423e1/timeouts/implicit_wait
+[2020-11-02 17:01:32,771] connectionpool.py->urlopen line:744 [WARNING] : Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F8FC941970>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')': /session/e9192871f7e0cdfcd0a32f5c63b423e1/timeouts/implicit_wait
+[2020-11-02 17:01:33,775] connectionpool.py->urlopen line:744 [WARNING] : Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F8FCA0CDC0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')': /session/e9192871f7e0cdfcd0a32f5c63b423e1/timeouts/implicit_wait
+[2020-11-02 17:01:34,780] connectionpool.py->urlopen line:744 [WARNING] : Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F8FCA0CC10>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')': /session/e9192871f7e0cdfcd0a32f5c63b423e1/timeouts/implicit_wait
+[2020-11-02 17:02:23,944] Stard_End.py->setUpClass line:18 [INFO] : =====================测 试 类 初 始 化=====================
+[2020-11-02 17:02:26,463] browser.py->__get_chrome_driver line:37 [INFO] : 初始化Google浏览器并启动
+[2020-11-02 17:02:27,591] base_page.py->set_browser_max line:25 [INFO] : 浏览器最大化
+[2020-11-02 17:02:28,029] base_page.py->open_url line:19 [INFO] : 打开url地址: https://www.91trial.com/User/Login/
+[2020-11-02 17:02:28,030] Stard_End.py->setUp line:30 [INFO] : --------测试方法初始化---------------
+[2020-11-02 17:02:28,030] login_case_test.py->test_login01_success line:24 [INFO] : test_login01_success 用例开始执行
+[2020-11-02 17:02:31,063] base_page.py->find_element line:89 [INFO] : [用户名输入框] 元素识别成功
+[2020-11-02 17:02:34,169] base_page.py->find_element line:89 [INFO] : [密码输入框] 元素识别成功
+[2020-11-02 17:02:37,274] base_page.py->find_element line:89 [INFO] : [登录按钮] 元素识别成功
+[2020-11-02 17:02:37,359] login_ation.py->login_action line:20 [INFO] : 输入的账号是：zhxcra,  密码是：123123
+[2020-11-02 17:02:37,381] login_case_test.py->test_login01_success line:30 [INFO] : test_login01_success 用例结束执行
+[2020-11-02 17:02:37,383] Stard_End.py->tearDown line:47 [INFO] : --------测试方法执行完毕---------------
+[2020-11-02 17:02:40,421] base_page.py->find_element line:89 [INFO] : [用户名] 元素识别成功
+[2020-11-02 17:02:43,517] base_page.py->find_element line:89 [INFO] : [退出登录] 元素识别成功
+[2020-11-02 17:02:46,578] common_action.py->quit line:24 [INFO] : 账号退出登录成功
+[2020-11-02 17:02:46,585] base_page.py->exit_driver line:60 [INFO] : 关闭浏览器
+[2020-11-02 17:02:49,213] Stard_End.py->tearDownClass line:56 [INFO] : =====================测 试 类 执 行 完 毕=====================
+[2020-11-02 17:02:49,213] Stard_End.py->tearDownClass line:57 [INFO] :                                                                
+[2020-11-02 17:02:49,214] Stard_End.py->setUpClass line:18 [INFO] : =====================测 试 类 初 始 化=====================
+[2020-11-02 17:02:51,775] browser.py->__get_chrome_driver line:37 [INFO] : 初始化Google浏览器并启动
+[2020-11-02 17:02:52,899] base_page.py->set_browser_max line:25 [INFO] : 浏览器最大化
+[2020-11-02 17:02:53,452] base_page.py->open_url line:19 [INFO] : 打开url地址: https://www.91trial.com/User/Login/
+[2020-11-02 17:02:53,452] Stard_End.py->setUp line:30 [INFO] : --------测试方法初始化---------------
+[2020-11-02 17:02:53,452] project_search_case_test.py->test_ProjectSearch01_1_success line:23 [INFO] : test_ProjectSearch01_1_success 用例开始执行
+[2020-11-02 17:02:58,454] Stard_End.py->tearDown line:47 [INFO] : --------测试方法执行完毕---------------
+[2020-11-02 17:02:58,457] Stard_End.py->setUp line:30 [INFO] : --------测试方法初始化---------------
+[2020-11-02 17:02:58,458] project_search_case_test.py->test_ProjectSearch01_2_success line:35 [INFO] : test_ProjectSearch01_2_success 用例开始执行
+[2020-11-02 17:03:09,029] base_page.py->find_element line:91 [ERROR] : [进入项目搜索按钮] 元素识别失败，原因是： Message: 
+
+[2020-11-02 17:03:09,029] base_page.py->click line:102 [ERROR] : [进入项目搜索按钮] 元素点击操作失败，原因是：unsupported operand type(s) for +: 'NoneType' and 'str'
+[2020-11-02 17:03:22,554] base_page.py->find_element line:91 [ERROR] : [项目搜索输入框] 元素识别失败，原因是： Message: 
+
+[2020-11-02 17:03:22,554] base_page.py->input line:111 [ERROR] : [项目搜索输入框]元素输入数据失败，原因是：unsupported operand type(s) for +: 'NoneType' and 'str'
+[2020-11-02 17:03:36,078] base_page.py->find_element line:91 [ERROR] : [项目搜索按钮] 元素识别失败，原因是： Message: 
+
+[2020-11-02 17:03:36,078] base_page.py->click line:102 [ERROR] : [项目搜索按钮] 元素点击操作失败，原因是：unsupported operand type(s) for +: 'NoneType' and 'str'
+[2020-11-02 17:03:49,593] base_page.py->find_element line:91 [ERROR] : [点击搜索后的项目名称] 元素识别失败，原因是： Message: 
+
+[2020-11-02 17:03:49,593] base_page.py->click line:102 [ERROR] : [点击搜索后的项目名称] 元素点击操作失败，原因是：unsupported operand type(s) for +: 'NoneType' and 'str'
+[2020-11-02 17:03:49,593] project_search_case_test.py->test_ProjectSearch01_2_success line:40 [INFO] : test_ProjectSearch01_2_success 用例结束执行
+[2020-11-02 17:03:49,596] Stard_End.py->tearDown line:47 [INFO] : --------测试方法执行完毕---------------
+[2020-11-02 17:03:49,596] Stard_End.py->setUp line:30 [INFO] : --------测试方法初始化---------------
+[2020-11-02 17:03:49,596] login_case_test.py->test_login01_success line:24 [INFO] : test_login01_success 用例开始执行
+[2020-11-02 17:03:54,598] Stard_End.py->tearDown line:47 [INFO] : --------测试方法执行完毕---------------
+[2020-11-02 17:04:08,143] base_page.py->find_element line:91 [ERROR] : [用户名] 元素识别失败，原因是： Message: 
+
+[2020-11-02 17:04:08,143] base_page.py->click line:102 [ERROR] : [用户名] 元素点击操作失败，原因是：unsupported operand type(s) for +: 'NoneType' and 'str'
+[2020-11-02 17:04:21,679] base_page.py->find_element line:91 [ERROR] : [退出登录] 元素识别失败，原因是： Message: 
+
+[2020-11-02 17:04:21,679] base_page.py->click line:102 [ERROR] : [退出登录] 元素点击操作失败，原因是：unsupported operand type(s) for +: 'NoneType' and 'str'
+[2020-11-02 17:04:24,680] common_action.py->quit line:24 [INFO] : 账号退出登录成功
+[2020-11-02 17:04:24,686] base_page.py->exit_driver line:60 [INFO] : 关闭浏览器
+[2020-11-02 17:04:26,990] Stard_End.py->tearDownClass line:56 [INFO] : =====================测 试 类 执 行 完 毕=====================
+[2020-11-02 17:04:26,990] Stard_End.py->tearDownClass line:57 [INFO] :                                                                
+[2020-11-02 17:16:25,111] Stard_End.py->setUpClass line:18 [INFO] : =====================测 试 类 初 始 化=====================
+[2020-11-02 17:16:28,359] browser.py->__get_chrome_driver line:37 [INFO] : 初始化Google浏览器并启动
+[2020-11-02 17:16:29,494] base_page.py->set_browser_max line:25 [INFO] : 浏览器最大化
+[2020-11-02 17:16:29,959] base_page.py->open_url line:19 [INFO] : 打开url地址: https://www.91trial.com/User/Login/
+[2020-11-02 17:16:29,959] Stard_End.py->setUp line:30 [INFO] : --------测试方法初始化---------------
+[2020-11-02 17:16:29,959] login_case_test.py->test_login01_success line:24 [INFO] : test_login01_success 用例开始执行
+[2020-11-02 17:16:32,989] base_page.py->find_element line:89 [INFO] : [用户名输入框] 元素识别成功
+[2020-11-02 17:16:36,095] base_page.py->find_element line:89 [INFO] : [密码输入框] 元素识别成功
+[2020-11-02 17:16:39,207] base_page.py->find_element line:89 [INFO] : [登录按钮] 元素识别成功
+[2020-11-02 17:16:39,265] login_ation.py->login_action line:20 [INFO] : 输入的账号是：zhxcra,  密码是：123123
+[2020-11-02 17:16:39,282] login_case_test.py->test_login01_success line:30 [INFO] : test_login01_success 用例结束执行
+[2020-11-02 17:16:39,284] Stard_End.py->tearDown line:47 [INFO] : --------测试方法执行完毕---------------
+[2020-11-02 17:16:42,328] base_page.py->find_element line:89 [INFO] : [用户名] 元素识别成功
+[2020-11-02 17:16:45,413] base_page.py->find_element line:89 [INFO] : [退出登录] 元素识别成功
+[2020-11-02 17:16:48,458] common_action.py->quit line:24 [INFO] : 账号退出登录成功
+[2020-11-02 17:16:48,464] base_page.py->exit_driver line:60 [INFO] : 关闭浏览器
+[2020-11-02 17:16:51,076] Stard_End.py->tearDownClass line:56 [INFO] : =====================测 试 类 执 行 完 毕=====================
+[2020-11-02 17:16:51,076] Stard_End.py->tearDownClass line:57 [INFO] :                                                                
+[2020-11-02 17:16:51,077] Stard_End.py->setUpClass line:18 [INFO] : =====================测 试 类 初 始 化=====================
+[2020-11-02 17:16:53,677] browser.py->__get_chrome_driver line:37 [INFO] : 初始化Google浏览器并启动
+[2020-11-02 17:16:54,803] base_page.py->set_browser_max line:25 [INFO] : 浏览器最大化
+[2020-11-02 17:16:55,289] base_page.py->open_url line:19 [INFO] : 打开url地址: https://www.91trial.com/User/Login/
+[2020-11-02 17:16:55,289] Stard_End.py->setUp line:30 [INFO] : --------测试方法初始化---------------
+[2020-11-02 17:16:55,289] project_search_case_test.py->test_ProjectSearch01_1_success line:23 [INFO] : test_ProjectSearch01_1_success 用例开始执行
+[2020-11-02 17:17:00,293] Stard_End.py->tearDown line:47 [INFO] : --------测试方法执行完毕---------------
+[2020-11-02 17:17:00,296] Stard_End.py->setUp line:30 [INFO] : --------测试方法初始化---------------
+[2020-11-02 17:17:00,296] project_search_case_test.py->test_ProjectSearch01_2_success line:34 [INFO] : test_ProjectSearch01_2_success 用例开始执行
+[2020-11-02 17:17:10,862] base_page.py->find_element line:91 [ERROR] : [进入项目搜索按钮] 元素识别失败，原因是： Message: 
+
+[2020-11-02 17:17:10,862] base_page.py->click line:102 [ERROR] : [进入项目搜索按钮] 元素点击操作失败，原因是：unsupported operand type(s) for +: 'NoneType' and 'str'
+[2020-11-02 17:17:24,400] base_page.py->find_element line:91 [ERROR] : [项目搜索输入框] 元素识别失败，原因是： Message: 
+
+[2020-11-02 17:17:24,400] base_page.py->input line:111 [ERROR] : [项目搜索输入框]元素输入数据失败，原因是：unsupported operand type(s) for +: 'NoneType' and 'str'
+[2020-11-02 17:17:37,965] base_page.py->find_element line:91 [ERROR] : [项目搜索按钮] 元素识别失败，原因是： Message: 
+
+[2020-11-02 17:17:37,965] base_page.py->click line:102 [ERROR] : [项目搜索按钮] 元素点击操作失败，原因是：unsupported operand type(s) for +: 'NoneType' and 'str'
+[2020-11-02 17:17:51,493] base_page.py->find_element line:91 [ERROR] : [点击搜索后的项目名称] 元素识别失败，原因是： Message: 
+
+[2020-11-02 17:17:51,493] base_page.py->click line:102 [ERROR] : [点击搜索后的项目名称] 元素点击操作失败，原因是：unsupported operand type(s) for +: 'NoneType' and 'str'
+[2020-11-02 17:17:51,493] project_search_case_test.py->test_ProjectSearch01_2_success line:39 [INFO] : test_ProjectSearch01_2_success 用例结束执行
+[2020-11-02 17:17:51,495] Stard_End.py->tearDown line:47 [INFO] : --------测试方法执行完毕---------------
+[2020-11-02 17:17:51,496] Stard_End.py->setUp line:30 [INFO] : --------测试方法初始化---------------
+[2020-11-02 17:17:51,496] login_case_test.py->test_login01_success line:24 [INFO] : test_login01_success 用例开始执行
+[2020-11-02 17:17:56,498] Stard_End.py->tearDown line:47 [INFO] : --------测试方法执行完毕---------------
+[2020-11-02 17:18:10,058] base_page.py->find_element line:91 [ERROR] : [用户名] 元素识别失败，原因是： Message: 
+
+[2020-11-02 17:18:10,058] base_page.py->click line:102 [ERROR] : [用户名] 元素点击操作失败，原因是：unsupported operand type(s) for +: 'NoneType' and 'str'
+[2020-11-02 17:18:23,577] base_page.py->find_element line:91 [ERROR] : [退出登录] 元素识别失败，原因是： Message: 
+
+[2020-11-02 17:18:23,577] base_page.py->click line:102 [ERROR] : [退出登录] 元素点击操作失败，原因是：unsupported operand type(s) for +: 'NoneType' and 'str'
+[2020-11-02 17:18:26,577] common_action.py->quit line:24 [INFO] : 账号退出登录成功
+[2020-11-02 17:18:26,583] base_page.py->exit_driver line:60 [INFO] : 关闭浏览器
+[2020-11-02 17:18:28,825] Stard_End.py->tearDownClass line:56 [INFO] : =====================测 试 类 执 行 完 毕=====================
+[2020-11-02 17:18:28,825] Stard_End.py->tearDownClass line:57 [INFO] :                                                                
+[2020-11-02 17:18:49,281] Stard_End.py->setUpClass line:18 [INFO] : =====================测 试 类 初 始 化=====================
+[2020-11-02 17:18:51,847] browser.py->__get_chrome_driver line:37 [INFO] : 初始化Google浏览器并启动
+[2020-11-02 17:18:52,969] base_page.py->set_browser_max line:25 [INFO] : 浏览器最大化
+[2020-11-02 17:18:53,409] base_page.py->open_url line:19 [INFO] : 打开url地址: https://www.91trial.com/User/Login/
+[2020-11-02 17:18:53,409] Stard_End.py->setUp line:30 [INFO] : --------测试方法初始化---------------
+[2020-11-02 17:18:53,409] login_case_test.py->test_login01_success line:24 [INFO] : test_login01_success 用例开始执行
+[2020-11-02 17:18:56,431] base_page.py->find_element line:89 [INFO] : [用户名输入框] 元素识别成功
+[2020-11-02 17:18:59,522] base_page.py->find_element line:89 [INFO] : [密码输入框] 元素识别成功
+[2020-11-02 17:19:02,644] base_page.py->find_element line:89 [INFO] : [登录按钮] 元素识别成功
+[2020-11-02 17:19:02,706] login_ation.py->login_action line:20 [INFO] : 输入的账号是：zhxcra,  密码是：123123
+[2020-11-02 17:19:02,721] login_case_test.py->test_login01_success line:30 [INFO] : test_login01_success 用例结束执行
+[2020-11-02 17:19:02,723] Stard_End.py->tearDown line:47 [INFO] : --------测试方法执行完毕---------------
+[2020-11-02 17:19:05,761] base_page.py->find_element line:89 [INFO] : [用户名] 元素识别成功
+[2020-11-02 17:19:08,851] base_page.py->find_element line:89 [INFO] : [退出登录] 元素识别成功
+[2020-11-02 17:19:11,910] common_action.py->quit line:24 [INFO] : 账号退出登录成功
+[2020-11-02 17:19:11,916] base_page.py->exit_driver line:60 [INFO] : 关闭浏览器
+[2020-11-02 17:19:14,226] Stard_End.py->tearDownClass line:56 [INFO] : =====================测 试 类 执 行 完 毕=====================
+[2020-11-02 17:19:14,226] Stard_End.py->tearDownClass line:57 [INFO] :                                                                
+[2020-11-02 17:19:14,226] Stard_End.py->setUpClass line:18 [INFO] : =====================测 试 类 初 始 化=====================
+[2020-11-02 17:19:16,730] browser.py->__get_chrome_driver line:37 [INFO] : 初始化Google浏览器并启动
+[2020-11-02 17:19:17,859] base_page.py->set_browser_max line:25 [INFO] : 浏览器最大化
+[2020-11-02 17:19:18,391] base_page.py->open_url line:19 [INFO] : 打开url地址: https://www.91trial.com/User/Login/
+[2020-11-02 17:19:18,392] Stard_End.py->setUp line:30 [INFO] : --------测试方法初始化---------------
+[2020-11-02 17:19:18,392] project_search_case_test.py->test_ProjectSearch01_1_success line:23 [INFO] : test_ProjectSearch01_1_success 用例开始执行
+[2020-11-02 17:19:18,392] login_case_test.py->test_login01_success line:24 [INFO] : test_login01_success 用例开始执行
+[2020-11-02 17:19:23,395] Stard_End.py->tearDown line:47 [INFO] : --------测试方法执行完毕---------------
+[2020-11-02 17:19:23,397] Stard_End.py->setUp line:30 [INFO] : --------测试方法初始化---------------
+[2020-11-02 17:19:23,398] project_search_case_test.py->test_ProjectSearch01_2_success line:34 [INFO] : test_ProjectSearch01_2_success 用例开始执行
+[2020-11-02 17:19:33,937] base_page.py->find_element line:91 [ERROR] : [进入项目搜索按钮] 元素识别失败，原因是： Message: 
+
+[2020-11-02 17:19:33,937] base_page.py->click line:102 [ERROR] : [进入项目搜索按钮] 元素点击操作失败，原因是：unsupported operand type(s) for +: 'NoneType' and 'str'
+[2020-11-02 17:19:47,466] base_page.py->find_element line:91 [ERROR] : [项目搜索输入框] 元素识别失败，原因是： Message: 
+
+[2020-11-02 17:19:47,466] base_page.py->input line:111 [ERROR] : [项目搜索输入框]元素输入数据失败，原因是：unsupported operand type(s) for +: 'NoneType' and 'str'
+[2020-11-02 17:20:01,031] base_page.py->find_element line:91 [ERROR] : [项目搜索按钮] 元素识别失败，原因是： Message: 
+
+[2020-11-02 17:20:01,031] base_page.py->click line:102 [ERROR] : [项目搜索按钮] 元素点击操作失败，原因是：unsupported operand type(s) for +: 'NoneType' and 'str'
+[2020-11-02 17:20:14,596] base_page.py->find_element line:91 [ERROR] : [点击搜索后的项目名称] 元素识别失败，原因是： Message: 
+
+[2020-11-02 17:20:14,596] base_page.py->click line:102 [ERROR] : [点击搜索后的项目名称] 元素点击操作失败，原因是：unsupported operand type(s) for +: 'NoneType' and 'str'
+[2020-11-02 17:20:14,596] project_search_case_test.py->test_ProjectSearch01_2_success line:39 [INFO] : test_ProjectSearch01_2_success 用例结束执行
+[2020-11-02 17:20:14,599] Stard_End.py->tearDown line:47 [INFO] : --------测试方法执行完毕---------------
+[2020-11-02 17:20:14,599] Stard_End.py->setUp line:30 [INFO] : --------测试方法初始化---------------
+[2020-11-02 17:20:14,600] login_case_test.py->test_login01_success line:24 [INFO] : test_login01_success 用例开始执行
+[2020-11-02 17:20:19,603] Stard_End.py->tearDown line:47 [INFO] : --------测试方法执行完毕---------------
+[2020-11-02 17:20:33,178] base_page.py->find_element line:91 [ERROR] : [用户名] 元素识别失败，原因是： Message: 
+
+[2020-11-02 17:20:33,178] base_page.py->click line:102 [ERROR] : [用户名] 元素点击操作失败，原因是：unsupported operand type(s) for +: 'NoneType' and 'str'
+[2020-11-02 17:20:46,731] base_page.py->find_element line:91 [ERROR] : [退出登录] 元素识别失败，原因是： Message: 
+
+[2020-11-02 17:20:46,731] base_page.py->click line:102 [ERROR] : [退出登录] 元素点击操作失败，原因是：unsupported operand type(s) for +: 'NoneType' and 'str'
+[2020-11-02 17:20:49,731] common_action.py->quit line:24 [INFO] : 账号退出登录成功
+[2020-11-02 17:20:49,735] base_page.py->exit_driver line:60 [INFO] : 关闭浏览器
+[2020-11-02 17:20:52,037] Stard_End.py->tearDownClass line:56 [INFO] : =====================测 试 类 执 行 完 毕=====================
+[2020-11-02 17:20:52,037] Stard_End.py->tearDownClass line:57 [INFO] :                                                                
+[2020-11-02 17:21:51,501] Stard_End.py->setUpClass line:18 [INFO] : =====================测 试 类 初 始 化=====================
+[2020-11-02 17:21:54,065] browser.py->__get_chrome_driver line:37 [INFO] : 初始化Google浏览器并启动
+[2020-11-02 17:21:55,193] base_page.py->set_browser_max line:25 [INFO] : 浏览器最大化
+[2020-11-02 17:21:55,631] base_page.py->open_url line:19 [INFO] : 打开url地址: https://www.91trial.com/User/Login/
+[2020-11-02 17:21:55,632] Stard_End.py->setUp line:30 [INFO] : --------测试方法初始化---------------
+[2020-11-02 17:21:55,632] login_case_test.py->test_login01_success line:24 [INFO] : test_login01_success 用例开始执行
+[2020-11-02 17:21:58,664] base_page.py->find_element line:89 [INFO] : [用户名输入框] 元素识别成功
+[2020-11-02 17:22:01,757] base_page.py->find_element line:89 [INFO] : [密码输入框] 元素识别成功
+[2020-11-02 17:22:04,878] base_page.py->find_element line:89 [INFO] : [登录按钮] 元素识别成功
+[2020-11-02 17:22:04,946] login_ation.py->login_action line:20 [INFO] : 输入的账号是：zhxcra,  密码是：123123
+[2020-11-02 17:22:04,959] login_case_test.py->test_login01_success line:30 [INFO] : test_login01_success 用例结束执行
+[2020-11-02 17:22:04,961] Stard_End.py->tearDown line:47 [INFO] : --------测试方法执行完毕---------------
+[2020-11-02 17:22:07,999] base_page.py->find_element line:89 [INFO] : [用户名] 元素识别成功
+[2020-11-02 17:22:11,095] base_page.py->find_element line:89 [INFO] : [退出登录] 元素识别成功
+[2020-11-02 17:22:14,154] common_action.py->quit line:24 [INFO] : 账号退出登录成功
+[2020-11-02 17:22:14,161] base_page.py->exit_driver line:60 [INFO] : 关闭浏览器
+[2020-11-02 17:22:16,430] Stard_End.py->tearDownClass line:56 [INFO] : =====================测 试 类 执 行 完 毕=====================
+[2020-11-02 17:22:16,430] Stard_End.py->tearDownClass line:57 [INFO] :                                                                
+[2020-11-02 17:22:16,431] Stard_End.py->setUpClass line:18 [INFO] : =====================测 试 类 初 始 化=====================
+[2020-11-02 17:22:18,968] browser.py->__get_chrome_driver line:37 [INFO] : 初始化Google浏览器并启动
+[2020-11-02 17:22:20,098] base_page.py->set_browser_max line:25 [INFO] : 浏览器最大化
+[2020-11-02 17:22:20,532] base_page.py->open_url line:19 [INFO] : 打开url地址: https://www.91trial.com/User/Login/
+[2020-11-02 17:22:20,533] Stard_End.py->setUp line:30 [INFO] : --------测试方法初始化---------------
+[2020-11-02 17:22:20,533] project_search_case_test.py->test_ProjectSearch01_1_success line:23 [INFO] : test_ProjectSearch01_1_success 用例开始执行
+[2020-11-02 17:22:25,535] Stard_End.py->tearDown line:47 [INFO] : --------测试方法执行完毕---------------
+[2020-11-02 17:22:25,538] Stard_End.py->setUp line:30 [INFO] : --------测试方法初始化---------------
+[2020-11-02 17:22:25,538] project_search_case_test.py->test_ProjectSearch01_2_success line:34 [INFO] : test_ProjectSearch01_2_success 用例开始执行
+[2020-11-02 17:22:36,071] base_page.py->find_element line:91 [ERROR] : [进入项目搜索按钮] 元素识别失败，原因是： Message: 
+
+[2020-11-02 17:22:36,071] base_page.py->click line:102 [ERROR] : [进入项目搜索按钮] 元素点击操作失败，原因是：unsupported operand type(s) for +: 'NoneType' and 'str'
+[2020-11-02 17:22:41,037] base_page.py->find_element line:91 [ERROR] : [项目搜索输入框] 元素识别失败，原因是： ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+[2020-11-02 17:22:41,038] base_page.py->input line:111 [ERROR] : [项目搜索输入框]元素输入数据失败，原因是：unsupported operand type(s) for +: 'NoneType' and 'str'
+[2020-11-02 17:22:45,041] connectionpool.py->urlopen line:744 [WARNING] : Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002651D1CC2E0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')': /session/e0aef28b07bad57891c791ccce27e523/timeouts/implicit_wait
+[2020-11-02 17:22:46,043] connectionpool.py->urlopen line:744 [WARNING] : Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002651D1CC0D0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')': /session/e0aef28b07bad57891c791ccce27e523/timeouts/implicit_wait
+[2020-11-02 17:22:47,045] connectionpool.py->urlopen line:744 [WARNING] : Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002651D1CC6A0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')': /session/e0aef28b07bad57891c791ccce27e523/timeouts/implicit_wait
+[2020-11-02 17:22:48,047] base_page.py->find_element line:91 [ERROR] : [项目搜索按钮] 元素识别失败，原因是： HTTPConnectionPool(host='127.0.0.1', port=52477): Max retries exceeded with url: /session/e0aef28b07bad57891c791ccce27e523/timeouts/implicit_wait (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002651D1CC610>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+[2020-11-02 17:22:48,047] base_page.py->click line:102 [ERROR] : [项目搜索按钮] 元素点击操作失败，原因是：unsupported operand type(s) for +: 'NoneType' and 'str'
+[2020-11-02 17:22:52,050] connectionpool.py->urlopen line:744 [WARNING] : Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002651D1CC5E0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')': /session/e0aef28b07bad57891c791ccce27e523/timeouts/implicit_wait
+[2020-11-02 17:24:11,309] Stard_End.py->setUpClass line:18 [INFO] : =====================测 试 类 初 始 化=====================
+[2020-11-02 17:24:13,878] browser.py->__get_chrome_driver line:37 [INFO] : 初始化Google浏览器并启动
+[2020-11-02 17:24:15,010] base_page.py->set_browser_max line:25 [INFO] : 浏览器最大化
+[2020-11-02 17:24:15,458] base_page.py->open_url line:19 [INFO] : 打开url地址: https://www.91trial.com/User/Login/
+[2020-11-02 17:24:15,459] Stard_End.py->setUp line:30 [INFO] : --------测试方法初始化---------------
+[2020-11-02 17:24:15,459] login_case_test.py->test_login01_success line:24 [INFO] : test_login01_success 用例开始执行
+[2020-11-02 17:24:18,489] base_page.py->find_element line:89 [INFO] : [用户名输入框] 元素识别成功
+[2020-11-02 17:24:21,606] base_page.py->find_element line:89 [INFO] : [密码输入框] 元素识别成功
+[2020-11-02 17:24:24,726] base_page.py->find_element line:89 [INFO] : [登录按钮] 元素识别成功
+[2020-11-02 17:24:24,820] login_ation.py->login_action line:20 [INFO] : 输入的账号是：zhxcra,  密码是：123123
+[2020-11-02 17:24:24,849] login_case_test.py->test_login01_success line:30 [INFO] : test_login01_success 用例结束执行
+[2020-11-02 17:24:24,851] Stard_End.py->tearDown line:47 [INFO] : --------测试方法执行完毕---------------
+[2020-11-02 17:24:27,888] base_page.py->find_element line:89 [INFO] : [用户名] 元素识别成功
+[2020-11-02 17:24:30,985] base_page.py->find_element line:89 [INFO] : [退出登录] 元素识别成功
+[2020-11-02 17:24:34,044] common_action.py->quit line:24 [INFO] : 账号退出登录成功
+[2020-11-02 17:24:34,051] base_page.py->exit_driver line:60 [INFO] : 关闭浏览器
+[2020-11-02 17:24:36,289] Stard_End.py->tearDownClass line:56 [INFO] : =====================测 试 类 执 行 完 毕=====================
+[2020-11-02 17:24:36,289] Stard_End.py->tearDownClass line:57 [INFO] :                                                                
+[2020-11-02 17:24:36,289] Stard_End.py->setUpClass line:18 [INFO] : =====================测 试 类 初 始 化=====================
+[2020-11-02 17:24:38,905] browser.py->__get_chrome_driver line:37 [INFO] : 初始化Google浏览器并启动
+[2020-11-02 17:24:40,039] base_page.py->set_browser_max line:25 [INFO] : 浏览器最大化
+[2020-11-02 17:24:40,486] base_page.py->open_url line:19 [INFO] : 打开url地址: https://www.91trial.com/User/Login/
+[2020-11-02 17:24:40,487] Stard_End.py->setUp line:30 [INFO] : --------测试方法初始化---------------
+[2020-11-02 17:24:40,487] project_search_case_test.py->test_ProjectSearch01_1_success line:23 [INFO] : test_ProjectSearch01_1_success 用例开始执行
+[2020-11-02 17:24:45,488] Stard_End.py->tearDown line:47 [INFO] : --------测试方法执行完毕---------------
+[2020-11-02 17:24:45,490] Stard_End.py->setUp line:30 [INFO] : --------测试方法初始化---------------
+[2020-11-02 17:24:45,491] project_search_case_test.py->test_ProjectSearch01_2_success line:34 [INFO] : test_ProjectSearch01_2_success 用例开始执行
+[2020-11-02 17:24:56,024] base_page.py->find_element line:91 [ERROR] : [进入项目搜索按钮] 元素识别失败，原因是： Message: 
+
+[2020-11-02 17:24:56,024] base_page.py->click line:102 [ERROR] : [进入项目搜索按钮] 元素点击操作失败，原因是：unsupported operand type(s) for +: 'NoneType' and 'str'
+[2020-11-02 17:25:09,580] base_page.py->find_element line:91 [ERROR] : [项目搜索输入框] 元素识别失败，原因是： Message: 
+
+[2020-11-02 17:25:09,580] base_page.py->input line:111 [ERROR] : [项目搜索输入框]元素输入数据失败，原因是：unsupported operand type(s) for +: 'NoneType' and 'str'
+[2020-11-02 17:25:23,112] base_page.py->find_element line:91 [ERROR] : [项目搜索按钮] 元素识别失败，原因是： Message: 
+
+[2020-11-02 17:25:23,112] base_page.py->click line:102 [ERROR] : [项目搜索按钮] 元素点击操作失败，原因是：unsupported operand type(s) for +: 'NoneType' and 'str'
+[2020-11-02 17:25:36,644] base_page.py->find_element line:91 [ERROR] : [点击搜索后的项目名称] 元素识别失败，原因是： Message: 
+
+[2020-11-02 17:25:36,644] base_page.py->click line:102 [ERROR] : [点击搜索后的项目名称] 元素点击操作失败，原因是：unsupported operand type(s) for +: 'NoneType' and 'str'
+[2020-11-02 17:25:36,644] project_search_case_test.py->test_ProjectSearch01_2_success line:39 [INFO] : test_ProjectSearch01_2_success 用例结束执行
+[2020-11-02 17:25:36,647] Stard_End.py->tearDown line:47 [INFO] : --------测试方法执行完毕---------------
+[2020-11-02 17:25:50,227] base_page.py->find_element line:91 [ERROR] : [用户名] 元素识别失败，原因是： Message: 
+
+[2020-11-02 17:25:50,227] base_page.py->click line:102 [ERROR] : [用户名] 元素点击操作失败，原因是：unsupported operand type(s) for +: 'NoneType' and 'str'
+[2020-11-02 17:26:03,769] base_page.py->find_element line:91 [ERROR] : [退出登录] 元素识别失败，原因是： Message: 
+
+[2020-11-02 17:26:03,769] base_page.py->click line:102 [ERROR] : [退出登录] 元素点击操作失败，原因是：unsupported operand type(s) for +: 'NoneType' and 'str'
+[2020-11-02 17:26:06,769] common_action.py->quit line:24 [INFO] : 账号退出登录成功
+[2020-11-02 17:26:06,775] base_page.py->exit_driver line:60 [INFO] : 关闭浏览器
+[2020-11-02 17:26:08,991] Stard_End.py->tearDownClass line:56 [INFO] : =====================测 试 类 执 行 完 毕=====================
+[2020-11-02 17:26:08,991] Stard_End.py->tearDownClass line:57 [INFO] :                                                                
+[2020-11-02 17:27:14,989] Stard_End.py->setUpClass line:18 [INFO] : =====================测 试 类 初 始 化=====================
+[2020-11-02 17:27:17,598] browser.py->__get_chrome_driver line:37 [INFO] : 初始化Google浏览器并启动
+[2020-11-02 17:27:18,722] base_page.py->set_browser_max line:25 [INFO] : 浏览器最大化
+[2020-11-02 17:27:19,317] base_page.py->open_url line:19 [INFO] : 打开url地址: https://www.91trial.com/User/Login/
+[2020-11-02 17:27:19,318] Stard_End.py->setUp line:30 [INFO] : --------测试方法初始化---------------
+[2020-11-02 17:27:19,318] login_case_test.py->test_login01_success line:24 [INFO] : test_login01_success 用例开始执行
+[2020-11-02 17:27:22,342] base_page.py->find_element line:89 [INFO] : [用户名输入框] 元素识别成功
+[2020-11-02 17:27:25,444] base_page.py->find_element line:89 [INFO] : [密码输入框] 元素识别成功
+[2020-11-02 17:27:28,556] base_page.py->find_element line:89 [INFO] : [登录按钮] 元素识别成功
+[2020-11-02 17:27:28,618] login_ation.py->login_action line:20 [INFO] : 输入的账号是：zhxcra,  密码是：123123
+[2020-11-02 17:27:28,632] login_case_test.py->test_login01_success line:30 [INFO] : test_login01_success 用例结束执行
+[2020-11-02 17:27:28,635] Stard_End.py->tearDown line:47 [INFO] : --------测试方法执行完毕---------------
+[2020-11-02 17:27:31,666] base_page.py->find_element line:89 [INFO] : [用户名] 元素识别成功
+[2020-11-02 17:27:34,732] base_page.py->find_element line:89 [INFO] : [退出登录] 元素识别成功
+[2020-11-02 17:27:37,791] common_action.py->quit line:24 [INFO] : 账号退出登录成功
+[2020-11-02 17:27:37,797] base_page.py->exit_driver line:60 [INFO] : 关闭浏览器
+[2020-11-02 17:27:40,023] Stard_End.py->tearDownClass line:56 [INFO] : =====================测 试 类 执 行 完 毕=====================
+[2020-11-02 17:27:40,023] Stard_End.py->tearDownClass line:57 [INFO] :                                                                
+[2020-11-02 17:27:40,024] Stard_End.py->setUpClass line:18 [INFO] : =====================测 试 类 初 始 化=====================
+[2020-11-02 17:27:42,583] browser.py->__get_chrome_driver line:37 [INFO] : 初始化Google浏览器并启动
+[2020-11-02 17:27:43,720] base_page.py->set_browser_max line:25 [INFO] : 浏览器最大化
+[2020-11-02 17:27:44,179] base_page.py->open_url line:19 [INFO] : 打开url地址: https://www.91trial.com/User/Login/
+[2020-11-02 17:27:44,179] Stard_End.py->setUp line:30 [INFO] : --------测试方法初始化---------------
+[2020-11-02 17:27:44,180] project_search_case_test.py->test_ProjectSearch01_1_success line:23 [INFO] : test_ProjectSearch01_1_success 用例开始执行
+[2020-11-02 17:27:49,183] Stard_End.py->tearDown line:47 [INFO] : --------测试方法执行完毕---------------
+[2020-11-02 17:27:49,186] Stard_End.py->setUp line:30 [INFO] : --------测试方法初始化---------------
+[2020-11-02 17:27:49,186] project_search_case_test.py->test_ProjectSearch01_2_success line:35 [INFO] : test_ProjectSearch01_2_success 用例开始执行
+[2020-11-02 17:27:59,743] base_page.py->find_element line:91 [ERROR] : [进入项目搜索按钮] 元素识别失败，原因是： Message: 
+
+[2020-11-02 17:27:59,743] base_page.py->click line:102 [ERROR] : [进入项目搜索按钮] 元素点击操作失败，原因是：unsupported operand type(s) for +: 'NoneType' and 'str'
+[2020-11-02 17:28:13,256] base_page.py->find_element line:91 [ERROR] : [项目搜索输入框] 元素识别失败，原因是： Message: 
+
+[2020-11-02 17:28:13,256] base_page.py->input line:111 [ERROR] : [项目搜索输入框]元素输入数据失败，原因是：unsupported operand type(s) for +: 'NoneType' and 'str'
+[2020-11-02 17:28:26,794] base_page.py->find_element line:91 [ERROR] : [项目搜索按钮] 元素识别失败，原因是： Message: 
+
+[2020-11-02 17:28:26,794] base_page.py->click line:102 [ERROR] : [项目搜索按钮] 元素点击操作失败，原因是：unsupported operand type(s) for +: 'NoneType' and 'str'
+[2020-11-02 17:28:40,348] base_page.py->find_element line:91 [ERROR] : [点击搜索后的项目名称] 元素识别失败，原因是： Message: 
+
+[2020-11-02 17:28:40,348] base_page.py->click line:102 [ERROR] : [点击搜索后的项目名称] 元素点击操作失败，原因是：unsupported operand type(s) for +: 'NoneType' and 'str'
+[2020-11-02 17:28:40,348] project_search_case_test.py->test_ProjectSearch01_2_success line:40 [INFO] : test_ProjectSearch01_2_success 用例结束执行
+[2020-11-02 17:28:40,351] Stard_End.py->tearDown line:47 [INFO] : --------测试方法执行完毕---------------
+[2020-11-02 17:28:53,886] base_page.py->find_element line:91 [ERROR] : [用户名] 元素识别失败，原因是： Message: 
+
+[2020-11-02 17:28:53,886] base_page.py->click line:102 [ERROR] : [用户名] 元素点击操作失败，原因是：unsupported operand type(s) for +: 'NoneType' and 'str'
+[2020-11-02 17:29:07,430] base_page.py->find_element line:91 [ERROR] : [退出登录] 元素识别失败，原因是： Message: 
+
+[2020-11-02 17:29:07,430] base_page.py->click line:102 [ERROR] : [退出登录] 元素点击操作失败，原因是：unsupported operand type(s) for +: 'NoneType' and 'str'
+[2020-11-02 17:29:12,435] Stard_End.py->setUpClass line:18 [INFO] : =====================测 试 类 初 始 化=====================
+[2020-11-02 17:29:14,995] browser.py->__get_chrome_driver line:37 [INFO] : 初始化Google浏览器并启动
+[2020-11-02 17:29:16,128] base_page.py->set_browser_max line:25 [INFO] : 浏览器最大化
+[2020-11-02 17:29:16,598] base_page.py->open_url line:19 [INFO] : 打开url地址: https://www.91trial.com/User/Login/
+[2020-11-02 17:29:16,599] Stard_End.py->setUp line:30 [INFO] : --------测试方法初始化---------------
+[2020-11-02 17:29:16,599] login_case_test.py->test_login01_success line:24 [INFO] : test_login01_success 用例开始执行
+[2020-11-02 17:29:19,631] base_page.py->find_element line:89 [INFO] : [用户名输入框] 元素识别成功
+[2020-11-02 17:29:22,733] base_page.py->find_element line:89 [INFO] : [密码输入框] 元素识别成功
+[2020-11-02 17:29:25,835] base_page.py->find_element line:89 [INFO] : [登录按钮] 元素识别成功
+[2020-11-02 17:29:25,922] login_ation.py->login_action line:20 [INFO] : 输入的账号是：zhxcra,  密码是：123123
+[2020-11-02 17:29:25,948] login_case_test.py->test_login01_success line:30 [INFO] : test_login01_success 用例结束执行
+[2020-11-02 17:29:25,950] Stard_End.py->tearDown line:47 [INFO] : --------测试方法执行完毕---------------
+[2020-11-02 17:29:28,991] base_page.py->find_element line:89 [INFO] : [用户名] 元素识别成功
+[2020-11-02 17:29:32,089] base_page.py->find_element line:89 [INFO] : [退出登录] 元素识别成功
+[2020-11-02 17:29:35,149] common_action.py->quit line:24 [INFO] : 账号退出登录成功
+[2020-11-02 17:29:35,154] base_page.py->exit_driver line:60 [INFO] : 关闭浏览器
+[2020-11-02 17:29:37,743] Stard_End.py->tearDownClass line:56 [INFO] : =====================测 试 类 执 行 完 毕=====================
+[2020-11-02 17:29:37,743] Stard_End.py->tearDownClass line:57 [INFO] :                                                                
+[2020-11-02 17:29:37,743] Stard_End.py->setUpClass line:18 [INFO] : =====================测 试 类 初 始 化=====================
+[2020-11-02 17:29:40,243] browser.py->__get_chrome_driver line:37 [INFO] : 初始化Google浏览器并启动
+[2020-11-02 17:29:41,370] base_page.py->set_browser_max line:25 [INFO] : 浏览器最大化
+[2020-11-02 17:29:41,813] base_page.py->open_url line:19 [INFO] : 打开url地址: https://www.91trial.com/User/Login/
+[2020-11-02 17:29:41,814] Stard_End.py->setUp line:30 [INFO] : --------测试方法初始化---------------
+[2020-11-02 17:29:41,814] project_search_case_test.py->test_ProjectSearch01_1_success line:23 [INFO] : test_ProjectSearch01_1_success 用例开始执行
+[2020-11-02 17:29:46,815] Stard_End.py->tearDown line:47 [INFO] : --------测试方法执行完毕---------------
+[2020-11-02 17:29:46,817] Stard_End.py->setUp line:30 [INFO] : --------测试方法初始化---------------
+[2020-11-02 17:29:46,818] project_search_case_test.py->test_ProjectSearch01_2_success line:36 [INFO] : test_ProjectSearch01_2_success 用例开始执行
+[2020-11-02 17:29:57,369] base_page.py->find_element line:91 [ERROR] : [进入项目搜索按钮] 元素识别失败，原因是： Message: 
+
+[2020-11-02 17:29:57,369] base_page.py->click line:102 [ERROR] : [进入项目搜索按钮] 元素点击操作失败，原因是：unsupported operand type(s) for +: 'NoneType' and 'str'
+[2020-11-02 17:30:05,714] base_page.py->find_element line:91 [ERROR] : [项目搜索输入框] 元素识别失败，原因是： Message: 
+
+[2020-11-02 17:30:05,714] base_page.py->input line:111 [ERROR] : [项目搜索输入框]元素输入数据失败，原因是：unsupported operand type(s) for +: 'NoneType' and 'str'
+[2020-11-02 17:30:09,717] connectionpool.py->urlopen line:744 [WARNING] : Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B78B37EA30>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')': /session/2e06b857080a76712e524095492e334f/timeouts/implicit_wait
+[2020-11-02 17:30:10,723] connectionpool.py->urlopen line:744 [WARNING] : Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B78B38CBE0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')': /session/2e06b857080a76712e524095492e334f/timeouts/implicit_wait
+[2020-11-02 17:30:11,727] connectionpool.py->urlopen line:744 [WARNING] : Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B78B38CD30>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')': /session/2e06b857080a76712e524095492e334f/timeouts/implicit_wait
+[2020-11-02 17:30:12,730] base_page.py->find_element line:91 [ERROR] : [项目搜索按钮] 元素识别失败，原因是： HTTPConnectionPool(host='127.0.0.1', port=53131): Max retries exceeded with url: /session/2e06b857080a76712e524095492e334f/timeouts/implicit_wait (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B78B38C4F0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+[2020-11-02 17:30:12,731] base_page.py->click line:102 [ERROR] : [项目搜索按钮] 元素点击操作失败，原因是：unsupported operand type(s) for +: 'NoneType' and 'str'
+[2020-11-02 17:30:16,734] connectionpool.py->urlopen line:744 [WARNING] : Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B78B38C400>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')': /session/2e06b857080a76712e524095492e334f/timeouts/implicit_wait
+[2020-11-02 17:30:17,741] connectionpool.py->urlopen line:744 [WARNING] : Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B78B38C8E0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')': /session/2e06b857080a76712e524095492e334f/timeouts/implicit_wait
+[2020-11-02 17:30:18,745] connectionpool.py->urlopen line:744 [WARNING] : Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B78B38C070>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')': /session/2e06b857080a76712e524095492e334f/timeouts/implicit_wait
+[2020-11-02 17:30:19,750] base_page.py->find_element line:91 [ERROR] : [点击搜索后的项目名称] 元素识别失败，原因是： HTTPConnectionPool(host='127.0.0.1', port=53131): Max retries exceeded with url: /session/2e06b857080a76712e524095492e334f/timeouts/implicit_wait (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B78B38C550>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+[2020-11-02 17:30:19,750] base_page.py->click line:102 [ERROR] : [点击搜索后的项目名称] 元素点击操作失败，原因是：unsupported operand type(s) for +: 'NoneType' and 'str'
+[2020-11-02 17:30:19,750] project_search_case_test.py->test_ProjectSearch01_2_success line:41 [INFO] : test_ProjectSearch01_2_success 用例结束执行
+[2020-11-02 17:30:20,753] connectionpool.py->urlopen line:744 [WARNING] : Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B78B38C850>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')': /session/2e06b857080a76712e524095492e334f/timeouts/implicit_wait
+[2020-11-02 17:30:21,757] connectionpool.py->urlopen line:744 [WARNING] : Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B78B37E1F0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')': /session/2e06b857080a76712e524095492e334f/timeouts/implicit_wait
+[2020-11-02 17:30:22,760] connectionpool.py->urlopen line:744 [WARNING] : Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B78B33E400>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')': /session/2e06b857080a76712e524095492e334f/timeouts/implicit_wait
+[2020-11-02 17:30:24,779] connectionpool.py->urlopen line:744 [WARNING] : Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B78B33E640>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')': /session/2e06b857080a76712e524095492e334f/timeouts/implicit_wait
+[2020-11-02 17:30:25,785] connectionpool.py->urlopen line:744 [WARNING] : Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B78B33EF10>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')': /session/2e06b857080a76712e524095492e334f/timeouts/implicit_wait
+[2020-11-02 17:30:26,791] connectionpool.py->urlopen line:744 [WARNING] : Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B78B37E9D0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')': /session/2e06b857080a76712e524095492e334f/timeouts/implicit_wait
+[2020-11-02 17:36:34,209] login_case_test.py->test_login01_success line:24 [INFO] : test_login01_success 用例开始执行
+[2020-11-02 17:42:51,403] Stard_End.py->setUpClass line:18 [INFO] : =====================测 试 类 初 始 化=====================
+[2020-11-02 17:42:54,572] browser.py->__get_chrome_driver line:37 [INFO] : 初始化Google浏览器并启动
+[2020-11-02 17:42:55,709] base_page.py->set_browser_max line:25 [INFO] : 浏览器最大化
+[2020-11-02 17:42:56,167] base_page.py->open_url line:19 [INFO] : 打开url地址: https://www.91trial.com/User/Login/
+[2020-11-02 17:42:56,168] Stard_End.py->setUp line:30 [INFO] : --------测试方法初始化---------------
+[2020-11-02 17:42:56,168] login_case_test.py->test_login01_success line:24 [INFO] : test_login01_success 用例开始执行
+[2020-11-02 17:42:59,189] base_page.py->find_element line:89 [INFO] : [用户名输入框] 元素识别成功
+[2020-11-02 17:43:02,285] base_page.py->find_element line:89 [INFO] : [密码输入框] 元素识别成功
+[2020-11-02 17:43:05,403] base_page.py->find_element line:89 [INFO] : [登录按钮] 元素识别成功
+[2020-11-02 17:43:05,479] login_ation.py->login_action line:20 [INFO] : 输入的账号是：zhxcra,  密码是：123123
+[2020-11-02 17:43:05,497] login_case_test.py->test_login01_success line:30 [INFO] : test_login01_success 用例结束执行
+[2020-11-02 17:43:05,500] Stard_End.py->tearDown line:47 [INFO] : --------测试方法执行完毕---------------
+[2020-11-02 17:43:08,539] base_page.py->find_element line:89 [INFO] : [用户名] 元素识别成功
+[2020-11-02 17:43:11,635] base_page.py->find_element line:89 [INFO] : [退出登录] 元素识别成功
+[2020-11-02 17:43:14,697] common_action.py->quit line:24 [INFO] : 账号退出登录成功
+[2020-11-02 17:43:14,703] base_page.py->exit_driver line:60 [INFO] : 关闭浏览器
+[2020-11-02 17:43:16,934] Stard_End.py->tearDownClass line:56 [INFO] : =====================测 试 类 执 行 完 毕=====================
+[2020-11-02 17:43:16,934] Stard_End.py->tearDownClass line:57 [INFO] :                                                                
+[2020-11-02 17:44:52,934] Stard_End.py->setUpClass line:18 [INFO] : =====================测 试 类 初 始 化=====================
+[2020-11-02 17:44:55,504] browser.py->__get_chrome_driver line:37 [INFO] : 初始化Google浏览器并启动
+[2020-11-02 17:44:56,627] base_page.py->set_browser_max line:25 [INFO] : 浏览器最大化
+[2020-11-02 17:44:57,061] base_page.py->open_url line:19 [INFO] : 打开url地址: https://www.91trial.com/User/Login/
+[2020-11-02 17:44:57,062] Stard_End.py->setUp line:30 [INFO] : --------测试方法初始化---------------
+[2020-11-02 17:44:57,062] login_case_test.py->test_login01_success line:24 [INFO] : test_login01_success 用例开始执行
+[2020-11-02 17:45:00,087] base_page.py->find_element line:89 [INFO] : [用户名输入框] 元素识别成功
+[2020-11-02 17:45:03,199] base_page.py->find_element line:89 [INFO] : [密码输入框] 元素识别成功
+[2020-11-02 17:45:06,324] base_page.py->find_element line:89 [INFO] : [登录按钮] 元素识别成功
+[2020-11-02 17:45:06,404] login_ation.py->login_action line:20 [INFO] : 输入的账号是：zhxcra,  密码是：123123
+[2020-11-02 17:45:06,433] login_case_test.py->test_login01_success line:30 [INFO] : test_login01_success 用例结束执行
+[2020-11-02 17:45:06,436] Stard_End.py->tearDown line:47 [INFO] : --------测试方法执行完毕---------------
+[2020-11-02 17:45:09,902] base_page.py->find_element line:89 [INFO] : [用户名] 元素识别成功
+[2020-11-02 17:45:12,984] base_page.py->find_element line:89 [INFO] : [退出登录] 元素识别成功
+[2020-11-02 17:45:16,039] common_action.py->quit line:24 [INFO] : 账号退出登录成功
+[2020-11-02 17:45:16,043] base_page.py->exit_driver line:60 [INFO] : 关闭浏览器
+[2020-11-02 17:45:18,267] Stard_End.py->tearDownClass line:56 [INFO] : =====================测 试 类 执 行 完 毕=====================
+[2020-11-02 17:45:18,267] Stard_End.py->tearDownClass line:57 [INFO] :                                                                
+[2020-11-02 17:46:10,346] Stard_End.py->setUpClass line:18 [INFO] : =====================测 试 类 初 始 化=====================
+[2020-11-02 17:46:12,940] browser.py->__get_chrome_driver line:37 [INFO] : 初始化Google浏览器并启动
+[2020-11-02 17:46:14,070] base_page.py->set_browser_max line:25 [INFO] : 浏览器最大化
+[2020-11-02 17:46:14,513] base_page.py->open_url line:19 [INFO] : 打开url地址: https://www.91trial.com/User/Login/
+[2020-11-02 17:46:14,514] Stard_End.py->setUp line:30 [INFO] : --------测试方法初始化---------------
+[2020-11-02 17:46:14,514] login_case_test.py->test_login01_success line:24 [INFO] : test_login01_success 用例开始执行
+[2020-11-02 17:46:17,537] base_page.py->find_element line:89 [INFO] : [用户名输入框] 元素识别成功
+[2020-11-02 17:46:20,629] base_page.py->find_element line:89 [INFO] : [密码输入框] 元素识别成功
+[2020-11-02 17:46:23,750] base_page.py->find_element line:89 [INFO] : [登录按钮] 元素识别成功
+[2020-11-02 17:46:23,825] login_ation.py->login_action line:20 [INFO] : 输入的账号是：zhxcra,  密码是：123123
+[2020-11-02 17:46:23,845] login_case_test.py->test_login01_success line:30 [INFO] : test_login01_success 用例结束执行
+[2020-11-02 17:46:23,847] Stard_End.py->tearDown line:47 [INFO] : --------测试方法执行完毕---------------
+[2020-11-02 17:46:26,890] base_page.py->find_element line:89 [INFO] : [用户名] 元素识别成功
+[2020-11-02 17:46:29,981] base_page.py->find_element line:89 [INFO] : [退出登录] 元素识别成功
+[2020-11-02 17:46:33,041] common_action.py->quit line:24 [INFO] : 账号退出登录成功
+[2020-11-02 17:46:33,047] base_page.py->exit_driver line:60 [INFO] : 关闭浏览器
+[2020-11-02 17:46:35,293] Stard_End.py->tearDownClass line:56 [INFO] : =====================测 试 类 执 行 完 毕=====================
+[2020-11-02 17:46:35,293] Stard_End.py->tearDownClass line:57 [INFO] :                                                                
+[2020-11-02 17:46:35,293] Stard_End.py->setUpClass line:18 [INFO] : =====================测 试 类 初 始 化=====================
+[2020-11-02 17:46:37,843] browser.py->__get_chrome_driver line:37 [INFO] : 初始化Google浏览器并启动
+[2020-11-02 17:46:38,975] base_page.py->set_browser_max line:25 [INFO] : 浏览器最大化
+[2020-11-02 17:46:39,389] base_page.py->open_url line:19 [INFO] : 打开url地址: https://www.91trial.com/User/Login/
+[2020-11-02 17:46:39,389] Stard_End.py->setUp line:30 [INFO] : --------测试方法初始化---------------
+[2020-11-02 17:46:39,389] project_search_case_test.py->test_ProjectSearch01_1_success line:23 [INFO] : test_ProjectSearch01_1_success 用例开始执行
+[2020-11-02 17:46:44,392] Stard_End.py->tearDown line:47 [INFO] : --------测试方法执行完毕---------------
+[2020-11-02 17:46:57,962] base_page.py->find_element line:91 [ERROR] : [用户名] 元素识别失败，原因是： Message: 
+
+[2020-11-02 17:46:57,962] base_page.py->click line:102 [ERROR] : [用户名] 元素点击操作失败，原因是：unsupported operand type(s) for +: 'NoneType' and 'str'
+[2020-11-02 17:47:11,495] base_page.py->find_element line:91 [ERROR] : [退出登录] 元素识别失败，原因是： Message: 
+
+[2020-11-02 17:47:11,495] base_page.py->click line:102 [ERROR] : [退出登录] 元素点击操作失败，原因是：unsupported operand type(s) for +: 'NoneType' and 'str'
+[2020-11-02 17:47:14,495] common_action.py->quit line:24 [INFO] : 账号退出登录成功
+[2020-11-02 17:47:14,501] base_page.py->exit_driver line:60 [INFO] : 关闭浏览器
+[2020-11-02 17:47:17,103] Stard_End.py->tearDownClass line:56 [INFO] : =====================测 试 类 执 行 完 毕=====================
+[2020-11-02 17:47:17,103] Stard_End.py->tearDownClass line:57 [INFO] :                                                                
+[2020-11-02 17:55:18,491] Stard_End.py->setUpClass line:18 [INFO] : =====================测 试 类 初 始 化=====================
+[2020-11-02 17:55:21,582] browser.py->__get_chrome_driver line:37 [INFO] : 初始化Google浏览器并启动
+[2020-11-02 17:55:22,713] base_page.py->set_browser_max line:25 [INFO] : 浏览器最大化
+[2020-11-02 17:55:23,186] base_page.py->open_url line:19 [INFO] : 打开url地址: https://www.91trial.com/User/Login/
+[2020-11-02 17:55:23,187] Stard_End.py->setUp line:30 [INFO] : --------测试方法初始化---------------
+[2020-11-02 17:55:23,187] login_case_test.py->test_login01_success line:24 [INFO] : test_login01_success 用例开始执行
+[2020-11-02 17:55:26,220] base_page.py->find_element line:89 [INFO] : [用户名输入框] 元素识别成功
+[2020-11-02 17:55:29,320] base_page.py->find_element line:89 [INFO] : [密码输入框] 元素识别成功
+[2020-11-02 17:55:32,427] base_page.py->find_element line:89 [INFO] : [登录按钮] 元素识别成功
+[2020-11-02 17:55:32,480] login_ation.py->login_action line:20 [INFO] : 输入的账号是：zhxcra,  密码是：123123
+[2020-11-02 17:55:32,495] login_case_test.py->test_login01_success line:30 [INFO] : test_login01_success 用例结束执行
+[2020-11-02 17:55:32,497] Stard_End.py->tearDown line:47 [INFO] : --------测试方法执行完毕---------------
+[2020-11-02 17:55:35,536] base_page.py->find_element line:89 [INFO] : [用户名] 元素识别成功
+[2020-11-02 17:55:38,632] base_page.py->find_element line:89 [INFO] : [退出登录] 元素识别成功
+[2020-11-02 17:55:41,693] common_action.py->quit line:24 [INFO] : 账号退出登录成功
+[2020-11-02 17:55:41,699] base_page.py->exit_driver line:60 [INFO] : 关闭浏览器
+[2020-11-02 17:55:44,005] Stard_End.py->tearDownClass line:56 [INFO] : =====================测 试 类 执 行 完 毕=====================
+[2020-11-02 17:55:44,005] Stard_End.py->tearDownClass line:57 [INFO] :                                                                
+[2020-11-02 17:55:44,005] Stard_End.py->setUpClass line:18 [INFO] : =====================测 试 类 初 始 化=====================
+[2020-11-02 17:55:46,527] browser.py->__get_chrome_driver line:37 [INFO] : 初始化Google浏览器并启动
+[2020-11-02 17:55:47,658] base_page.py->set_browser_max line:25 [INFO] : 浏览器最大化
+[2020-11-02 17:55:48,099] base_page.py->open_url line:19 [INFO] : 打开url地址: https://www.91trial.com/User/Login/
+[2020-11-02 17:55:48,099] Stard_End.py->setUp line:30 [INFO] : --------测试方法初始化---------------
+[2020-11-02 17:55:48,099] project_search_case_test.py->test_ProjectSearch01_1_success line:26 [INFO] : test_ProjectSearch01_1_success 用例开始执行
+[2020-11-02 17:55:53,103] Stard_End.py->tearDown line:47 [INFO] : --------测试方法执行完毕---------------
+[2020-11-02 17:56:06,654] base_page.py->find_element line:91 [ERROR] : [用户名] 元素识别失败，原因是： Message: 
+
+[2020-11-02 17:56:06,654] base_page.py->click line:102 [ERROR] : [用户名] 元素点击操作失败，原因是：unsupported operand type(s) for +: 'NoneType' and 'str'
+[2020-11-02 17:56:10,658] connectionpool.py->urlopen line:744 [WARNING] : Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001DD10D8ED60>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')': /session/0b4daa9101395d659a4bf8d61441c189/timeouts/implicit_wait
+[2020-11-02 17:56:11,662] connectionpool.py->urlopen line:744 [WARNING] : Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001DD10DDB940>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')': /session/0b4daa9101395d659a4bf8d61441c189/timeouts/implicit_wait
+[2020-11-02 17:56:12,666] connectionpool.py->urlopen line:744 [WARNING] : Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001DD10DDB070>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')': /session/0b4daa9101395d659a4bf8d61441c189/timeouts/implicit_wait
+[2020-11-02 17:56:13,671] base_page.py->find_element line:91 [ERROR] : [退出登录] 元素识别失败，原因是： HTTPConnectionPool(host='127.0.0.1', port=55206): Max retries exceeded with url: /session/0b4daa9101395d659a4bf8d61441c189/timeouts/implicit_wait (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001DD10DDB5E0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+[2020-11-02 17:56:13,671] base_page.py->click line:102 [ERROR] : [退出登录] 元素点击操作失败，原因是：unsupported operand type(s) for +: 'NoneType' and 'str'
+[2020-11-02 17:57:45,665] Stard_End.py->setUpClass line:18 [INFO] : =====================测 试 类 初 始 化=====================
+[2020-11-02 17:57:48,248] browser.py->__get_chrome_driver line:37 [INFO] : 初始化Google浏览器并启动
+[2020-11-02 17:57:49,374] base_page.py->set_browser_max line:25 [INFO] : 浏览器最大化
+[2020-11-02 17:57:50,647] base_page.py->open_url line:19 [INFO] : 打开url地址: https://www.91trial.com/User/Login/
+[2020-11-02 17:57:50,647] Stard_End.py->setUp line:30 [INFO] : --------测试方法初始化---------------
+[2020-11-02 17:57:50,647] login_case_test.py->test_login01_success line:24 [INFO] : test_login01_success 用例开始执行
+[2020-11-02 17:57:53,674] base_page.py->find_element line:89 [INFO] : [用户名输入框] 元素识别成功
+[2020-11-02 17:57:56,783] base_page.py->find_element line:89 [INFO] : [密码输入框] 元素识别成功
+[2020-11-02 17:57:59,907] base_page.py->find_element line:89 [INFO] : [登录按钮] 元素识别成功
+[2020-11-02 17:57:59,986] login_ation.py->login_action line:20 [INFO] : 输入的账号是：zhxcra,  密码是：123123
+[2020-11-02 17:58:00,008] login_case_test.py->test_login01_success line:30 [INFO] : test_login01_success 用例结束执行
+[2020-11-02 17:58:00,012] Stard_End.py->tearDown line:47 [INFO] : --------测试方法执行完毕---------------
+[2020-11-02 17:58:03,067] base_page.py->find_element line:89 [INFO] : [用户名] 元素识别成功
+[2020-11-02 17:58:06,157] base_page.py->find_element line:89 [INFO] : [退出登录] 元素识别成功
+[2020-11-02 17:58:09,215] common_action.py->quit line:24 [INFO] : 账号退出登录成功
+[2020-11-02 17:58:09,221] base_page.py->exit_driver line:60 [INFO] : 关闭浏览器
+[2020-11-02 17:58:11,454] Stard_End.py->tearDownClass line:56 [INFO] : =====================测 试 类 执 行 完 毕=====================
+[2020-11-02 17:58:11,454] Stard_End.py->tearDownClass line:57 [INFO] :                                                                
+[2020-11-02 17:58:11,455] project_search_case_test.py->test_ProjectSearch01_1_success line:26 [INFO] : test_ProjectSearch01_1_success 用例开始执行
+[2020-11-02 17:59:33,630] Stard_End.py->setUpClass line:18 [INFO] : =====================测 试 类 初 始 化=====================
+[2020-11-02 17:59:36,174] browser.py->__get_chrome_driver line:37 [INFO] : 初始化Google浏览器并启动
+[2020-11-02 17:59:37,298] base_page.py->set_browser_max line:25 [INFO] : 浏览器最大化
+[2020-11-02 17:59:37,743] base_page.py->open_url line:19 [INFO] : 打开url地址: https://www.91trial.com/User/Login/
+[2020-11-02 17:59:37,743] Stard_End.py->setUp line:30 [INFO] : --------测试方法初始化---------------
+[2020-11-02 17:59:37,743] login_case_test.py->test_login01_success line:24 [INFO] : test_login01_success 用例开始执行
+[2020-11-02 17:59:40,772] base_page.py->find_element line:89 [INFO] : [用户名输入框] 元素识别成功
+[2020-11-02 17:59:43,880] base_page.py->find_element line:89 [INFO] : [密码输入框] 元素识别成功
+[2020-11-02 17:59:46,986] base_page.py->find_element line:89 [INFO] : [登录按钮] 元素识别成功
+[2020-11-02 17:59:47,049] login_ation.py->login_action line:20 [INFO] : 输入的账号是：zhxcra,  密码是：123123
+[2020-11-02 17:59:47,064] login_case_test.py->test_login01_success line:30 [INFO] : test_login01_success 用例结束执行
+[2020-11-02 17:59:47,065] Stard_End.py->tearDown line:47 [INFO] : --------测试方法执行完毕---------------
+[2020-11-02 17:59:50,106] base_page.py->find_element line:89 [INFO] : [用户名] 元素识别成功
+[2020-11-02 17:59:53,199] base_page.py->find_element line:89 [INFO] : [退出登录] 元素识别成功
+[2020-11-02 17:59:56,259] common_action.py->quit line:24 [INFO] : 账号退出登录成功
+[2020-11-02 17:59:56,266] base_page.py->exit_driver line:60 [INFO] : 关闭浏览器
+[2020-11-02 17:59:58,531] Stard_End.py->tearDownClass line:56 [INFO] : =====================测 试 类 执 行 完 毕=====================
+[2020-11-02 17:59:58,531] Stard_End.py->tearDownClass line:57 [INFO] :                                                                
+[2020-11-02 17:59:58,532] project_search_case_test.py->test_ProjectSearch01_1_success line:26 [INFO] : test_ProjectSearch01_1_success 用例开始执行
+[2020-11-02 18:00:20,405] Stard_End.py->setUpClass line:18 [INFO] : =====================测 试 类 初 始 化=====================
+[2020-11-02 18:00:22,962] browser.py->__get_chrome_driver line:37 [INFO] : 初始化Google浏览器并启动
+[2020-11-02 18:00:24,093] base_page.py->set_browser_max line:25 [INFO] : 浏览器最大化
+[2020-11-02 18:00:24,537] base_page.py->open_url line:19 [INFO] : 打开url地址: https://www.91trial.com/User/Login/
+[2020-11-02 18:00:24,537] Stard_End.py->setUp line:30 [INFO] : --------测试方法初始化---------------
+[2020-11-02 18:00:24,537] login_case_test.py->test_login01_success line:24 [INFO] : test_login01_success 用例开始执行
+[2020-11-02 18:00:27,558] base_page.py->find_element line:89 [INFO] : [用户名输入框] 元素识别成功
+[2020-11-02 18:00:30,647] base_page.py->find_element line:89 [INFO] : [密码输入框] 元素识别成功
+[2020-11-02 18:00:33,766] base_page.py->find_element line:89 [INFO] : [登录按钮] 元素识别成功
+[2020-11-02 18:00:33,824] login_ation.py->login_action line:20 [INFO] : 输入的账号是：zhxcra,  密码是：123123
+[2020-11-02 18:00:33,841] login_case_test.py->test_login01_success line:30 [INFO] : test_login01_success 用例结束执行
+[2020-11-02 18:00:33,843] Stard_End.py->tearDown line:47 [INFO] : --------测试方法执行完毕---------------
+[2020-11-02 18:00:36,893] base_page.py->find_element line:89 [INFO] : [用户名] 元素识别成功
+[2020-11-02 18:00:39,990] base_page.py->find_element line:89 [INFO] : [退出登录] 元素识别成功
+[2020-11-02 18:00:43,052] common_action.py->quit line:24 [INFO] : 账号退出登录成功
+[2020-11-02 18:00:43,058] base_page.py->exit_driver line:60 [INFO] : 关闭浏览器
+[2020-11-02 18:00:45,282] Stard_End.py->tearDownClass line:56 [INFO] : =====================测 试 类 执 行 完 毕=====================
+[2020-11-02 18:00:45,282] Stard_End.py->tearDownClass line:57 [INFO] :                                                                
+[2020-11-02 18:00:45,283] project_search_case_test.py->test_ProjectSearch01_1_success line:26 [INFO] : test_ProjectSearch01_1_success 用例开始执行
+[2020-11-02 18:01:50,622] Stard_End.py->setUpClass line:18 [INFO] : =====================测 试 类 初 始 化=====================
+[2020-11-02 18:01:53,189] browser.py->__get_chrome_driver line:37 [INFO] : 初始化Google浏览器并启动
+[2020-11-02 18:01:54,320] base_page.py->set_browser_max line:25 [INFO] : 浏览器最大化
+[2020-11-02 18:01:54,780] base_page.py->open_url line:19 [INFO] : 打开url地址: https://www.91trial.com/User/Login/
+[2020-11-02 18:01:54,780] Stard_End.py->setUp line:30 [INFO] : --------测试方法初始化---------------
+[2020-11-02 18:01:54,780] login_case_test.py->test_login01_success line:24 [INFO] : test_login01_success 用例开始执行
+[2020-11-02 18:01:57,808] base_page.py->find_element line:89 [INFO] : [用户名输入框] 元素识别成功
+[2020-11-02 18:02:00,900] base_page.py->find_element line:89 [INFO] : [密码输入框] 元素识别成功
+[2020-11-02 18:02:04,004] base_page.py->find_element line:89 [INFO] : [登录按钮] 元素识别成功
+[2020-11-02 18:02:04,084] login_ation.py->login_action line:20 [INFO] : 输入的账号是：zhxcra,  密码是：123123
+[2020-11-02 18:02:04,108] login_case_test.py->test_login01_success line:30 [INFO] : test_login01_success 用例结束执行
+[2020-11-02 18:02:04,110] Stard_End.py->tearDown line:47 [INFO] : --------测试方法执行完毕---------------
+[2020-11-02 18:02:07,151] base_page.py->find_element line:89 [INFO] : [用户名] 元素识别成功
+[2020-11-02 18:02:10,234] base_page.py->find_element line:89 [INFO] : [退出登录] 元素识别成功
+[2020-11-02 18:02:13,295] common_action.py->quit line:24 [INFO] : 账号退出登录成功
+[2020-11-02 18:02:13,301] base_page.py->exit_driver line:60 [INFO] : 关闭浏览器
+[2020-11-02 18:02:15,534] Stard_End.py->tearDownClass line:56 [INFO] : =====================测 试 类 执 行 完 毕=====================
+[2020-11-02 18:02:15,534] Stard_End.py->tearDownClass line:57 [INFO] :                                                                
+[2020-11-02 18:02:15,535] project_search_case_test.py->test_ProjectSearch01_1_success line:26 [INFO] : test_ProjectSearch01_1_success 用例开始执行
+[2020-11-02 18:02:29,314] Stard_End.py->setUpClass line:18 [INFO] : =====================测 试 类 初 始 化=====================
+[2020-11-02 18:02:31,816] browser.py->__get_chrome_driver line:37 [INFO] : 初始化Google浏览器并启动
+[2020-11-02 18:02:32,942] base_page.py->set_browser_max line:25 [INFO] : 浏览器最大化
+[2020-11-02 18:02:34,137] base_page.py->open_url line:19 [INFO] : 打开url地址: https://www.91trial.com/User/Login/
+[2020-11-02 18:02:34,137] Stard_End.py->setUp line:30 [INFO] : --------测试方法初始化---------------
+[2020-11-02 18:02:34,137] login_case_test.py->test_login01_success line:24 [INFO] : test_login01_success 用例开始执行
+[2020-11-02 18:02:37,166] base_page.py->find_element line:89 [INFO] : [用户名输入框] 元素识别成功
+[2020-11-02 18:02:40,257] base_page.py->find_element line:89 [INFO] : [密码输入框] 元素识别成功
+[2020-11-02 18:02:43,371] base_page.py->find_element line:89 [INFO] : [登录按钮] 元素识别成功
+[2020-11-02 18:02:43,453] login_ation.py->login_action line:20 [INFO] : 输入的账号是：zhxcra,  密码是：123123
+[2020-11-02 18:02:43,476] login_case_test.py->test_login01_success line:30 [INFO] : test_login01_success 用例结束执行
+[2020-11-02 18:02:43,479] Stard_End.py->tearDown line:47 [INFO] : --------测试方法执行完毕---------------
+[2020-11-02 18:02:46,523] base_page.py->find_element line:89 [INFO] : [用户名] 元素识别成功
+[2020-11-02 18:02:49,616] base_page.py->find_element line:89 [INFO] : [退出登录] 元素识别成功
+[2020-11-02 18:02:52,677] common_action.py->quit line:24 [INFO] : 账号退出登录成功
+[2020-11-02 18:02:52,683] base_page.py->exit_driver line:60 [INFO] : 关闭浏览器
+[2020-11-02 18:02:54,901] Stard_End.py->tearDownClass line:56 [INFO] : =====================测 试 类 执 行 完 毕=====================
+[2020-11-02 18:02:54,901] Stard_End.py->tearDownClass line:57 [INFO] :                                                                
+[2020-11-02 18:02:54,902] project_search_case_test.py->test_ProjectSearch01_1_success line:26 [INFO] : test_ProjectSearch01_1_success 用例开始执行
+[2020-11-02 18:04:31,466] Stard_End.py->setUpClass line:18 [INFO] : =====================测 试 类 初 始 化=====================
+[2020-11-02 18:04:34,026] browser.py->__get_chrome_driver line:37 [INFO] : 初始化Google浏览器并启动
+[2020-11-02 18:04:35,161] base_page.py->set_browser_max line:25 [INFO] : 浏览器最大化
+[2020-11-02 18:04:35,588] base_page.py->open_url line:19 [INFO] : 打开url地址: https://www.91trial.com/User/Login/
+[2020-11-02 18:04:35,589] Stard_End.py->setUp line:30 [INFO] : --------测试方法初始化---------------
+[2020-11-02 18:04:35,589] login_case_test.py->test_login01_success line:24 [INFO] : test_login01_success 用例开始执行
+[2020-11-02 18:04:38,617] base_page.py->find_element line:89 [INFO] : [用户名输入框] 元素识别成功
+[2020-11-02 18:04:41,723] base_page.py->find_element line:89 [INFO] : [密码输入框] 元素识别成功
+[2020-11-02 18:04:44,834] base_page.py->find_element line:89 [INFO] : [登录按钮] 元素识别成功
+[2020-11-02 18:04:44,914] login_ation.py->login_action line:20 [INFO] : 输入的账号是：zhxcra,  密码是：123123
+[2020-11-02 18:04:44,938] login_case_test.py->test_login01_success line:30 [INFO] : test_login01_success 用例结束执行
+[2020-11-02 18:04:44,940] Stard_End.py->tearDown line:47 [INFO] : --------测试方法执行完毕---------------
+[2020-11-02 18:04:47,982] base_page.py->find_element line:89 [INFO] : [用户名] 元素识别成功
+[2020-11-02 18:04:51,054] base_page.py->find_element line:89 [INFO] : [退出登录] 元素识别成功
+[2020-11-02 18:04:54,116] common_action.py->quit line:24 [INFO] : 账号退出登录成功
+[2020-11-02 18:04:54,122] base_page.py->exit_driver line:60 [INFO] : 关闭浏览器
+[2020-11-02 18:04:56,367] Stard_End.py->tearDownClass line:56 [INFO] : =====================测 试 类 执 行 完 毕=====================
+[2020-11-02 18:04:56,367] Stard_End.py->tearDownClass line:57 [INFO] :                                                                
+[2020-11-02 18:04:56,368] Stard_End.py->setUpClass line:18 [INFO] : =====================测 试 类 初 始 化=====================
+[2020-11-02 18:04:58,880] browser.py->__get_chrome_driver line:37 [INFO] : 初始化Google浏览器并启动
+[2020-11-02 18:05:00,012] base_page.py->set_browser_max line:25 [INFO] : 浏览器最大化
+[2020-11-02 18:05:00,499] base_page.py->open_url line:19 [INFO] : 打开url地址: https://www.91trial.com/User/Login/
+[2020-11-02 18:05:00,499] Stard_End.py->setUp line:30 [INFO] : --------测试方法初始化---------------
+[2020-11-02 18:05:00,500] project_search_case_test.py->test_ProjectSearch01_1_success line:26 [INFO] : test_ProjectSearch01_1_success 用例开始执行
+[2020-11-02 18:05:05,503] Stard_End.py->tearDown line:47 [INFO] : --------测试方法执行完毕---------------
+[2020-11-02 18:05:05,504] Stard_End.py->setUp line:30 [INFO] : --------测试方法初始化---------------
+[2020-11-02 18:05:05,505] login_case_test.py->test_login01_success line:24 [INFO] : test_login01_success 用例开始执行
+[2020-11-02 18:05:10,507] Stard_End.py->tearDown line:47 [INFO] : --------测试方法执行完毕---------------
+[2020-11-02 18:05:24,058] base_page.py->find_element line:91 [ERROR] : [用户名] 元素识别失败，原因是： Message: 
+
+[2020-11-02 18:05:24,058] base_page.py->click line:102 [ERROR] : [用户名] 元素点击操作失败，原因是：unsupported operand type(s) for +: 'NoneType' and 'str'
+[2020-11-02 18:05:37,613] base_page.py->find_element line:91 [ERROR] : [退出登录] 元素识别失败，原因是： Message: 
+
+[2020-11-02 18:05:37,613] base_page.py->click line:102 [ERROR] : [退出登录] 元素点击操作失败，原因是：unsupported operand type(s) for +: 'NoneType' and 'str'
+[2020-11-02 18:05:40,613] common_action.py->quit line:24 [INFO] : 账号退出登录成功
+[2020-11-02 18:05:40,619] base_page.py->exit_driver line:60 [INFO] : 关闭浏览器
+[2020-11-02 18:05:42,851] Stard_End.py->tearDownClass line:56 [INFO] : =====================测 试 类 执 行 完 毕=====================
+[2020-11-02 18:05:42,851] Stard_End.py->tearDownClass line:57 [INFO] :                                                                
+[2020-11-02 18:25:21,920] Stard_End.py->setUpClass line:18 [INFO] : =====================测 试 类 初 始 化=====================
+[2020-11-02 18:25:24,596] browser.py->__get_chrome_driver line:37 [INFO] : 初始化Google浏览器并启动
+[2020-11-02 18:25:25,717] base_page.py->set_browser_max line:25 [INFO] : 浏览器最大化
+[2020-11-02 18:25:26,159] base_page.py->open_url line:19 [INFO] : 打开url地址: https://www.91trial.com/User/Login/
+[2020-11-02 18:25:26,159] Stard_End.py->setUp line:30 [INFO] : --------测试方法初始化---------------
+[2020-11-02 18:25:26,159] login_case_test.py->test_login01_success line:24 [INFO] : test_login01_success 用例开始执行
+[2020-11-02 18:25:29,189] base_page.py->find_element line:89 [INFO] : [用户名输入框] 元素识别成功
+[2020-11-02 18:25:32,307] base_page.py->find_element line:89 [INFO] : [密码输入框] 元素识别成功
+[2020-11-02 18:25:35,436] base_page.py->find_element line:89 [INFO] : [登录按钮] 元素识别成功
+[2020-11-02 18:25:35,523] login_ation.py->login_action line:20 [INFO] : 输入的账号是：zhxcra,  密码是：123123
+[2020-11-02 18:25:35,544] login_case_test.py->test_login01_success line:30 [INFO] : test_login01_success 用例结束执行
+[2020-11-02 18:25:35,547] Stard_End.py->tearDown line:47 [INFO] : --------测试方法执行完毕---------------
+[2020-11-02 18:25:38,588] base_page.py->find_element line:89 [INFO] : [用户名] 元素识别成功
+[2020-11-02 18:25:41,689] base_page.py->find_element line:89 [INFO] : [退出登录] 元素识别成功
+[2020-11-02 18:25:44,742] common_action.py->quit line:24 [INFO] : 账号退出登录成功
+[2020-11-02 18:25:44,748] base_page.py->exit_driver line:60 [INFO] : 关闭浏览器
+[2020-11-02 18:25:46,982] Stard_End.py->tearDownClass line:56 [INFO] : =====================测 试 类 执 行 完 毕=====================
+[2020-11-02 18:25:46,982] Stard_End.py->tearDownClass line:57 [INFO] :                                                                
+[2020-11-02 18:25:46,982] Stard_End.py->setUpClass line:18 [INFO] : =====================测 试 类 初 始 化=====================
+[2020-11-02 18:25:49,576] browser.py->__get_chrome_driver line:37 [INFO] : 初始化Google浏览器并启动
+[2020-11-02 18:25:50,708] base_page.py->set_browser_max line:25 [INFO] : 浏览器最大化
+[2020-11-02 18:25:51,133] base_page.py->open_url line:19 [INFO] : 打开url地址: https://www.91trial.com/User/Login/
+[2020-11-02 18:25:51,133] Stard_End.py->setUp line:30 [INFO] : --------测试方法初始化---------------
+[2020-11-02 18:25:51,133] project_search_case_test.py->test_ProjectSearch01_1_success line:26 [INFO] : test_ProjectSearch01_1_success 用例开始执行
+[2020-11-02 18:25:56,136] Stard_End.py->tearDown line:47 [INFO] : --------测试方法执行完毕---------------
+[2020-11-02 18:25:56,139] Stard_End.py->setUp line:30 [INFO] : --------测试方法初始化---------------
+[2020-11-02 18:25:56,139] login_case_test.py->test_login01_success line:24 [INFO] : test_login01_success 用例开始执行
+[2020-11-02 18:26:01,142] Stard_End.py->tearDown line:47 [INFO] : --------测试方法执行完毕---------------
+[2020-11-02 18:26:09,631] base_page.py->find_element line:91 [ERROR] : [用户名] 元素识别失败，原因是： Message: 
+
+[2020-11-02 18:26:09,631] base_page.py->click line:102 [ERROR] : [用户名] 元素点击操作失败，原因是：unsupported operand type(s) for +: 'NoneType' and 'str'
+[2020-11-02 18:26:13,637] connectionpool.py->urlopen line:744 [WARNING] : Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021CFD17C0D0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')': /session/393852815533374f442325e68c138256/timeouts/implicit_wait
+[2020-11-02 18:26:14,641] connectionpool.py->urlopen line:744 [WARNING] : Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021CFD17A310>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')': /session/393852815533374f442325e68c138256/timeouts/implicit_wait
+[2020-11-02 18:26:15,646] connectionpool.py->urlopen line:744 [WARNING] : Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021CFD17A070>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')': /session/393852815533374f442325e68c138256/timeouts/implicit_wait
+[2020-11-02 18:26:16,651] base_page.py->find_element line:91 [ERROR] : [退出登录] 元素识别失败，原因是： HTTPConnectionPool(host='127.0.0.1', port=57575): Max retries exceeded with url: /session/393852815533374f442325e68c138256/timeouts/implicit_wait (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021CFD17A280>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+[2020-11-02 18:26:16,652] base_page.py->click line:102 [ERROR] : [退出登录] 元素点击操作失败，原因是：unsupported operand type(s) for +: 'NoneType' and 'str'
+[2020-11-02 18:26:19,652] common_action.py->quit line:24 [INFO] : 账号退出登录成功
+[2020-11-02 18:26:19,660] base_page.py->exit_driver line:60 [INFO] : 关闭浏览器
+[2020-11-02 18:26:20,666] connectionpool.py->urlopen line:744 [WARNING] : Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021CFD17A400>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')': /session/393852815533374f442325e68c138256
+[2020-11-02 18:26:21,670] connectionpool.py->urlopen line:744 [WARNING] : Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021CFD17A580>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')': /session/393852815533374f442325e68c138256
+[2020-11-02 18:26:22,675] connectionpool.py->urlopen line:744 [WARNING] : Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021CFD17A910>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')': /session/393852815533374f442325e68c138256
+[2020-11-02 18:26:25,686] Stard_End.py->tearDownClass line:56 [INFO] : =====================测 试 类 执 行 完 毕=====================
+[2020-11-02 18:26:25,687] Stard_End.py->tearDownClass line:57 [INFO] :                                                                

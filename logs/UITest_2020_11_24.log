@@ -1,0 +1,1154 @@
+[2020-11-24 10:11:19,233] Stard_End.py->setUpClass line:18 [INFO] : =====================测 试 类 初 始 化=====================
+[2020-11-24 10:11:19,234] Stard_End.py->setUp line:26 [INFO] : --------测试方法初始化---------------
+[2020-11-24 10:11:22,161] browser.py->__get_chrome_driver line:37 [INFO] : 初始化Google浏览器并启动
+[2020-11-24 10:11:23,303] base_page.py->set_browser_max line:29 [INFO] : 浏览器最大化
+[2020-11-24 10:11:23,988] base_page.py->open_url line:23 [INFO] : 打开url地址: https://www.91trial.com/User/Login/
+[2020-11-24 10:11:23,988] addPatient_case_test.py->test_addPatient_success line:23 [INFO] : test_addPatient_success 用例开始执行
+[2020-11-24 10:11:33,256] login_ation.py->login_action line:20 [INFO] : 输入的账号是：zhxcrc,  密码是：123123
+[2020-11-24 10:11:54,865] ShaiXuan_visit_action.py->click_visit_date_input line:22 [INFO] : 输入访视日期:2020-01-22
+[2020-11-24 10:11:54,865] base_page.py->random_name line:259 [INFO] : 随机生成名字: 钱色恩
+[2020-11-24 10:11:54,938] base_page.py->click line:105 [ERROR] : [姓名] 元素点击操作失败，原因是：Message: unknown error: Element <input type="text" name="name" fieldid="076cda81-5c95-47cd-b0b3-8a12a2409a9f" fieldinputtype="0" tname="" class="form-control textbox phmod0" required="" placeholder="" linkids="" fieldlength="" calculatecolids="" rangetrigger="0" rangecols=""> is not clickable at point (591, 217). Other element would receive the click: <th class="dow">...</th>
+  (Session info: chrome=86.0.4240.198)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+[2020-11-24 10:11:55,007] ShaiXuan_visit_page.py->patient_name_button line:48 [INFO] : 输入患者姓名： 钱色恩
+[2020-11-24 10:11:55,007] base_page.py->random_numb line:277 [INFO] : 随机生成名字: 85275
+[2020-11-24 10:12:00,007] base_page.py->default_wait line:251 [INFO] : 默认等待时间：5.0
+[2020-11-24 10:12:09,157] common_action.py->quit line:24 [INFO] : 账号退出登录成功
+[2020-11-24 10:12:09,163] base_page.py->exit_driver line:64 [INFO] : 关闭浏览器
+[2020-11-24 10:12:11,440] Stard_End.py->tearDown line:43 [INFO] : --------测试方法执行完毕---------------
+[2020-11-24 10:12:11,440] Stard_End.py->tearDownClass line:49 [INFO] : =====================测 试 类 执 行 完 毕=====================
+[2020-11-24 10:16:28,721] Stard_End.py->setUpClass line:18 [INFO] : =====================测 试 类 初 始 化=====================
+[2020-11-24 10:16:28,722] Stard_End.py->setUp line:26 [INFO] : --------测试方法初始化---------------
+[2020-11-24 10:16:31,291] browser.py->__get_chrome_driver line:37 [INFO] : 初始化Google浏览器并启动
+[2020-11-24 10:16:32,414] base_page.py->set_browser_max line:29 [INFO] : 浏览器最大化
+[2020-11-24 10:16:32,855] base_page.py->open_url line:23 [INFO] : 打开url地址: https://www.91trial.com/User/Login/
+[2020-11-24 10:16:32,856] addPatient_case_test.py->test_addPatient_success line:23 [INFO] : test_addPatient_success 用例开始执行
+[2020-11-24 10:16:42,201] login_ation.py->login_action line:20 [INFO] : 输入的账号是：zhxcrc,  密码是：123123
+[2020-11-24 10:17:01,730] ShaiXuan_visit_action.py->click_visit_date_input line:22 [INFO] : 输入访视日期:2020-01-22
+[2020-11-24 10:17:01,730] base_page.py->random_name line:259 [INFO] : 随机生成名字: 李恩黑
+[2020-11-24 10:17:01,794] base_page.py->click line:105 [ERROR] : [姓名] 元素点击操作失败，原因是：Message: unknown error: Element <input type="text" name="name" fieldid="076cda81-5c95-47cd-b0b3-8a12a2409a9f" fieldinputtype="0" tname="" class="form-control textbox phmod0" required="" placeholder="" linkids="" fieldlength="" calculatecolids="" rangetrigger="0" rangecols=""> is not clickable at point (591, 217). Other element would receive the click: <th class="dow">...</th>
+  (Session info: chrome=86.0.4240.198)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+[2020-11-24 10:17:01,869] ShaiXuan_visit_page.py->patient_name_button line:48 [INFO] : 输入患者姓名： 李恩黑
+[2020-11-24 10:17:01,869] base_page.py->random_numb line:277 [INFO] : 随机生成编号: 56440
+[2020-11-24 10:17:01,941] base_page.py->click line:105 [ERROR] : [随机号] 元素点击操作失败，原因是：Message: unknown error: Element <input type="text" name="Random number" fieldid="703e7032-e735-4275-a751-c451ba322fa5" fieldinputtype="0" tname="" class="form-control textbox phmod0" required="" placeholder="" linkids="" fieldlength="" calculatecolids="" rangetrigger="0" rangecols=""> is not clickable at point (591, 295). Other element would receive the click: <td class="day">...</td>
+  (Session info: chrome=86.0.4240.198)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+[2020-11-24 10:17:02,062] ShaiXuan_visit_page.py->randomNumber_button line:56 [INFO] : 输入随机号名：56440
+[2020-11-24 10:17:05,149] base_page.py->click line:105 [ERROR] : [肝穿分组_肝穿] 元素点击操作失败，原因是：Message: unknown error: Element <label for="d80211ae-0895-44af-92f1-fd43b24a2110" class="poradio">...</label> is not clickable at point (527, 375). Other element would receive the click: <td class="new day">...</td>
+  (Session info: chrome=86.0.4240.198)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+[2020-11-24 10:17:05,150] ShaiXuan_visit_page.py->Liver_puncture_button line:68 [INFO] : 点击[肝穿]元素
+[2020-11-24 10:17:08,243] base_page.py->click line:105 [ERROR] : [肝穿分组_非肝穿] 元素点击操作失败，原因是：Message: unknown error: Element <label for="66f03d36-94a7-4d74-9506-04d8cbed29e1" class="poradio">...</label> is not clickable at point (598, 375). Other element would receive the click: <td class="new day">...</td>
+  (Session info: chrome=86.0.4240.198)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+[2020-11-24 10:17:08,243] ShaiXuan_visit_page.py->Non_hepatic_penetration_button line:72 [INFO] : 点击[非肝穿]元素
+[2020-11-24 10:17:11,629] ShaiXuan_visit_page.py->birthday_button line:77 [INFO] : 点击[出生日期]元素
+[2020-11-24 10:17:14,766] ShaiXuan_visit_page.py->sex_men_button line:84 [INFO] : 点击[男]元素
+[2020-11-24 10:17:17,943] ShaiXuan_visit_page.py->height_button line:92 [INFO] : 输入身高值： 178.3
+[2020-11-24 10:17:21,060] ShaiXuan_visit_page.py->group_ETV_button line:96 [INFO] : 点击[组别_ETV单药组]元素
+[2020-11-24 10:17:21,179] common_action.py->No_meiyou_button line:231 [INFO] : 点击[没有]元素
+[2020-11-24 10:17:21,214] base_page.py->click line:105 [ERROR] : [是] 元素点击操作失败，原因是：Message: element not visible
+  (Session info: chrome=86.0.4240.198)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+[2020-11-24 10:17:21,215] common_action.py->Yes_shi_button line:235 [INFO] : 点击[是]元素
+[2020-11-24 10:17:21,241] base_page.py->click line:105 [ERROR] : [是] 元素点击操作失败，原因是：Message: element not visible
+  (Session info: chrome=86.0.4240.198)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+[2020-11-24 10:17:21,241] common_action.py->Yes_shi_button line:235 [INFO] : 点击[是]元素
+[2020-11-24 10:17:21,530] base_page.py->click line:105 [ERROR] : [模块保存按钮] 元素点击操作失败，原因是：Message: unknown error: Element <button type="button" class="btn btn-success nhp_but" dataid="" mongoid="" patientid="" visitid="492b10a4-5131-439a-890f-4eb25c1856b4" moduleid="08771952-85a1-4d07-a79c-eb4401930f55" onclick="infoSubmit('/Visit/SaveVisitData',this,0)">...</button> is not clickable at point (1404, 77). Other element would receive the click: <div class="layui-layer-shade" id="layui-layer-shade5" times="5" style="z-index:19891018; background-color:#000; opacity:0.01; filter:alpha(opacity=1);"></div>
+  (Session info: chrome=86.0.4240.198)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+[2020-11-24 10:17:24,644] base_page.py->click line:105 [ERROR] : [用户名] 元素点击操作失败，原因是：Message: unknown error: Element <div id="dLabel" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">...</div> is not clickable at point (30, 724). Other element would receive the click: <div class="layui-layer-shade" id="layui-layer-shade17" times="17" style="z-index:19891030; background-color:#000; opacity:0.01; filter:alpha(opacity=1);"></div>
+  (Session info: chrome=86.0.4240.198)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+[2020-11-24 10:17:27,698] base_page.py->click line:105 [ERROR] : [退出登录] 元素点击操作失败，原因是：Message: element not visible
+  (Session info: chrome=86.0.4240.198)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+[2020-11-24 10:17:30,699] common_action.py->quit line:24 [INFO] : 账号退出登录成功
+[2020-11-24 10:17:30,703] base_page.py->exit_driver line:64 [INFO] : 关闭浏览器
+[2020-11-24 10:17:32,970] Stard_End.py->tearDown line:43 [INFO] : --------测试方法执行完毕---------------
+[2020-11-24 10:17:32,970] Stard_End.py->tearDownClass line:49 [INFO] : =====================测 试 类 执 行 完 毕=====================
+[2020-11-24 10:20:23,623] Stard_End.py->setUpClass line:18 [INFO] : =====================测 试 类 初 始 化=====================
+[2020-11-24 10:20:23,623] Stard_End.py->setUp line:26 [INFO] : --------测试方法初始化---------------
+[2020-11-24 10:20:26,213] browser.py->__get_chrome_driver line:37 [INFO] : 初始化Google浏览器并启动
+[2020-11-24 10:20:27,342] base_page.py->set_browser_max line:29 [INFO] : 浏览器最大化
+[2020-11-24 10:20:27,895] base_page.py->open_url line:23 [INFO] : 打开url地址: https://www.91trial.com/User/Login/
+[2020-11-24 10:20:27,896] addPatient_case_test.py->test_addPatient_success line:23 [INFO] : test_addPatient_success 用例开始执行
+[2020-11-24 10:20:37,189] login_ation.py->login_action line:20 [INFO] : 输入的账号是：zhxcrc,  密码是：123123
+[2020-11-24 10:20:55,169] ShaiXuan_visit_action.py->click_visit_date_input line:22 [INFO] : 输入访视日期:2020-01-22
+[2020-11-24 10:20:55,169] base_page.py->random_name line:259 [INFO] : 随机生成名字: 王恩圣
+[2020-11-24 10:20:55,233] base_page.py->click line:105 [ERROR] : [姓名] 元素点击操作失败，原因是：Message: unknown error: Element <input type="text" name="name" fieldid="076cda81-5c95-47cd-b0b3-8a12a2409a9f" fieldinputtype="0" tname="" class="form-control textbox phmod0" required="" placeholder="" linkids="" fieldlength="" calculatecolids="" rangetrigger="0" rangecols=""> is not clickable at point (591, 217). Other element would receive the click: <th class="dow">...</th>
+  (Session info: chrome=86.0.4240.198)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+[2020-11-24 10:20:55,304] ShaiXuan_visit_page.py->patient_name_button line:48 [INFO] : 输入患者姓名： 王恩圣
+[2020-11-24 10:20:55,305] base_page.py->random_numb line:277 [INFO] : 随机生成编号: 02498
+[2020-11-24 10:20:55,362] base_page.py->click line:105 [ERROR] : [随机号] 元素点击操作失败，原因是：Message: unknown error: Element <input type="text" name="Random number" fieldid="703e7032-e735-4275-a751-c451ba322fa5" fieldinputtype="0" tname="" class="form-control textbox phmod0" required="" placeholder="" linkids="" fieldlength="" calculatecolids="" rangetrigger="0" rangecols=""> is not clickable at point (591, 295). Other element would receive the click: <td class="day">...</td>
+  (Session info: chrome=86.0.4240.198)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+[2020-11-24 10:20:55,483] ShaiXuan_visit_page.py->randomNumber_button line:56 [INFO] : 输入随机号名：02498
+[2020-11-24 10:20:58,572] base_page.py->click line:105 [ERROR] : [肝穿分组_肝穿] 元素点击操作失败，原因是：Message: unknown error: Element <label for="d80211ae-0895-44af-92f1-fd43b24a2110" class="poradio">...</label> is not clickable at point (527, 375). Other element would receive the click: <td class="new day">...</td>
+  (Session info: chrome=86.0.4240.198)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+[2020-11-24 10:20:58,572] ShaiXuan_visit_page.py->Liver_puncture_button line:68 [INFO] : 点击[肝穿]元素
+[2020-11-24 10:21:01,627] base_page.py->click line:105 [ERROR] : [肝穿分组_非肝穿] 元素点击操作失败，原因是：Message: unknown error: Element <label for="66f03d36-94a7-4d74-9506-04d8cbed29e1" class="poradio">...</label> is not clickable at point (598, 375). Other element would receive the click: <td class="new day">...</td>
+  (Session info: chrome=86.0.4240.198)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+[2020-11-24 10:21:01,627] ShaiXuan_visit_page.py->Non_hepatic_penetration_button line:72 [INFO] : 点击[非肝穿]元素
+[2020-11-24 10:21:04,955] ShaiXuan_visit_page.py->birthday_button line:77 [INFO] : 点击[出生日期]元素
+[2020-11-24 10:21:08,087] ShaiXuan_visit_page.py->sex_men_button line:84 [INFO] : 点击[男]元素
+[2020-11-24 10:21:11,251] ShaiXuan_visit_page.py->height_button line:92 [INFO] : 输入身高值： 178.3
+[2020-11-24 10:21:14,353] ShaiXuan_visit_page.py->group_ETV_button line:96 [INFO] : 点击[组别_ETV单药组]元素
+[2020-11-24 10:21:14,450] common_action.py->No_meiyou_button line:231 [INFO] : 点击[没有]元素
+[2020-11-24 10:21:14,486] base_page.py->click line:105 [ERROR] : [是] 元素点击操作失败，原因是：Message: element not visible
+  (Session info: chrome=86.0.4240.198)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+[2020-11-24 10:21:14,486] common_action.py->Yes_shi_button line:235 [INFO] : 点击[是]元素
+[2020-11-24 10:21:14,511] base_page.py->click line:105 [ERROR] : [是] 元素点击操作失败，原因是：Message: element not visible
+  (Session info: chrome=86.0.4240.198)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+[2020-11-24 10:21:14,511] common_action.py->Yes_shi_button line:235 [INFO] : 点击[是]元素
+[2020-11-24 10:21:14,771] base_page.py->click line:105 [ERROR] : [模块保存按钮] 元素点击操作失败，原因是：Message: unknown error: Element <button type="button" class="btn btn-success nhp_but" dataid="" mongoid="" patientid="" visitid="492b10a4-5131-439a-890f-4eb25c1856b4" moduleid="08771952-85a1-4d07-a79c-eb4401930f55" onclick="infoSubmit('/Visit/SaveVisitData',this,0)">...</button> is not clickable at point (1404, 77). Other element would receive the click: <div class="layui-layer-shade" id="layui-layer-shade5" times="5" style="z-index:19891018; background-color:#000; opacity:0.01; filter:alpha(opacity=1);"></div>
+  (Session info: chrome=86.0.4240.198)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+[2020-11-24 10:21:17,880] base_page.py->click line:105 [ERROR] : [用户名] 元素点击操作失败，原因是：Message: unknown error: Element <div id="dLabel" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">...</div> is not clickable at point (30, 724). Other element would receive the click: <div class="layui-layer-shade" id="layui-layer-shade24" times="24" style="z-index:19891037; background-color:#000; opacity:0.01; filter:alpha(opacity=1);"></div>
+  (Session info: chrome=86.0.4240.198)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+[2020-11-24 10:21:20,921] base_page.py->click line:105 [ERROR] : [退出登录] 元素点击操作失败，原因是：Message: element not visible
+  (Session info: chrome=86.0.4240.198)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+[2020-11-24 10:21:23,922] common_action.py->quit line:24 [INFO] : 账号退出登录成功
+[2020-11-24 10:21:23,928] base_page.py->exit_driver line:64 [INFO] : 关闭浏览器
+[2020-11-24 10:21:26,253] Stard_End.py->tearDown line:43 [INFO] : --------测试方法执行完毕---------------
+[2020-11-24 10:21:26,254] Stard_End.py->tearDownClass line:49 [INFO] : =====================测 试 类 执 行 完 毕=====================
+[2020-11-24 10:27:15,397] Stard_End.py->setUpClass line:18 [INFO] : =====================测 试 类 初 始 化=====================
+[2020-11-24 10:27:15,398] Stard_End.py->setUp line:26 [INFO] : --------测试方法初始化---------------
+[2020-11-24 10:27:18,495] browser.py->__get_chrome_driver line:37 [INFO] : 初始化Google浏览器并启动
+[2020-11-24 10:27:19,622] base_page.py->set_browser_max line:29 [INFO] : 浏览器最大化
+[2020-11-24 10:27:20,051] base_page.py->open_url line:23 [INFO] : 打开url地址: https://www.91trial.com/User/Login/
+[2020-11-24 10:27:20,052] addPatient_case_test.py->test_addPatient_success line:23 [INFO] : test_addPatient_success 用例开始执行
+[2020-11-24 10:27:29,375] login_ation.py->login_action line:20 [INFO] : 输入的账号是：zhxcrc,  密码是：123123
+[2020-11-24 10:27:48,365] ShaiXuan_visit_page.py->visit_date_input line:41 [INFO] : 输入访视日期:2020-01-22
+[2020-11-24 10:27:48,365] base_page.py->random_name line:259 [INFO] : 随机生成名字: 吴文黑
+[2020-11-24 10:27:48,426] base_page.py->click line:105 [ERROR] : [姓名] 元素点击操作失败，原因是：Message: unknown error: Element <input type="text" name="name" fieldid="076cda81-5c95-47cd-b0b3-8a12a2409a9f" fieldinputtype="0" tname="" class="form-control textbox phmod0" required="" placeholder="" linkids="" fieldlength="" calculatecolids="" rangetrigger="0" rangecols=""> is not clickable at point (591, 217). Other element would receive the click: <th class="dow">...</th>
+  (Session info: chrome=86.0.4240.198)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+[2020-11-24 10:27:48,500] ShaiXuan_visit_page.py->patient_name_button line:49 [INFO] : 输入患者姓名： 吴文黑
+[2020-11-24 10:27:48,501] base_page.py->random_numb line:277 [INFO] : 随机生成编号: 61454
+[2020-11-24 10:27:48,571] base_page.py->click line:105 [ERROR] : [随机号] 元素点击操作失败，原因是：Message: unknown error: Element <input type="text" name="Random number" fieldid="703e7032-e735-4275-a751-c451ba322fa5" fieldinputtype="0" tname="" class="form-control textbox phmod0" required="" placeholder="" linkids="" fieldlength="" calculatecolids="" rangetrigger="0" rangecols=""> is not clickable at point (591, 295). Other element would receive the click: <td class="day">...</td>
+  (Session info: chrome=86.0.4240.198)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+[2020-11-24 10:27:48,681] ShaiXuan_visit_page.py->randomNumber_button line:57 [INFO] : 输入随机号名：61454
+[2020-11-24 10:27:56,681] base_page.py->default_wait line:251 [INFO] : 默认等待时间：5.0
+[2020-11-24 10:28:05,868] common_action.py->quit line:24 [INFO] : 账号退出登录成功
+[2020-11-24 10:28:05,877] base_page.py->exit_driver line:64 [INFO] : 关闭浏览器
+[2020-11-24 10:28:08,188] Stard_End.py->tearDown line:43 [INFO] : --------测试方法执行完毕---------------
+[2020-11-24 10:28:08,190] Stard_End.py->tearDownClass line:49 [INFO] : =====================测 试 类 执 行 完 毕=====================
+[2020-11-24 10:31:36,371] Stard_End.py->setUpClass line:18 [INFO] : =====================测 试 类 初 始 化=====================
+[2020-11-24 10:31:36,372] Stard_End.py->setUp line:26 [INFO] : --------测试方法初始化---------------
+[2020-11-24 10:31:38,913] browser.py->__get_chrome_driver line:37 [INFO] : 初始化Google浏览器并启动
+[2020-11-24 10:31:40,038] base_page.py->set_browser_max line:29 [INFO] : 浏览器最大化
+[2020-11-24 10:31:40,475] base_page.py->open_url line:23 [INFO] : 打开url地址: https://www.91trial.com/User/Login/
+[2020-11-24 10:31:40,476] addPatient_case_test.py->test_addPatient_success line:23 [INFO] : test_addPatient_success 用例开始执行
+[2020-11-24 10:31:49,802] login_ation.py->login_action line:20 [INFO] : 输入的账号是：zhxcrc,  密码是：123123
+[2020-11-24 10:32:07,796] ShaiXuan_visit_page.py->visit_date_input line:41 [INFO] : 输入访视日期:2020-01-22
+[2020-11-24 10:32:07,797] base_page.py->random_name line:259 [INFO] : 随机生成名字: 钱欧芙
+[2020-11-24 10:32:07,858] base_page.py->click line:105 [ERROR] : [姓名] 元素点击操作失败，原因是：Message: unknown error: Element <input type="text" name="name" fieldid="076cda81-5c95-47cd-b0b3-8a12a2409a9f" fieldinputtype="0" tname="" class="form-control textbox phmod0" required="" placeholder="" linkids="" fieldlength="" calculatecolids="" rangetrigger="0" rangecols=""> is not clickable at point (591, 217). Other element would receive the click: <th class="dow">...</th>
+  (Session info: chrome=86.0.4240.198)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+[2020-11-24 10:32:07,930] ShaiXuan_visit_page.py->patient_name_button line:49 [INFO] : 输入患者姓名： 钱欧芙
+[2020-11-24 10:32:07,931] base_page.py->random_numb line:277 [INFO] : 随机生成编号: 84232
+[2020-11-24 10:32:07,993] base_page.py->click line:105 [ERROR] : [随机号] 元素点击操作失败，原因是：Message: unknown error: Element <input type="text" name="Random number" fieldid="703e7032-e735-4275-a751-c451ba322fa5" fieldinputtype="0" tname="" class="form-control textbox phmod0" required="" placeholder="" linkids="" fieldlength="" calculatecolids="" rangetrigger="0" rangecols=""> is not clickable at point (591, 295). Other element would receive the click: <td class="day">...</td>
+  (Session info: chrome=86.0.4240.198)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+[2020-11-24 10:32:08,116] ShaiXuan_visit_page.py->randomNumber_button line:57 [INFO] : 输入随机号名：84232
+[2020-11-24 10:32:11,206] base_page.py->click line:105 [ERROR] : [肝穿分组_肝穿] 元素点击操作失败，原因是：Message: unknown error: Element <label for="d80211ae-0895-44af-92f1-fd43b24a2110" class="poradio">...</label> is not clickable at point (527, 375). Other element would receive the click: <td class="new day">...</td>
+  (Session info: chrome=86.0.4240.198)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+[2020-11-24 10:32:11,206] ShaiXuan_visit_page.py->Liver_puncture_button line:70 [INFO] : 点击[肝穿]元素
+[2020-11-24 10:32:14,297] base_page.py->click line:105 [ERROR] : [肝穿分组_非肝穿] 元素点击操作失败，原因是：Message: unknown error: Element <label for="66f03d36-94a7-4d74-9506-04d8cbed29e1" class="poradio">...</label> is not clickable at point (598, 375). Other element would receive the click: <td class="new day">...</td>
+  (Session info: chrome=86.0.4240.198)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+[2020-11-24 10:32:14,298] ShaiXuan_visit_page.py->Non_hepatic_penetration_button line:75 [INFO] : 点击[非肝穿]元素
+[2020-11-24 10:32:17,605] ShaiXuan_visit_page.py->birthday_button line:81 [INFO] : 点击[出生日期]元素
+[2020-11-24 10:32:20,737] ShaiXuan_visit_page.py->sex_men_button line:89 [INFO] : 点击[男]元素
+[2020-11-24 10:32:23,896] ShaiXuan_visit_page.py->height_button line:98 [INFO] : 输入身高值： 178.3
+[2020-11-24 10:32:26,993] ShaiXuan_visit_page.py->group_ETV_button line:103 [INFO] : 点击[组别_ETV单药组]元素
+[2020-11-24 10:32:27,084] common_action.py->No_meiyou_button line:231 [INFO] : 点击[没有]元素
+[2020-11-24 10:32:27,118] base_page.py->click line:105 [ERROR] : [是] 元素点击操作失败，原因是：Message: element not visible
+  (Session info: chrome=86.0.4240.198)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+[2020-11-24 10:32:27,118] common_action.py->Yes_shi_button line:235 [INFO] : 点击[是]元素
+[2020-11-24 10:32:27,142] base_page.py->click line:105 [ERROR] : [是] 元素点击操作失败，原因是：Message: element not visible
+  (Session info: chrome=86.0.4240.198)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+[2020-11-24 10:32:27,142] common_action.py->Yes_shi_button line:235 [INFO] : 点击[是]元素
+[2020-11-24 10:32:27,413] base_page.py->click line:105 [ERROR] : [模块保存按钮] 元素点击操作失败，原因是：Message: unknown error: Element <button type="button" class="btn btn-success nhp_but" dataid="" mongoid="" patientid="" visitid="492b10a4-5131-439a-890f-4eb25c1856b4" moduleid="08771952-85a1-4d07-a79c-eb4401930f55" onclick="infoSubmit('/Visit/SaveVisitData',this,0)">...</button> is not clickable at point (1404, 77). Other element would receive the click: <div class="layui-layer-shade" id="layui-layer-shade5" times="5" style="z-index:19891018; background-color:#000; opacity:0.01; filter:alpha(opacity=1);"></div>
+  (Session info: chrome=86.0.4240.198)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+[2020-11-24 10:32:30,530] base_page.py->click line:105 [ERROR] : [用户名] 元素点击操作失败，原因是：Message: unknown error: Element <div id="dLabel" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">...</div> is not clickable at point (30, 724). Other element would receive the click: <div class="layui-layer-shade" id="layui-layer-shade7" times="7" style="z-index:19891020; background-color:#000; opacity:0.01; filter:alpha(opacity=1);"></div>
+  (Session info: chrome=86.0.4240.198)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+[2020-11-24 10:32:33,583] base_page.py->click line:105 [ERROR] : [退出登录] 元素点击操作失败，原因是：Message: element not visible
+  (Session info: chrome=86.0.4240.198)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+[2020-11-24 10:32:36,583] common_action.py->quit line:24 [INFO] : 账号退出登录成功
+[2020-11-24 10:32:36,589] base_page.py->exit_driver line:64 [INFO] : 关闭浏览器
+[2020-11-24 10:32:38,853] Stard_End.py->tearDown line:43 [INFO] : --------测试方法执行完毕---------------
+[2020-11-24 10:32:38,853] Stard_End.py->tearDownClass line:49 [INFO] : =====================测 试 类 执 行 完 毕=====================
+[2020-11-24 10:35:54,011] Stard_End.py->setUpClass line:18 [INFO] : =====================测 试 类 初 始 化=====================
+[2020-11-24 10:35:54,011] Stard_End.py->setUp line:26 [INFO] : --------测试方法初始化---------------
+[2020-11-24 10:35:56,556] browser.py->__get_chrome_driver line:37 [INFO] : 初始化Google浏览器并启动
+[2020-11-24 10:35:57,684] base_page.py->set_browser_max line:29 [INFO] : 浏览器最大化
+[2020-11-24 10:35:58,125] base_page.py->open_url line:23 [INFO] : 打开url地址: https://www.91trial.com/User/Login/
+[2020-11-24 10:35:58,125] addPatient_case_test.py->test_addPatient_success line:23 [INFO] : test_addPatient_success 用例开始执行
+[2020-11-24 10:36:07,533] login_ation.py->login_action line:20 [INFO] : 输入的账号是：zhxcrc,  密码是：123123
+[2020-11-24 10:36:29,180] ShaiXuan_visit_page.py->visit_date_input line:41 [INFO] : 输入访视日期:2020-01-22
+[2020-11-24 10:36:29,181] base_page.py->random_name line:259 [INFO] : 随机生成名字: 孙恒欢
+[2020-11-24 10:36:29,242] base_page.py->click line:105 [ERROR] : [姓名] 元素点击操作失败，原因是：Message: unknown error: Element <input type="text" name="name" fieldid="076cda81-5c95-47cd-b0b3-8a12a2409a9f" fieldinputtype="0" tname="" class="form-control textbox phmod0" required="" placeholder="" linkids="" fieldlength="" calculatecolids="" rangetrigger="0" rangecols=""> is not clickable at point (591, 217). Other element would receive the click: <th class="dow">...</th>
+  (Session info: chrome=86.0.4240.198)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+[2020-11-24 10:36:29,313] ShaiXuan_visit_page.py->patient_name_button line:49 [INFO] : 输入患者姓名： 孙恒欢
+[2020-11-24 10:36:29,313] base_page.py->random_numb line:277 [INFO] : 随机生成编号: 13817
+[2020-11-24 10:36:29,374] base_page.py->click line:105 [ERROR] : [随机号] 元素点击操作失败，原因是：Message: unknown error: Element <input type="text" name="Random number" fieldid="703e7032-e735-4275-a751-c451ba322fa5" fieldinputtype="0" tname="" class="form-control textbox phmod0" required="" placeholder="" linkids="" fieldlength="" calculatecolids="" rangetrigger="0" rangecols=""> is not clickable at point (591, 295). Other element would receive the click: <td class="day">...</td>
+  (Session info: chrome=86.0.4240.198)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+[2020-11-24 10:36:29,496] ShaiXuan_visit_page.py->randomNumber_button line:57 [INFO] : 输入随机号名：13817
+[2020-11-24 10:36:32,583] base_page.py->click line:105 [ERROR] : [肝穿分组_肝穿] 元素点击操作失败，原因是：Message: unknown error: Element <label for="d80211ae-0895-44af-92f1-fd43b24a2110" class="poradio">...</label> is not clickable at point (527, 375). Other element would receive the click: <td class="new day">...</td>
+  (Session info: chrome=86.0.4240.198)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+[2020-11-24 10:36:32,583] ShaiXuan_visit_page.py->Liver_puncture_button line:70 [INFO] : 点击[肝穿]元素
+[2020-11-24 10:36:35,676] base_page.py->click line:105 [ERROR] : [肝穿分组_非肝穿] 元素点击操作失败，原因是：Message: unknown error: Element <label for="66f03d36-94a7-4d74-9506-04d8cbed29e1" class="poradio">...</label> is not clickable at point (598, 375). Other element would receive the click: <td class="new day">...</td>
+  (Session info: chrome=86.0.4240.198)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+[2020-11-24 10:36:35,676] ShaiXuan_visit_page.py->Non_hepatic_penetration_button line:75 [INFO] : 点击[非肝穿]元素
+[2020-11-24 10:36:38,998] ShaiXuan_visit_page.py->birthday_button line:81 [INFO] : 点击[出生日期]元素
+[2020-11-24 10:36:42,065] base_page.py->click line:105 [ERROR] : [性别_男] 元素点击操作失败，原因是：Message: unknown error: Element <label for="8d28b903-dbcc-4d2e-9b25-bbe007240442" class="poradio">...</label> is not clickable at point (520, 528). Other element would receive the click: <th class="dow">...</th>
+  (Session info: chrome=86.0.4240.198)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+[2020-11-24 10:36:42,066] ShaiXuan_visit_page.py->sex_men_button line:89 [INFO] : 点击[男]元素
+[2020-11-24 10:36:45,240] ShaiXuan_visit_page.py->height_button line:98 [INFO] : 输入身高值： 178.3
+[2020-11-24 10:36:48,333] base_page.py->click line:105 [ERROR] : [组别_ETV单药组] 元素点击操作失败，原因是：Message: unknown error: Element <label for="0f189b46-7c70-4cce-af86-3a7211a93b3c" class="poradio">...</label> is not clickable at point (546, 680). Other element would receive the click: <td class="new day">...</td>
+  (Session info: chrome=86.0.4240.198)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+[2020-11-24 10:36:48,333] ShaiXuan_visit_page.py->group_ETV_button line:103 [INFO] : 点击[组别_ETV单药组]元素
+[2020-11-24 10:36:48,472] common_action.py->No_meiyou_button line:231 [INFO] : 点击[没有]元素
+[2020-11-24 10:36:48,516] base_page.py->click line:105 [ERROR] : [是] 元素点击操作失败，原因是：Message: element not visible
+  (Session info: chrome=86.0.4240.198)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+[2020-11-24 10:36:48,516] common_action.py->Yes_shi_button line:235 [INFO] : 点击[是]元素
+[2020-11-24 10:36:48,548] base_page.py->click line:105 [ERROR] : [是] 元素点击操作失败，原因是：Message: element not visible
+  (Session info: chrome=86.0.4240.198)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+[2020-11-24 10:36:48,548] common_action.py->Yes_shi_button line:235 [INFO] : 点击[是]元素
+[2020-11-24 10:36:48,852] base_page.py->click line:105 [ERROR] : [模块保存按钮] 元素点击操作失败，原因是：Message: unknown error: Element <button type="button" class="btn btn-success nhp_but" dataid="" mongoid="" patientid="" visitid="492b10a4-5131-439a-890f-4eb25c1856b4" moduleid="08771952-85a1-4d07-a79c-eb4401930f55" onclick="infoSubmit('/Visit/SaveVisitData',this,0)">...</button> is not clickable at point (1916, 82). Other element would receive the click: <div class="layui-layer-shade" id="layui-layer-shade5" times="5" style="z-index:19891018; background-color:#000; opacity:0.01; filter:alpha(opacity=1);"></div>
+  (Session info: chrome=86.0.4240.198)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+[2020-11-24 10:36:51,951] base_page.py->click line:105 [ERROR] : [用户名] 元素点击操作失败，原因是：Message: unknown error: Element <div id="dLabel" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">...</div> is not clickable at point (30, 1012). Other element would receive the click: <div class="layui-layer-shade" id="layui-layer-shade24" times="24" style="z-index:19891037; background-color:#000; opacity:0.01; filter:alpha(opacity=1);"></div>
+  (Session info: chrome=86.0.4240.198)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+[2020-11-24 10:36:54,998] base_page.py->click line:105 [ERROR] : [退出登录] 元素点击操作失败，原因是：Message: element not visible
+  (Session info: chrome=86.0.4240.198)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+[2020-11-24 10:36:57,999] common_action.py->quit line:24 [INFO] : 账号退出登录成功
+[2020-11-24 10:36:58,006] base_page.py->exit_driver line:64 [INFO] : 关闭浏览器
+[2020-11-24 10:37:00,399] Stard_End.py->tearDown line:43 [INFO] : --------测试方法执行完毕---------------
+[2020-11-24 10:37:00,400] Stard_End.py->tearDownClass line:49 [INFO] : =====================测 试 类 执 行 完 毕=====================
+[2020-11-24 10:39:41,477] Stard_End.py->setUpClass line:18 [INFO] : =====================测 试 类 初 始 化=====================
+[2020-11-24 10:39:41,478] Stard_End.py->setUp line:26 [INFO] : --------测试方法初始化---------------
+[2020-11-24 10:39:44,629] browser.py->__get_chrome_driver line:37 [INFO] : 初始化Google浏览器并启动
+[2020-11-24 10:39:45,760] base_page.py->set_browser_max line:29 [INFO] : 浏览器最大化
+[2020-11-24 10:39:46,192] base_page.py->open_url line:23 [INFO] : 打开url地址: https://www.91trial.com/User/Login/
+[2020-11-24 10:39:46,192] addPatient_case_test.py->test_addPatient_success line:23 [INFO] : test_addPatient_success 用例开始执行
+[2020-11-24 10:39:55,512] login_ation.py->login_action line:20 [INFO] : 输入的账号是：zhxcrc,  密码是：123123
+[2020-11-24 10:40:12,626] ShaiXuan_visit_page.py->visit_date_input line:41 [INFO] : 输入访视日期:2020-01-22
+[2020-11-24 10:40:12,627] base_page.py->random_name line:259 [INFO] : 随机生成名字: 赵书画
+[2020-11-24 10:40:12,715] ShaiXuan_visit_page.py->patient_name_button line:48 [INFO] : 输入患者姓名： 赵书画
+[2020-11-24 10:40:12,839] ShaiXuan_visit_page.py->randomNumber_button line:55 [INFO] : 输入随机号名：58629
+[2020-11-24 10:40:15,920] base_page.py->click line:105 [ERROR] : [肝穿分组_肝穿] 元素点击操作失败，原因是：Message: unknown error: Element <label for="d80211ae-0895-44af-92f1-fd43b24a2110" class="poradio">...</label> is not clickable at point (527, 375). Other element would receive the click: <td class="new day">...</td>
+  (Session info: chrome=86.0.4240.198)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+[2020-11-24 10:40:15,920] ShaiXuan_visit_page.py->Liver_puncture_button line:68 [INFO] : 点击[肝穿]元素
+[2020-11-24 10:40:19,009] base_page.py->click line:105 [ERROR] : [肝穿分组_非肝穿] 元素点击操作失败，原因是：Message: unknown error: Element <label for="66f03d36-94a7-4d74-9506-04d8cbed29e1" class="poradio">...</label> is not clickable at point (598, 375). Other element would receive the click: <td class="new day">...</td>
+  (Session info: chrome=86.0.4240.198)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+[2020-11-24 10:40:19,009] ShaiXuan_visit_page.py->Non_hepatic_penetration_button line:73 [INFO] : 点击[非肝穿]元素
+[2020-11-24 10:40:22,338] ShaiXuan_visit_page.py->birthday_button line:79 [INFO] : 点击[出生日期]元素
+[2020-11-24 10:40:25,470] ShaiXuan_visit_page.py->sex_men_button line:87 [INFO] : 点击[男]元素
+[2020-11-24 10:40:28,645] ShaiXuan_visit_page.py->height_button line:96 [INFO] : 输入身高值： 178.3
+[2020-11-24 10:40:31,764] ShaiXuan_visit_page.py->group_ETV_button line:101 [INFO] : 点击[组别_ETV单药组]元素
+[2020-11-24 10:40:31,906] common_action.py->No_meiyou_button line:231 [INFO] : 点击[没有]元素
+[2020-11-24 10:40:31,940] base_page.py->click line:105 [ERROR] : [是] 元素点击操作失败，原因是：Message: element not visible
+  (Session info: chrome=86.0.4240.198)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+[2020-11-24 10:40:31,941] common_action.py->Yes_shi_button line:235 [INFO] : 点击[是]元素
+[2020-11-24 10:40:31,971] base_page.py->click line:105 [ERROR] : [是] 元素点击操作失败，原因是：Message: element not visible
+  (Session info: chrome=86.0.4240.198)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+[2020-11-24 10:40:31,972] common_action.py->Yes_shi_button line:235 [INFO] : 点击[是]元素
+[2020-11-24 10:40:32,287] base_page.py->click line:105 [ERROR] : [模块保存按钮] 元素点击操作失败，原因是：Message: unknown error: Element <button type="button" class="btn btn-success nhp_but" dataid="" mongoid="" patientid="" visitid="492b10a4-5131-439a-890f-4eb25c1856b4" moduleid="08771952-85a1-4d07-a79c-eb4401930f55" onclick="infoSubmit('/Visit/SaveVisitData',this,0)">...</button> is not clickable at point (1404, 77). Other element would receive the click: <div class="layui-layer-shade" id="layui-layer-shade5" times="5" style="z-index:19891018; background-color:#000; opacity:0.01; filter:alpha(opacity=1);"></div>
+  (Session info: chrome=86.0.4240.198)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+[2020-11-24 10:40:35,390] base_page.py->click line:105 [ERROR] : [用户名] 元素点击操作失败，原因是：Message: unknown error: Element <div id="dLabel" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">...</div> is not clickable at point (30, 724). Other element would receive the click: <div class="layui-layer-shade" id="layui-layer-shade23" times="23" style="z-index:19891036; background-color:#000; opacity:0.01; filter:alpha(opacity=1);"></div>
+  (Session info: chrome=86.0.4240.198)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+[2020-11-24 10:40:38,437] base_page.py->click line:105 [ERROR] : [退出登录] 元素点击操作失败，原因是：Message: element not visible
+  (Session info: chrome=86.0.4240.198)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+[2020-11-24 10:40:41,437] common_action.py->quit line:24 [INFO] : 账号退出登录成功
+[2020-11-24 10:40:41,443] base_page.py->exit_driver line:64 [INFO] : 关闭浏览器
+[2020-11-24 10:40:43,736] Stard_End.py->tearDown line:43 [INFO] : --------测试方法执行完毕---------------
+[2020-11-24 10:40:43,736] Stard_End.py->tearDownClass line:49 [INFO] : =====================测 试 类 执 行 完 毕=====================
+[2020-11-24 10:44:04,356] Stard_End.py->setUpClass line:18 [INFO] : =====================测 试 类 初 始 化=====================
+[2020-11-24 10:44:04,357] Stard_End.py->setUp line:26 [INFO] : --------测试方法初始化---------------
+[2020-11-24 10:44:06,950] browser.py->__get_chrome_driver line:37 [INFO] : 初始化Google浏览器并启动
+[2020-11-24 10:44:08,083] base_page.py->set_browser_max line:29 [INFO] : 浏览器最大化
+[2020-11-24 10:44:08,553] base_page.py->open_url line:23 [INFO] : 打开url地址: https://www.91trial.com/User/Login/
+[2020-11-24 10:44:08,554] addPatient_case_test.py->test_addPatient_success line:23 [INFO] : test_addPatient_success 用例开始执行
+[2020-11-24 10:44:17,852] login_ation.py->login_action line:20 [INFO] : 输入的账号是：zhxcrc,  密码是：123123
+[2020-11-24 10:44:36,579] ShaiXuan_visit_page.py->visit_date_input line:39 [INFO] : 输入访视日期:2020-01-22
+[2020-11-24 10:44:36,580] base_page.py->random_name line:259 [INFO] : 随机生成名字: 王磊文
+[2020-11-24 10:44:36,653] ShaiXuan_visit_page.py->patient_name_button line:46 [INFO] : 输入患者姓名： 王磊文
+[2020-11-24 10:44:36,771] ShaiXuan_visit_page.py->randomNumber_button line:53 [INFO] : 输入随机号名：39894
+[2020-11-24 10:44:39,856] base_page.py->click line:105 [ERROR] : [肝穿分组_肝穿] 元素点击操作失败，原因是：Message: unknown error: Element <label for="d80211ae-0895-44af-92f1-fd43b24a2110" class="poradio">...</label> is not clickable at point (527, 375). Other element would receive the click: <td class="new day">...</td>
+  (Session info: chrome=86.0.4240.198)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+[2020-11-24 10:44:39,857] ShaiXuan_visit_page.py->Liver_puncture_button line:65 [INFO] : 点击[肝穿]元素
+[2020-11-24 10:44:42,939] base_page.py->click line:105 [ERROR] : [肝穿分组_非肝穿] 元素点击操作失败，原因是：Message: unknown error: Element <label for="66f03d36-94a7-4d74-9506-04d8cbed29e1" class="poradio">...</label> is not clickable at point (598, 375). Other element would receive the click: <td class="new day">...</td>
+  (Session info: chrome=86.0.4240.198)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+[2020-11-24 10:44:42,940] ShaiXuan_visit_page.py->Non_hepatic_penetration_button line:69 [INFO] : 点击[非肝穿]元素
+[2020-11-24 10:44:46,179] ShaiXuan_visit_page.py->birthday_button line:74 [INFO] : 点击[出生日期]元素
+[2020-11-24 10:44:49,311] ShaiXuan_visit_page.py->sex_men_button line:81 [INFO] : 点击[男]元素
+[2020-11-24 10:44:52,468] ShaiXuan_visit_page.py->height_button line:89 [INFO] : 输入身高值： 178.3
+[2020-11-24 10:44:55,576] ShaiXuan_visit_page.py->group_ETV_button line:93 [INFO] : 点击[组别_ETV单药组]元素
+[2020-11-24 10:44:55,691] common_action.py->No_meiyou_button line:231 [INFO] : 点击[没有]元素
+[2020-11-24 10:44:55,731] base_page.py->click line:105 [ERROR] : [是] 元素点击操作失败，原因是：Message: element not visible
+  (Session info: chrome=86.0.4240.198)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+[2020-11-24 10:44:55,732] common_action.py->Yes_shi_button line:235 [INFO] : 点击[是]元素
+[2020-11-24 10:44:55,764] base_page.py->click line:105 [ERROR] : [是] 元素点击操作失败，原因是：Message: element not visible
+  (Session info: chrome=86.0.4240.198)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+[2020-11-24 10:44:55,764] common_action.py->Yes_shi_button line:235 [INFO] : 点击[是]元素
+[2020-11-24 10:44:56,033] base_page.py->click line:105 [ERROR] : [模块保存按钮] 元素点击操作失败，原因是：Message: unknown error: Element <button type="button" class="btn btn-success nhp_but" dataid="" mongoid="" patientid="" visitid="492b10a4-5131-439a-890f-4eb25c1856b4" moduleid="08771952-85a1-4d07-a79c-eb4401930f55" onclick="infoSubmit('/Visit/SaveVisitData',this,0)">...</button> is not clickable at point (1404, 77). Other element would receive the click: <div class="layui-layer-shade" id="layui-layer-shade5" times="5" style="z-index:19891018; background-color:#000; opacity:0.01; filter:alpha(opacity=1);"></div>
+  (Session info: chrome=86.0.4240.198)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+[2020-11-24 10:44:59,110] base_page.py->click line:105 [ERROR] : [用户名] 元素点击操作失败，原因是：Message: unknown error: Element <div id="dLabel" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">...</div> is not clickable at point (30, 724). Other element would receive the click: <div class="layui-layer-shade" id="layui-layer-shade23" times="23" style="z-index:19891036; background-color:#000; opacity:0.01; filter:alpha(opacity=1);"></div>
+  (Session info: chrome=86.0.4240.198)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+[2020-11-24 10:45:02,171] base_page.py->click line:105 [ERROR] : [退出登录] 元素点击操作失败，原因是：Message: element not visible
+  (Session info: chrome=86.0.4240.198)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+[2020-11-24 10:45:05,173] common_action.py->quit line:24 [INFO] : 账号退出登录成功
+[2020-11-24 10:45:05,180] base_page.py->exit_driver line:64 [INFO] : 关闭浏览器
+[2020-11-24 10:45:07,463] Stard_End.py->tearDown line:43 [INFO] : --------测试方法执行完毕---------------
+[2020-11-24 10:45:07,463] Stard_End.py->tearDownClass line:49 [INFO] : =====================测 试 类 执 行 完 毕=====================
+[2020-11-24 10:51:21,125] Stard_End.py->setUpClass line:18 [INFO] : =====================测 试 类 初 始 化=====================
+[2020-11-24 10:51:21,126] Stard_End.py->setUp line:26 [INFO] : --------测试方法初始化---------------
+[2020-11-24 10:51:23,730] browser.py->__get_chrome_driver line:37 [INFO] : 初始化Google浏览器并启动
+[2020-11-24 10:51:24,855] base_page.py->set_browser_max line:29 [INFO] : 浏览器最大化
+[2020-11-24 10:51:25,303] base_page.py->open_url line:23 [INFO] : 打开url地址: https://www.91trial.com/User/Login/
+[2020-11-24 10:51:25,303] addPatient_case_test.py->test_addPatient_success line:23 [INFO] : test_addPatient_success 用例开始执行
+[2020-11-24 10:51:34,650] login_ation.py->login_action line:20 [INFO] : 输入的账号是：zhxcrc,  密码是：123123
+[2020-11-24 10:51:52,245] base_page.py->delete_element_attribute line:164 [INFO] : 删除[%s]的属性：%s
+[2020-11-24 10:51:52,565] ShaiXuan_visit_page.py->visit_date_input line:39 [INFO] : 输入访视日期:2020-01-22
+[2020-11-24 10:51:52,649] ShaiXuan_visit_page.py->patient_name_button line:46 [INFO] : 输入患者姓名： 钱维黑
+[2020-11-24 10:51:52,782] ShaiXuan_visit_page.py->randomNumber_button line:53 [INFO] : 输入随机号名：20111
+[2020-11-24 10:51:55,882] base_page.py->click line:105 [ERROR] : [肝穿分组_非肝穿] 元素点击操作失败，原因是：Message: unknown error: Element <label for="66f03d36-94a7-4d74-9506-04d8cbed29e1" class="poradio">...</label> is not clickable at point (598, 375). Other element would receive the click: <td class="new day">...</td>
+  (Session info: chrome=86.0.4240.198)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+[2020-11-24 10:51:55,882] ShaiXuan_visit_page.py->Non_hepatic_penetration_button line:69 [INFO] : 点击[非肝穿]元素
+[2020-11-24 10:51:58,908] base_page.py->delete_element_attribute line:164 [INFO] : 删除[%s]的属性：%s
+[2020-11-24 10:51:59,147] ShaiXuan_visit_page.py->birthday_button line:74 [INFO] : 点击[出生日期]元素
+[2020-11-24 10:52:02,288] ShaiXuan_visit_page.py->sex_men_button line:81 [INFO] : 点击[男]元素
+[2020-11-24 10:52:05,465] ShaiXuan_visit_page.py->height_button line:89 [INFO] : 输入身高值： 178.3
+[2020-11-24 10:52:08,560] ShaiXuan_visit_page.py->group_ETV_button line:93 [INFO] : 点击[组别_ETV单药组]元素
+[2020-11-24 10:52:08,666] common_action.py->No_meiyou_button line:231 [INFO] : 点击[没有]元素
+[2020-11-24 10:52:08,712] base_page.py->click line:105 [ERROR] : [是] 元素点击操作失败，原因是：Message: element not visible
+  (Session info: chrome=86.0.4240.198)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+[2020-11-24 10:52:08,713] common_action.py->Yes_shi_button line:235 [INFO] : 点击[是]元素
+[2020-11-24 10:52:08,735] base_page.py->click line:105 [ERROR] : [是] 元素点击操作失败，原因是：Message: element not visible
+  (Session info: chrome=86.0.4240.198)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+[2020-11-24 10:52:08,735] common_action.py->Yes_shi_button line:235 [INFO] : 点击[是]元素
+[2020-11-24 10:52:09,016] base_page.py->click line:105 [ERROR] : [模块保存按钮] 元素点击操作失败，原因是：Message: unknown error: Element <button type="button" class="btn btn-success nhp_but" dataid="" mongoid="" patientid="" visitid="492b10a4-5131-439a-890f-4eb25c1856b4" moduleid="08771952-85a1-4d07-a79c-eb4401930f55" onclick="infoSubmit('/Visit/SaveVisitData',this,0)">...</button> is not clickable at point (1404, 77). Other element would receive the click: <div class="layui-layer-shade" id="layui-layer-shade5" times="5" style="z-index:19891018; background-color:#000; opacity:0.01; filter:alpha(opacity=1);"></div>
+  (Session info: chrome=86.0.4240.198)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+[2020-11-24 10:52:12,124] base_page.py->click line:105 [ERROR] : [用户名] 元素点击操作失败，原因是：Message: unknown error: Element <div id="dLabel" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">...</div> is not clickable at point (30, 724). Other element would receive the click: <div class="layui-layer-shade" id="layui-layer-shade23" times="23" style="z-index:19891036; background-color:#000; opacity:0.01; filter:alpha(opacity=1);"></div>
+  (Session info: chrome=86.0.4240.198)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+[2020-11-24 10:52:15,180] base_page.py->click line:105 [ERROR] : [退出登录] 元素点击操作失败，原因是：Message: element not visible
+  (Session info: chrome=86.0.4240.198)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+[2020-11-24 10:52:18,180] common_action.py->quit line:24 [INFO] : 账号退出登录成功
+[2020-11-24 10:52:18,189] base_page.py->exit_driver line:64 [INFO] : 关闭浏览器
+[2020-11-24 10:52:20,481] Stard_End.py->tearDown line:43 [INFO] : --------测试方法执行完毕---------------
+[2020-11-24 10:52:20,481] Stard_End.py->tearDownClass line:49 [INFO] : =====================测 试 类 执 行 完 毕=====================
+[2020-11-24 10:53:00,011] Stard_End.py->setUpClass line:18 [INFO] : =====================测 试 类 初 始 化=====================
+[2020-11-24 10:53:00,012] Stard_End.py->setUp line:26 [INFO] : --------测试方法初始化---------------
+[2020-11-24 10:53:02,609] browser.py->__get_chrome_driver line:37 [INFO] : 初始化Google浏览器并启动
+[2020-11-24 10:53:03,741] base_page.py->set_browser_max line:29 [INFO] : 浏览器最大化
+[2020-11-24 10:53:04,177] base_page.py->open_url line:23 [INFO] : 打开url地址: https://www.91trial.com/User/Login/
+[2020-11-24 10:53:04,177] addPatient_case_test.py->test_addPatient_success line:23 [INFO] : test_addPatient_success 用例开始执行
+[2020-11-24 10:53:13,468] login_ation.py->login_action line:20 [INFO] : 输入的账号是：zhxcrc,  密码是：123123
+[2020-11-24 10:53:35,105] base_page.py->default_wait line:251 [INFO] : 默认等待时间：5.0
+[2020-11-24 10:53:44,306] common_action.py->quit line:24 [INFO] : 账号退出登录成功
+[2020-11-24 10:53:44,312] base_page.py->exit_driver line:64 [INFO] : 关闭浏览器
+[2020-11-24 10:53:46,949] Stard_End.py->tearDown line:43 [INFO] : --------测试方法执行完毕---------------
+[2020-11-24 10:53:46,953] Stard_End.py->tearDownClass line:49 [INFO] : =====================测 试 类 执 行 完 毕=====================
+[2020-11-24 10:54:47,307] Stard_End.py->setUpClass line:18 [INFO] : =====================测 试 类 初 始 化=====================
+[2020-11-24 10:54:47,308] Stard_End.py->setUp line:26 [INFO] : --------测试方法初始化---------------
+[2020-11-24 10:54:49,836] browser.py->__get_chrome_driver line:37 [INFO] : 初始化Google浏览器并启动
+[2020-11-24 10:54:50,962] base_page.py->set_browser_max line:29 [INFO] : 浏览器最大化
+[2020-11-24 10:54:51,411] base_page.py->open_url line:23 [INFO] : 打开url地址: https://www.91trial.com/User/Login/
+[2020-11-24 10:54:51,411] addPatient_case_test.py->test_addPatient_success line:23 [INFO] : test_addPatient_success 用例开始执行
+[2020-11-24 10:55:00,695] login_ation.py->login_action line:20 [INFO] : 输入的账号是：zhxcrc,  密码是：123123
+[2020-11-24 10:55:16,887] base_page.py->delete_element_attribute line:164 [INFO] : 删除[%s]的属性：%s
+[2020-11-24 10:55:17,160] ShaiXuan_visit_page.py->visit_date_input line:39 [INFO] : 输入访视日期:2020-01-22
+[2020-11-24 10:55:17,273] ShaiXuan_visit_page.py->patient_name_button line:46 [INFO] : 输入患者姓名： 郑画黑
+[2020-11-24 10:55:17,410] ShaiXuan_visit_page.py->randomNumber_button line:53 [INFO] : 输入随机号名：06253
+[2020-11-24 10:55:20,500] base_page.py->click line:105 [ERROR] : [肝穿分组_非肝穿] 元素点击操作失败，原因是：Message: unknown error: Element <label for="66f03d36-94a7-4d74-9506-04d8cbed29e1" class="poradio">...</label> is not clickable at point (598, 375). Other element would receive the click: <td class="new day">...</td>
+  (Session info: chrome=86.0.4240.198)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+[2020-11-24 10:55:20,500] ShaiXuan_visit_page.py->Non_hepatic_penetration_button line:69 [INFO] : 点击[非肝穿]元素
+[2020-11-24 10:55:23,531] base_page.py->delete_element_attribute line:164 [INFO] : 删除[%s]的属性：%s
+[2020-11-24 10:55:23,809] ShaiXuan_visit_page.py->birthday_button line:74 [INFO] : 点击[出生日期]元素
+[2020-11-24 10:55:26,949] ShaiXuan_visit_page.py->sex_men_button line:81 [INFO] : 点击[男]元素
+[2020-11-24 10:55:30,133] ShaiXuan_visit_page.py->height_button line:89 [INFO] : 输入身高值： 178.3
+[2020-11-24 10:55:33,238] ShaiXuan_visit_page.py->group_ETV_button line:93 [INFO] : 点击[组别_ETV单药组]元素
+[2020-11-24 10:55:33,353] common_action.py->No_meiyou_button line:231 [INFO] : 点击[没有]元素
+[2020-11-24 10:55:33,393] base_page.py->click line:105 [ERROR] : [是] 元素点击操作失败，原因是：Message: element not visible
+  (Session info: chrome=86.0.4240.198)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+[2020-11-24 10:55:33,393] common_action.py->Yes_shi_button line:235 [INFO] : 点击[是]元素
+[2020-11-24 10:55:33,422] base_page.py->click line:105 [ERROR] : [是] 元素点击操作失败，原因是：Message: element not visible
+  (Session info: chrome=86.0.4240.198)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+[2020-11-24 10:55:33,422] common_action.py->Yes_shi_button line:235 [INFO] : 点击[是]元素
+[2020-11-24 10:55:33,690] base_page.py->click line:105 [ERROR] : [模块保存按钮] 元素点击操作失败，原因是：Message: unknown error: Element <button type="button" class="btn btn-success nhp_but" dataid="" mongoid="" patientid="" visitid="492b10a4-5131-439a-890f-4eb25c1856b4" moduleid="08771952-85a1-4d07-a79c-eb4401930f55" onclick="infoSubmit('/Visit/SaveVisitData',this,0)">...</button> is not clickable at point (1404, 77). Other element would receive the click: <div class="layui-layer-shade" id="layui-layer-shade5" times="5" style="z-index:19891018; background-color:#000; opacity:0.01; filter:alpha(opacity=1);"></div>
+  (Session info: chrome=86.0.4240.198)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+[2020-11-24 10:55:36,803] base_page.py->click line:105 [ERROR] : [用户名] 元素点击操作失败，原因是：Message: unknown error: Element <div id="dLabel" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">...</div> is not clickable at point (30, 724). Other element would receive the click: <div class="layui-layer-shade" id="layui-layer-shade26" times="26" style="z-index:19891039; background-color:#000; opacity:0.01; filter:alpha(opacity=1);"></div>
+  (Session info: chrome=86.0.4240.198)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+[2020-11-24 10:55:39,849] base_page.py->click line:105 [ERROR] : [退出登录] 元素点击操作失败，原因是：Message: element not visible
+  (Session info: chrome=86.0.4240.198)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+[2020-11-24 10:55:42,851] common_action.py->quit line:24 [INFO] : 账号退出登录成功
+[2020-11-24 10:55:42,857] base_page.py->exit_driver line:64 [INFO] : 关闭浏览器
+[2020-11-24 10:55:45,143] Stard_End.py->tearDown line:43 [INFO] : --------测试方法执行完毕---------------
+[2020-11-24 10:55:45,144] Stard_End.py->tearDownClass line:49 [INFO] : =====================测 试 类 执 行 完 毕=====================
+[2020-11-24 10:58:48,291] Stard_End.py->setUpClass line:18 [INFO] : =====================测 试 类 初 始 化=====================
+[2020-11-24 10:58:48,292] Stard_End.py->setUp line:26 [INFO] : --------测试方法初始化---------------
+[2020-11-24 10:58:50,870] browser.py->__get_chrome_driver line:37 [INFO] : 初始化Google浏览器并启动
+[2020-11-24 10:58:52,001] base_page.py->set_browser_max line:29 [INFO] : 浏览器最大化
+[2020-11-24 10:58:52,452] base_page.py->open_url line:23 [INFO] : 打开url地址: https://www.91trial.com/User/Login/
+[2020-11-24 10:58:52,452] addPatient_case_test.py->test_addPatient_success line:23 [INFO] : test_addPatient_success 用例开始执行
+[2020-11-24 10:59:01,758] login_ation.py->login_action line:20 [INFO] : 输入的账号是：zhxcrc,  密码是：123123
+[2020-11-24 10:59:20,719] base_page.py->delete_element_attribute line:164 [INFO] : 删除[{'element_name': '访视日期', 'locator_type': 'xpath', 'locator_value': '//input[@name="visit time"]', 'timeout': 10.0}]的属性：maxlength
+[2020-11-24 10:59:20,966] ShaiXuan_visit_page.py->visit_date_input line:39 [INFO] : 输入访视日期:2020-01-22
+[2020-11-24 10:59:21,046] ShaiXuan_visit_page.py->patient_name_button line:46 [INFO] : 输入患者姓名： 郑蓉欢
+[2020-11-24 10:59:21,158] ShaiXuan_visit_page.py->randomNumber_button line:53 [INFO] : 输入随机号名：95023
+[2020-11-24 10:59:24,252] base_page.py->click line:105 [ERROR] : [肝穿分组_非肝穿] 元素点击操作失败，原因是：Message: unknown error: Element <label for="66f03d36-94a7-4d74-9506-04d8cbed29e1" class="poradio">...</label> is not clickable at point (598, 375). Other element would receive the click: <td class="new day">...</td>
+  (Session info: chrome=86.0.4240.198)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+[2020-11-24 10:59:24,252] ShaiXuan_visit_page.py->Non_hepatic_penetration_button line:69 [INFO] : 点击[非肝穿]元素
+[2020-11-24 10:59:27,283] base_page.py->delete_element_attribute line:164 [INFO] : 删除[{'element_name': '出生日期', 'locator_type': 'xpath', 'locator_value': '//input[@id="531e6f07-2430-4282-a2e4-8946fd6980d4"]', 'timeout': 5.0}]的属性：maxlength
+[2020-11-24 10:59:27,544] ShaiXuan_visit_page.py->birthday_button line:74 [INFO] : 点击[出生日期]元素
+[2020-11-24 10:59:30,660] ShaiXuan_visit_page.py->sex_men_button line:81 [INFO] : 点击[男]元素
+[2020-11-24 10:59:33,838] ShaiXuan_visit_page.py->height_button line:89 [INFO] : 输入身高值： 178.3
+[2020-11-24 10:59:36,942] ShaiXuan_visit_page.py->group_ETV_button line:93 [INFO] : 点击[组别_ETV单药组]元素
+[2020-11-24 10:59:37,044] common_action.py->No_meiyou_button line:231 [INFO] : 点击[没有]元素
+[2020-11-24 10:59:37,078] base_page.py->click line:105 [ERROR] : [是] 元素点击操作失败，原因是：Message: element not visible
+  (Session info: chrome=86.0.4240.198)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+[2020-11-24 10:59:37,078] common_action.py->Yes_shi_button line:235 [INFO] : 点击[是]元素
+[2020-11-24 10:59:37,107] base_page.py->click line:105 [ERROR] : [是] 元素点击操作失败，原因是：Message: element not visible
+  (Session info: chrome=86.0.4240.198)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+[2020-11-24 10:59:37,107] common_action.py->Yes_shi_button line:235 [INFO] : 点击[是]元素
+[2020-11-24 10:59:37,384] base_page.py->click line:105 [ERROR] : [模块保存按钮] 元素点击操作失败，原因是：Message: unknown error: Element <button type="button" class="btn btn-success nhp_but" dataid="" mongoid="" patientid="" visitid="492b10a4-5131-439a-890f-4eb25c1856b4" moduleid="08771952-85a1-4d07-a79c-eb4401930f55" onclick="infoSubmit('/Visit/SaveVisitData',this,0)">...</button> is not clickable at point (1404, 77). Other element would receive the click: <div class="layui-layer-shade" id="layui-layer-shade5" times="5" style="z-index:19891018; background-color:#000; opacity:0.01; filter:alpha(opacity=1);"></div>
+  (Session info: chrome=86.0.4240.198)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+[2020-11-24 10:59:40,490] base_page.py->click line:105 [ERROR] : [用户名] 元素点击操作失败，原因是：Message: unknown error: Element <div id="dLabel" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">...</div> is not clickable at point (30, 724). Other element would receive the click: <div class="layui-layer-shade" id="layui-layer-shade25" times="25" style="z-index:19891038; background-color:#000; opacity:0.01; filter:alpha(opacity=1);"></div>
+  (Session info: chrome=86.0.4240.198)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+[2020-11-24 10:59:43,550] base_page.py->click line:105 [ERROR] : [退出登录] 元素点击操作失败，原因是：Message: element not visible
+  (Session info: chrome=86.0.4240.198)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+[2020-11-24 10:59:46,551] common_action.py->quit line:24 [INFO] : 账号退出登录成功
+[2020-11-24 10:59:46,555] base_page.py->exit_driver line:64 [INFO] : 关闭浏览器
+[2020-11-24 10:59:48,844] Stard_End.py->tearDown line:43 [INFO] : --------测试方法执行完毕---------------
+[2020-11-24 10:59:48,844] Stard_End.py->tearDownClass line:49 [INFO] : =====================测 试 类 执 行 完 毕=====================
+[2020-11-24 11:01:08,606] Stard_End.py->setUpClass line:18 [INFO] : =====================测 试 类 初 始 化=====================
+[2020-11-24 11:01:08,607] Stard_End.py->setUp line:26 [INFO] : --------测试方法初始化---------------
+[2020-11-24 11:01:11,263] browser.py->__get_chrome_driver line:37 [INFO] : 初始化Google浏览器并启动
+[2020-11-24 11:01:12,388] base_page.py->set_browser_max line:29 [INFO] : 浏览器最大化
+[2020-11-24 11:01:13,012] base_page.py->open_url line:23 [INFO] : 打开url地址: https://www.91trial.com/User/Login/
+[2020-11-24 11:01:13,012] addPatient_case_test.py->test_addPatient_success line:23 [INFO] : test_addPatient_success 用例开始执行
+[2020-11-24 11:01:22,353] login_ation.py->login_action line:20 [INFO] : 输入的账号是：zhxcrc,  密码是：123123
+[2020-11-24 11:01:38,663] base_page.py->delete_element_attribute line:164 [INFO] : 删除[访视日期]的属性：maxlength
+[2020-11-24 11:01:38,935] ShaiXuan_visit_page.py->visit_date_input line:39 [INFO] : 输入访视日期:2020-01-22
+[2020-11-24 11:01:39,011] ShaiXuan_visit_page.py->patient_name_button line:46 [INFO] : 输入患者姓名： 钱磊二
+[2020-11-24 11:01:39,129] ShaiXuan_visit_page.py->randomNumber_button line:53 [INFO] : 输入随机号名：11071
+[2020-11-24 11:01:42,230] base_page.py->click line:105 [ERROR] : [肝穿分组_非肝穿] 元素点击操作失败，原因是：Message: unknown error: Element <label for="66f03d36-94a7-4d74-9506-04d8cbed29e1" class="poradio">...</label> is not clickable at point (598, 375). Other element would receive the click: <td class="new day">...</td>
+  (Session info: chrome=86.0.4240.198)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+[2020-11-24 11:01:42,231] ShaiXuan_visit_page.py->Non_hepatic_penetration_button line:69 [INFO] : 点击[非肝穿]元素
+[2020-11-24 11:01:45,254] base_page.py->delete_element_attribute line:164 [INFO] : 删除[出生日期]的属性：maxlength
+[2020-11-24 11:01:45,575] ShaiXuan_visit_page.py->birthday_button line:74 [INFO] : 点击[出生日期]元素
+[2020-11-24 11:01:48,745] ShaiXuan_visit_page.py->sex_men_button line:81 [INFO] : 点击[男]元素
+[2020-11-24 11:01:51,924] ShaiXuan_visit_page.py->height_button line:89 [INFO] : 输入身高值： 178.3
+[2020-11-24 11:01:55,053] ShaiXuan_visit_page.py->group_ETV_button line:93 [INFO] : 点击[组别_ETV单药组]元素
+[2020-11-24 11:01:55,176] common_action.py->No_meiyou_button line:231 [INFO] : 点击[没有]元素
+[2020-11-24 11:01:55,212] base_page.py->click line:105 [ERROR] : [是] 元素点击操作失败，原因是：Message: element not visible
+  (Session info: chrome=86.0.4240.198)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+[2020-11-24 11:01:55,213] common_action.py->Yes_shi_button line:235 [INFO] : 点击[是]元素
+[2020-11-24 11:01:55,238] base_page.py->click line:105 [ERROR] : [是] 元素点击操作失败，原因是：Message: element not visible
+  (Session info: chrome=86.0.4240.198)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+[2020-11-24 11:01:55,238] common_action.py->Yes_shi_button line:235 [INFO] : 点击[是]元素
+[2020-11-24 11:01:55,502] base_page.py->click line:105 [ERROR] : [模块保存按钮] 元素点击操作失败，原因是：Message: unknown error: Element <button type="button" class="btn btn-success nhp_but" dataid="" mongoid="" patientid="" visitid="492b10a4-5131-439a-890f-4eb25c1856b4" moduleid="08771952-85a1-4d07-a79c-eb4401930f55" onclick="infoSubmit('/Visit/SaveVisitData',this,0)">...</button> is not clickable at point (1404, 77). Other element would receive the click: <div class="layui-layer-shade" id="layui-layer-shade5" times="5" style="z-index:19891018; background-color:#000; opacity:0.01; filter:alpha(opacity=1);"></div>
+  (Session info: chrome=86.0.4240.198)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+[2020-11-24 11:01:58,602] base_page.py->click line:105 [ERROR] : [用户名] 元素点击操作失败，原因是：Message: unknown error: Element <div id="dLabel" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">...</div> is not clickable at point (30, 724). Other element would receive the click: <div class="layui-layer-shade" id="layui-layer-shade8" times="8" style="z-index:19891021; background-color:#000; opacity:0.01; filter:alpha(opacity=1);"></div>
+  (Session info: chrome=86.0.4240.198)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+[2020-11-24 11:02:01,668] base_page.py->click line:105 [ERROR] : [退出登录] 元素点击操作失败，原因是：Message: element not visible
+  (Session info: chrome=86.0.4240.198)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+[2020-11-24 11:02:04,669] common_action.py->quit line:24 [INFO] : 账号退出登录成功
+[2020-11-24 11:02:04,676] base_page.py->exit_driver line:64 [INFO] : 关闭浏览器
+[2020-11-24 11:02:06,954] Stard_End.py->tearDown line:43 [INFO] : --------测试方法执行完毕---------------
+[2020-11-24 11:02:06,955] Stard_End.py->tearDownClass line:49 [INFO] : =====================测 试 类 执 行 完 毕=====================
+[2020-11-24 11:08:22,610] Stard_End.py->setUpClass line:18 [INFO] : =====================测 试 类 初 始 化=====================
+[2020-11-24 11:08:22,611] Stard_End.py->setUp line:26 [INFO] : --------测试方法初始化---------------
+[2020-11-24 11:08:25,328] browser.py->__get_chrome_driver line:37 [INFO] : 初始化Google浏览器并启动
+[2020-11-24 11:08:26,466] base_page.py->set_browser_max line:29 [INFO] : 浏览器最大化
+[2020-11-24 11:08:27,150] base_page.py->open_url line:23 [INFO] : 打开url地址: https://www.91trial.com/User/Login/
+[2020-11-24 11:08:27,150] addPatient_case_test.py->test_addPatient_success line:23 [INFO] : test_addPatient_success 用例开始执行
+[2020-11-24 11:08:36,449] login_ation.py->login_action line:20 [INFO] : 输入的账号是：zhxcrc,  密码是：123123
+[2020-11-24 11:08:52,949] base_page.py->delete_element_attribute line:164 [INFO] : 删除[访视日期]的属性：maxlength
+[2020-11-24 11:08:53,218] ShaiXuan_visit_page.py->visit_date_input line:39 [INFO] : 输入访视日期:2020-01-22
+[2020-11-24 11:08:53,287] ShaiXuan_visit_page.py->patient_name_button line:46 [INFO] : 输入患者姓名： 周文文
+[2020-11-24 11:08:53,389] ShaiXuan_visit_page.py->randomNumber_button line:53 [INFO] : 输入随机号名：12166
+[2020-11-24 11:08:56,472] base_page.py->click line:105 [ERROR] : [肝穿分组_非肝穿] 元素点击操作失败，原因是：Message: unknown error: Element <label for="66f03d36-94a7-4d74-9506-04d8cbed29e1" class="poradio">...</label> is not clickable at point (598, 375). Other element would receive the click: <td class="new day">...</td>
+  (Session info: chrome=86.0.4240.198)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+[2020-11-24 11:08:56,472] ShaiXuan_visit_page.py->Non_hepatic_penetration_button line:69 [INFO] : 点击[非肝穿]元素
+[2020-11-24 11:08:59,502] base_page.py->delete_element_attribute line:164 [INFO] : 删除[出生日期]的属性：maxlength
+[2020-11-24 11:08:59,754] ShaiXuan_visit_page.py->birthday_button line:74 [INFO] : 点击[出生日期]元素
+[2020-11-24 11:09:02,877] ShaiXuan_visit_page.py->sex_men_button line:81 [INFO] : 点击[男]元素
+[2020-11-24 11:09:06,051] ShaiXuan_visit_page.py->height_button line:89 [INFO] : 输入身高值： 178.3
+[2020-11-24 11:09:09,177] ShaiXuan_visit_page.py->group_ETV_button line:93 [INFO] : 点击[组别_ETV单药组]元素
+[2020-11-24 11:09:09,280] common_action.py->No_meiyou_button line:231 [INFO] : 点击[没有]元素
+[2020-11-24 11:09:09,315] base_page.py->click line:105 [ERROR] : [是] 元素点击操作失败，原因是：Message: element not visible
+  (Session info: chrome=86.0.4240.198)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+[2020-11-24 11:09:09,316] common_action.py->Yes_shi_button line:235 [INFO] : 点击[是]元素
+[2020-11-24 11:09:09,342] base_page.py->click line:105 [ERROR] : [是] 元素点击操作失败，原因是：Message: element not visible
+  (Session info: chrome=86.0.4240.198)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+[2020-11-24 11:09:09,343] common_action.py->Yes_shi_button line:235 [INFO] : 点击[是]元素
+[2020-11-24 11:09:09,621] base_page.py->click line:105 [ERROR] : [模块保存按钮] 元素点击操作失败，原因是：Message: unknown error: Element <button type="button" class="btn btn-success nhp_but" dataid="" mongoid="" patientid="" visitid="492b10a4-5131-439a-890f-4eb25c1856b4" moduleid="08771952-85a1-4d07-a79c-eb4401930f55" onclick="infoSubmit('/Visit/SaveVisitData',this,0)">...</button> is not clickable at point (1404, 77). Other element would receive the click: <div class="layui-layer-shade" id="layui-layer-shade5" times="5" style="z-index:19891018; background-color:#000; opacity:0.01; filter:alpha(opacity=1);"></div>
+  (Session info: chrome=86.0.4240.198)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+[2020-11-24 11:09:12,701] base_page.py->click line:105 [ERROR] : [用户名] 元素点击操作失败，原因是：Message: unknown error: Element <div id="dLabel" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">...</div> is not clickable at point (30, 724). Other element would receive the click: <div class="layui-layer-shade" id="layui-layer-shade26" times="26" style="z-index:19891039; background-color:#000; opacity:0.01; filter:alpha(opacity=1);"></div>
+  (Session info: chrome=86.0.4240.198)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+[2020-11-24 11:09:15,766] base_page.py->click line:105 [ERROR] : [退出登录] 元素点击操作失败，原因是：Message: element not visible
+  (Session info: chrome=86.0.4240.198)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+[2020-11-24 11:09:18,767] common_action.py->quit line:24 [INFO] : 账号退出登录成功
+[2020-11-24 11:09:18,774] base_page.py->exit_driver line:64 [INFO] : 关闭浏览器
+[2020-11-24 11:09:21,056] Stard_End.py->tearDown line:43 [INFO] : --------测试方法执行完毕---------------
+[2020-11-24 11:09:21,056] Stard_End.py->tearDownClass line:49 [INFO] : =====================测 试 类 执 行 完 毕=====================
+[2020-11-24 14:56:50,520] Stard_End.py->setUpClass line:18 [INFO] : =====================测 试 类 初 始 化=====================
+[2020-11-24 14:56:50,521] Stard_End.py->setUp line:26 [INFO] : --------测试方法初始化---------------
+[2020-11-24 14:56:53,637] browser.py->__get_chrome_driver line:37 [INFO] : 初始化Google浏览器并启动
+[2020-11-24 14:56:54,759] base_page.py->set_browser_max line:29 [INFO] : 浏览器最大化
+[2020-11-24 14:56:55,396] base_page.py->open_url line:23 [INFO] : 打开url地址: https://www.91trial.com/User/Login/
+[2020-11-24 14:56:55,396] addPatient_case_test.py->test_addPatient_success line:23 [INFO] : test_addPatient_success 用例开始执行
+[2020-11-24 14:57:04,754] login_ation.py->login_action line:20 [INFO] : 输入的账号是：zhxcrc,  密码是：123123
+[2020-11-24 14:57:24,069] base_page.py->delete_element_attribute line:172 [INFO] : 删除[访视日期]的属性：maxlength
+[2020-11-24 14:57:24,363] ShaiXuan_visit_page.py->visit_date_input line:40 [INFO] : 输入访视日期:2020-01-22
+[2020-11-24 14:57:29,363] base_page.py->default_wait line:259 [INFO] : 默认等待时间：5.0
+[2020-11-24 14:57:38,613] common_action.py->quit line:24 [INFO] : 账号退出登录成功
+[2020-11-24 14:57:38,620] base_page.py->exit_driver line:64 [INFO] : 关闭浏览器
+[2020-11-24 14:57:41,219] Stard_End.py->tearDown line:43 [INFO] : --------测试方法执行完毕---------------
+[2020-11-24 14:57:41,220] Stard_End.py->tearDownClass line:49 [INFO] : =====================测 试 类 执 行 完 毕=====================
+[2020-11-24 15:01:03,381] Stard_End.py->setUpClass line:18 [INFO] : =====================测 试 类 初 始 化=====================
+[2020-11-24 15:01:03,382] Stard_End.py->setUp line:26 [INFO] : --------测试方法初始化---------------
+[2020-11-24 15:01:05,965] browser.py->__get_chrome_driver line:37 [INFO] : 初始化Google浏览器并启动
+[2020-11-24 15:01:07,088] base_page.py->set_browser_max line:29 [INFO] : 浏览器最大化
+[2020-11-24 15:01:07,565] base_page.py->open_url line:23 [INFO] : 打开url地址: https://www.91trial.com/User/Login/
+[2020-11-24 15:01:07,565] addPatient_case_test.py->test_addPatient_success line:23 [INFO] : test_addPatient_success 用例开始执行
+[2020-11-24 15:01:16,868] login_ation.py->login_action line:20 [INFO] : 输入的账号是：zhxcrc,  密码是：123123
+[2020-11-24 15:01:36,741] base_page.py->delete_element_attribute line:172 [INFO] : 删除[访视日期]的属性：maxlength
+[2020-11-24 15:01:42,049] base_page.py->default_wait line:259 [INFO] : 默认等待时间：5.0
+[2020-11-24 15:01:49,100] base_page.py->find_element line:95 [ERROR] : [退出登录] 元素识别失败，原因是： ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+[2020-11-24 15:01:49,102] base_page.py->click line:105 [ERROR] : [退出登录] 元素点击操作失败，原因是：local variable 'element' referenced before assignment
+[2020-11-24 15:01:52,103] common_action.py->quit line:24 [INFO] : 账号退出登录成功
+[2020-11-24 15:01:52,113] base_page.py->exit_driver line:64 [INFO] : 关闭浏览器
+[2020-11-24 15:01:53,116] connectionpool.py->urlopen line:744 [WARNING] : Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000208075CA6A0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')': /session/8395936c7643e22e3d24c6b6bc494df9
+[2020-11-24 15:01:54,120] connectionpool.py->urlopen line:744 [WARNING] : Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000208075CAF70>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')': /session/8395936c7643e22e3d24c6b6bc494df9
+[2020-11-24 15:01:55,123] connectionpool.py->urlopen line:744 [WARNING] : Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000208075583A0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')': /session/8395936c7643e22e3d24c6b6bc494df9
+[2020-11-24 15:01:58,134] Stard_End.py->tearDown line:43 [INFO] : --------测试方法执行完毕---------------
+[2020-11-24 15:01:58,142] Stard_End.py->tearDownClass line:49 [INFO] : =====================测 试 类 执 行 完 毕=====================
+[2020-11-24 15:02:11,640] Stard_End.py->setUpClass line:18 [INFO] : =====================测 试 类 初 始 化=====================
+[2020-11-24 15:02:11,641] Stard_End.py->setUp line:26 [INFO] : --------测试方法初始化---------------
+[2020-11-24 15:02:14,167] browser.py->__get_chrome_driver line:37 [INFO] : 初始化Google浏览器并启动
+[2020-11-24 15:02:15,293] base_page.py->set_browser_max line:29 [INFO] : 浏览器最大化
+[2020-11-24 15:02:15,849] base_page.py->open_url line:23 [INFO] : 打开url地址: https://www.91trial.com/User/Login/
+[2020-11-24 15:02:15,849] addPatient_case_test.py->test_addPatient_success line:23 [INFO] : test_addPatient_success 用例开始执行
+[2020-11-24 15:02:25,185] login_ation.py->login_action line:20 [INFO] : 输入的账号是：zhxcrc,  密码是：123123
+[2020-11-24 15:02:44,004] base_page.py->delete_element_attribute line:172 [INFO] : 删除[访视日期]的属性：maxlength
+[2020-11-24 15:02:44,316] ShaiXuan_visit_page.py->visit_date_input line:40 [INFO] : 输入访视日期:2020-01-22
+[2020-11-24 15:02:49,316] base_page.py->default_wait line:259 [INFO] : 默认等待时间：5.0
+[2020-11-24 15:02:58,527] common_action.py->quit line:24 [INFO] : 账号退出登录成功
+[2020-11-24 15:02:58,532] base_page.py->exit_driver line:64 [INFO] : 关闭浏览器
+[2020-11-24 15:03:01,758] Stard_End.py->tearDown line:43 [INFO] : --------测试方法执行完毕---------------
+[2020-11-24 15:03:01,760] Stard_End.py->tearDownClass line:49 [INFO] : =====================测 试 类 执 行 完 毕=====================
+[2020-11-24 15:05:05,237] Stard_End.py->setUpClass line:18 [INFO] : =====================测 试 类 初 始 化=====================
+[2020-11-24 15:05:05,238] Stard_End.py->setUp line:26 [INFO] : --------测试方法初始化---------------
+[2020-11-24 15:05:07,903] browser.py->__get_chrome_driver line:37 [INFO] : 初始化Google浏览器并启动
+[2020-11-24 15:05:09,027] base_page.py->set_browser_max line:29 [INFO] : 浏览器最大化
+[2020-11-24 15:05:09,513] base_page.py->open_url line:23 [INFO] : 打开url地址: https://www.91trial.com/User/Login/
+[2020-11-24 15:05:09,513] addPatient_case_test.py->test_addPatient_success line:23 [INFO] : test_addPatient_success 用例开始执行
+[2020-11-24 15:05:18,833] login_ation.py->login_action line:20 [INFO] : 输入的账号是：zhxcrc,  密码是：123123
+[2020-11-24 15:05:35,626] base_page.py->delete_element_attribute line:171 [INFO] : 删除[访视日期]的属性：maxlength
+[2020-11-24 15:05:35,918] ShaiXuan_visit_page.py->visit_date_input line:40 [INFO] : 输入访视日期:2020-01-22
+[2020-11-24 15:05:35,989] ShaiXuan_visit_page.py->patient_name_button line:48 [INFO] : 输入患者姓名： 周金未
+[2020-11-24 15:05:36,098] ShaiXuan_visit_page.py->randomNumber_button line:55 [INFO] : 输入随机号名：94460
+[2020-11-24 15:05:39,253] ShaiXuan_visit_page.py->Non_hepatic_penetration_button line:71 [INFO] : 点击[非肝穿]元素
+[2020-11-24 15:05:42,284] base_page.py->delete_element_attribute line:171 [INFO] : 删除[出生日期]的属性：maxlength
+[2020-11-24 15:05:42,575] ShaiXuan_visit_page.py->birthday_button line:77 [INFO] : 点击[出生日期]元素
+[2020-11-24 15:05:45,681] ShaiXuan_visit_page.py->sex_men_button line:84 [INFO] : 点击[男]元素
+[2020-11-24 15:05:48,838] ShaiXuan_visit_page.py->height_button line:92 [INFO] : 输入身高值： 178.3
+[2020-11-24 15:05:51,925] ShaiXuan_visit_page.py->group_ETV_button line:96 [INFO] : 点击[组别_ETV单药组]元素
+[2020-11-24 15:05:52,018] common_action.py->No_meiyou_button line:231 [INFO] : 点击[没有]元素
+[2020-11-24 15:05:52,055] base_page.py->click line:105 [ERROR] : [是] 元素点击操作失败，原因是：Message: element not visible
+  (Session info: chrome=86.0.4240.198)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+[2020-11-24 15:05:52,056] common_action.py->Yes_shi_button line:235 [INFO] : 点击[是]元素
+[2020-11-24 15:05:52,079] base_page.py->click line:105 [ERROR] : [是] 元素点击操作失败，原因是：Message: element not visible
+  (Session info: chrome=86.0.4240.198)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+[2020-11-24 15:05:52,079] common_action.py->Yes_shi_button line:235 [INFO] : 点击[是]元素
+[2020-11-24 15:05:52,351] base_page.py->click line:105 [ERROR] : [模块保存按钮] 元素点击操作失败，原因是：Message: unknown error: Element <button type="button" class="btn btn-success nhp_but" dataid="" mongoid="" patientid="" visitid="492b10a4-5131-439a-890f-4eb25c1856b4" moduleid="08771952-85a1-4d07-a79c-eb4401930f55" onclick="infoSubmit('/Visit/SaveVisitData',this,0)">...</button> is not clickable at point (1404, 77). Other element would receive the click: <div class="layui-layer-shade" id="layui-layer-shade5" times="5" style="z-index:19891018; background-color:#000; opacity:0.01; filter:alpha(opacity=1);"></div>
+  (Session info: chrome=86.0.4240.198)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+[2020-11-24 15:05:55,446] base_page.py->click line:105 [ERROR] : [用户名] 元素点击操作失败，原因是：Message: unknown error: Element <div id="dLabel" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">...</div> is not clickable at point (30, 724). Other element would receive the click: <div class="layui-layer-shade" id="layui-layer-shade21" times="21" style="z-index:19891034; background-color:#000; opacity:0.01; filter:alpha(opacity=1);"></div>
+  (Session info: chrome=86.0.4240.198)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+[2020-11-24 15:05:58,500] base_page.py->click line:105 [ERROR] : [退出登录] 元素点击操作失败，原因是：Message: element not visible
+  (Session info: chrome=86.0.4240.198)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+[2020-11-24 15:06:01,501] common_action.py->quit line:24 [INFO] : 账号退出登录成功
+[2020-11-24 15:06:01,510] base_page.py->exit_driver line:64 [INFO] : 关闭浏览器
+[2020-11-24 15:06:03,779] Stard_End.py->tearDown line:43 [INFO] : --------测试方法执行完毕---------------
+[2020-11-24 15:06:03,779] Stard_End.py->tearDownClass line:49 [INFO] : =====================测 试 类 执 行 完 毕=====================
+[2020-11-24 16:33:44,233] Stard_End.py->setUpClass line:18 [INFO] : =====================测 试 类 初 始 化=====================
+[2020-11-24 16:33:44,234] Stard_End.py->setUp line:26 [INFO] : --------测试方法初始化---------------
+[2020-11-24 16:33:46,908] browser.py->__get_chrome_driver line:37 [INFO] : 初始化Google浏览器并启动
+[2020-11-24 16:33:48,040] base_page.py->set_browser_max line:29 [INFO] : 浏览器最大化
+[2020-11-24 16:33:48,645] base_page.py->open_url line:23 [INFO] : 打开url地址: https://www.91trial.com/User/Login/
+[2020-11-24 16:33:48,646] addPatient_case_test.py->test_addPatient_success line:23 [INFO] : test_addPatient_success 用例开始执行
+[2020-11-24 16:33:57,958] login_ation.py->login_action line:20 [INFO] : 输入的账号是：zhxcrc,  密码是：123123
+[2020-11-24 16:34:14,214] base_page.py->delete_element_attribute line:171 [INFO] : 删除[访视日期]的属性：maxlength
+[2020-11-24 16:34:14,519] ShaiXuan_visit_page.py->visit_date_input line:40 [INFO] : 输入访视日期:2020-01-22
+[2020-11-24 16:34:17,610] ShaiXuan_visit_page.py->patient_name_button line:48 [INFO] : 输入患者姓名： 王维恩
+[2020-11-24 16:34:20,748] ShaiXuan_visit_page.py->randomNumber_button line:55 [INFO] : 输入随机号名：67455
+[2020-11-24 16:34:23,885] ShaiXuan_visit_page.py->Liver_puncture_button line:67 [INFO] : 点击[肝穿]元素
+[2020-11-24 16:34:27,019] ShaiXuan_visit_page.py->Non_hepatic_penetration_button line:71 [INFO] : 点击[非肝穿]元素
+[2020-11-24 16:34:30,047] base_page.py->delete_element_attribute line:171 [INFO] : 删除[出生日期]的属性：maxlength
+[2020-11-24 16:34:30,347] ShaiXuan_visit_page.py->birthday_button line:77 [INFO] : 点击[出生日期]元素
+[2020-11-24 16:34:33,452] ShaiXuan_visit_page.py->sex_men_button line:84 [INFO] : 点击[男]元素
+[2020-11-24 16:34:36,619] ShaiXuan_visit_page.py->height_button line:92 [INFO] : 输入身高值： 178.3
+[2020-11-24 16:34:39,739] ShaiXuan_visit_page.py->group_ETV_button line:96 [INFO] : 点击[组别_ETV单药组]元素
+[2020-11-24 16:34:39,845] common_action.py->No_meiyou_button line:231 [INFO] : 点击[没有]元素
+[2020-11-24 16:34:39,885] base_page.py->click line:105 [ERROR] : [是] 元素点击操作失败，原因是：Message: element not visible
+  (Session info: chrome=86.0.4240.198)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+[2020-11-24 16:34:39,885] common_action.py->Yes_shi_button line:235 [INFO] : 点击[是]元素
+[2020-11-24 16:34:39,917] base_page.py->click line:105 [ERROR] : [是] 元素点击操作失败，原因是：Message: element not visible
+  (Session info: chrome=86.0.4240.198)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+[2020-11-24 16:34:39,917] common_action.py->Yes_shi_button line:235 [INFO] : 点击[是]元素
+[2020-11-24 16:34:40,184] base_page.py->click line:105 [ERROR] : [模块保存按钮] 元素点击操作失败，原因是：Message: unknown error: Element <button type="button" class="btn btn-success nhp_but" dataid="" mongoid="" patientid="" visitid="492b10a4-5131-439a-890f-4eb25c1856b4" moduleid="08771952-85a1-4d07-a79c-eb4401930f55" onclick="infoSubmit('/Visit/SaveVisitData',this,0)">...</button> is not clickable at point (1404, 714). Other element would receive the click: <div class="layui-layer-shade" id="layui-layer-shade5" times="5" style="z-index:19891018; background-color:#000; opacity:0.01; filter:alpha(opacity=1);"></div>
+  (Session info: chrome=86.0.4240.198)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+[2020-11-24 16:34:43,293] base_page.py->click line:105 [ERROR] : [用户名] 元素点击操作失败，原因是：Message: unknown error: Element <div id="dLabel" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">...</div> is not clickable at point (30, 724). Other element would receive the click: <div class="layui-layer-shade" id="layui-layer-shade8" times="8" style="z-index:19891021; background-color:#000; opacity:0.01; filter:alpha(opacity=1);"></div>
+  (Session info: chrome=86.0.4240.198)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+[2020-11-24 16:34:46,337] base_page.py->click line:105 [ERROR] : [退出登录] 元素点击操作失败，原因是：Message: element not visible
+  (Session info: chrome=86.0.4240.198)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+[2020-11-24 16:34:49,338] common_action.py->quit line:24 [INFO] : 账号退出登录成功
+[2020-11-24 16:34:49,344] base_page.py->exit_driver line:64 [INFO] : 关闭浏览器
+[2020-11-24 16:34:51,653] Stard_End.py->tearDown line:43 [INFO] : --------测试方法执行完毕---------------
+[2020-11-24 16:34:51,653] Stard_End.py->tearDownClass line:49 [INFO] : =====================测 试 类 执 行 完 毕=====================
+[2020-11-24 16:35:55,541] Stard_End.py->setUpClass line:18 [INFO] : =====================测 试 类 初 始 化=====================
+[2020-11-24 16:35:55,541] Stard_End.py->setUp line:26 [INFO] : --------测试方法初始化---------------
+[2020-11-24 16:35:58,182] browser.py->__get_chrome_driver line:37 [INFO] : 初始化Google浏览器并启动
+[2020-11-24 16:35:59,290] base_page.py->set_browser_max line:29 [INFO] : 浏览器最大化
+[2020-11-24 16:35:59,790] base_page.py->open_url line:23 [INFO] : 打开url地址: https://www.91trial.com/User/Login/
+[2020-11-24 16:35:59,790] addPatient_case_test.py->test_addPatient_success line:23 [INFO] : test_addPatient_success 用例开始执行
+[2020-11-24 16:36:09,106] login_ation.py->login_action line:20 [INFO] : 输入的账号是：zhxcrc,  密码是：123123
+[2020-11-24 16:36:27,627] base_page.py->delete_element_attribute line:171 [INFO] : 删除[访视日期]的属性：maxlength
+[2020-11-24 16:36:27,935] ShaiXuan_visit_page.py->visit_date_input line:40 [INFO] : 输入访视日期:2020-01-22
+[2020-11-24 16:36:31,057] ShaiXuan_visit_page.py->patient_name_button line:48 [INFO] : 输入患者姓名： 孙芙瑞
+[2020-11-24 16:36:34,214] ShaiXuan_visit_page.py->randomNumber_button line:55 [INFO] : 输入随机号名：66747
+[2020-11-24 16:36:37,353] ShaiXuan_visit_page.py->Liver_puncture_button line:67 [INFO] : 点击[肝穿]元素
+[2020-11-24 16:36:40,506] ShaiXuan_visit_page.py->Non_hepatic_penetration_button line:71 [INFO] : 点击[非肝穿]元素
+[2020-11-24 16:36:43,528] base_page.py->delete_element_attribute line:171 [INFO] : 删除[出生日期]的属性：maxlength
+[2020-11-24 16:36:43,811] ShaiXuan_visit_page.py->birthday_button line:77 [INFO] : 点击[出生日期]元素
+[2020-11-24 16:36:46,925] ShaiXuan_visit_page.py->sex_men_button line:84 [INFO] : 点击[男]元素
+[2020-11-24 16:36:50,118] ShaiXuan_visit_page.py->height_button line:92 [INFO] : 输入身高值： 178.3
+[2020-11-24 16:36:53,226] ShaiXuan_visit_page.py->group_ETV_button line:96 [INFO] : 点击[组别_ETV单药组]元素
+[2020-11-24 16:36:53,333] common_action.py->No_meiyou_button line:231 [INFO] : 点击[没有]元素
+[2020-11-24 16:36:53,384] base_page.py->click line:105 [ERROR] : [是] 元素点击操作失败，原因是：Message: element not visible
+  (Session info: chrome=86.0.4240.198)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+[2020-11-24 16:36:53,385] common_action.py->Yes_shi_button line:235 [INFO] : 点击[是]元素
+[2020-11-24 16:36:53,417] base_page.py->click line:105 [ERROR] : [是] 元素点击操作失败，原因是：Message: element not visible
+  (Session info: chrome=86.0.4240.198)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+[2020-11-24 16:36:53,418] common_action.py->Yes_shi_button line:235 [INFO] : 点击[是]元素
+[2020-11-24 16:36:53,766] base_page.py->click line:105 [ERROR] : [模块保存按钮] 元素点击操作失败，原因是：Message: unknown error: Element <button type="button" class="btn btn-success nhp_but" dataid="" mongoid="" patientid="" visitid="492b10a4-5131-439a-890f-4eb25c1856b4" moduleid="08771952-85a1-4d07-a79c-eb4401930f55" onclick="infoSubmit('/Visit/SaveVisitData',this,0)">...</button> is not clickable at point (1916, 82). Other element would receive the click: <div class="layui-layer-shade" id="layui-layer-shade5" times="5" style="z-index:19891018; background-color:#000; opacity:0.01; filter:alpha(opacity=1);"></div>
+  (Session info: chrome=86.0.4240.198)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+[2020-11-24 16:36:56,888] base_page.py->click line:105 [ERROR] : [用户名] 元素点击操作失败，原因是：Message: unknown error: Element <div id="dLabel" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">...</div> is not clickable at point (30, 1012). Other element would receive the click: <div class="layui-layer-shade" id="layui-layer-shade20" times="20" style="z-index:19891033; background-color:#000; opacity:0.01; filter:alpha(opacity=1);"></div>
+  (Session info: chrome=86.0.4240.198)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+[2020-11-24 16:36:59,938] base_page.py->click line:105 [ERROR] : [退出登录] 元素点击操作失败，原因是：Message: element not visible
+  (Session info: chrome=86.0.4240.198)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+[2020-11-24 16:37:02,938] common_action.py->quit line:24 [INFO] : 账号退出登录成功
+[2020-11-24 16:37:02,944] base_page.py->exit_driver line:64 [INFO] : 关闭浏览器
+[2020-11-24 16:37:05,285] Stard_End.py->tearDown line:43 [INFO] : --------测试方法执行完毕---------------
+[2020-11-24 16:37:05,285] Stard_End.py->tearDownClass line:49 [INFO] : =====================测 试 类 执 行 完 毕=====================
+[2020-11-24 16:39:21,237] Stard_End.py->setUpClass line:18 [INFO] : =====================测 试 类 初 始 化=====================
+[2020-11-24 16:39:21,237] Stard_End.py->setUp line:26 [INFO] : --------测试方法初始化---------------
+[2020-11-24 16:39:23,796] browser.py->__get_chrome_driver line:37 [INFO] : 初始化Google浏览器并启动
+[2020-11-24 16:39:24,934] base_page.py->set_browser_max line:29 [INFO] : 浏览器最大化
+[2020-11-24 16:39:25,510] base_page.py->open_url line:23 [INFO] : 打开url地址: https://www.91trial.com/User/Login/
+[2020-11-24 16:39:25,510] addPatient_case_test.py->test_addPatient_success line:23 [INFO] : test_addPatient_success 用例开始执行
+[2020-11-24 16:39:34,798] login_ation.py->login_action line:20 [INFO] : 输入的账号是：zhxcrc,  密码是：123123
+[2020-11-24 16:39:53,067] base_page.py->delete_element_attribute line:171 [INFO] : 删除[访视日期]的属性：maxlength
+[2020-11-24 16:39:53,445] ShaiXuan_visit_page.py->visit_date_input line:40 [INFO] : 输入访视日期:2020-01-22
+[2020-11-24 16:39:56,539] ShaiXuan_visit_page.py->patient_name_button line:48 [INFO] : 输入患者姓名： 孙欧画
+[2020-11-24 16:39:59,686] ShaiXuan_visit_page.py->randomNumber_button line:55 [INFO] : 输入随机号名：46997
+[2020-11-24 16:40:02,816] ShaiXuan_visit_page.py->Liver_puncture_button line:67 [INFO] : 点击[肝穿]元素
+[2020-11-24 16:40:05,963] ShaiXuan_visit_page.py->Non_hepatic_penetration_button line:71 [INFO] : 点击[非肝穿]元素
+[2020-11-24 16:40:08,984] base_page.py->delete_element_attribute line:171 [INFO] : 删除[出生日期]的属性：maxlength
+[2020-11-24 16:40:09,278] ShaiXuan_visit_page.py->birthday_button line:77 [INFO] : 点击[出生日期]元素
+[2020-11-24 16:40:12,395] ShaiXuan_visit_page.py->sex_men_button line:84 [INFO] : 点击[男]元素
+[2020-11-24 16:40:15,571] ShaiXuan_visit_page.py->height_button line:92 [INFO] : 输入身高值： 178.3
+[2020-11-24 16:40:18,670] ShaiXuan_visit_page.py->group_ETV_button line:96 [INFO] : 点击[组别_ETV单药组]元素
+[2020-11-24 16:40:18,774] common_action.py->No_meiyou_button line:231 [INFO] : 点击[没有]元素
+[2020-11-24 16:40:18,851] common_action.py->Yes_shi_button line:235 [INFO] : 点击[是]元素
+[2020-11-24 16:40:18,915] common_action.py->Yes_shi_button line:235 [INFO] : 点击[是]元素
+[2020-11-24 16:40:19,196] base_page.py->click line:105 [ERROR] : [模块保存按钮] 元素点击操作失败，原因是：Message: unknown error: Element <button type="button" class="btn btn-success nhp_but" dataid="" mongoid="" patientid="" visitid="492b10a4-5131-439a-890f-4eb25c1856b4" moduleid="08771952-85a1-4d07-a79c-eb4401930f55" onclick="infoSubmit('/Visit/SaveVisitData',this,0)">...</button> is not clickable at point (1404, 710). Other element would receive the click: <div class="layui-layer-shade" id="layui-layer-shade5" times="5" style="z-index:19891018; background-color:#000; opacity:0.01; filter:alpha(opacity=1);"></div>
+  (Session info: chrome=86.0.4240.198)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+[2020-11-24 16:40:22,284] base_page.py->click line:105 [ERROR] : [用户名] 元素点击操作失败，原因是：Message: unknown error: Element <div id="dLabel" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">...</div> is not clickable at point (30, 724). Other element would receive the click: <div class="layui-layer-shade" id="layui-layer-shade24" times="24" style="z-index:19891037; background-color:#000; opacity:0.01; filter:alpha(opacity=1);"></div>
+  (Session info: chrome=86.0.4240.198)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+[2020-11-24 16:40:25,332] base_page.py->click line:105 [ERROR] : [退出登录] 元素点击操作失败，原因是：Message: element not visible
+  (Session info: chrome=86.0.4240.198)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+[2020-11-24 16:40:28,332] common_action.py->quit line:24 [INFO] : 账号退出登录成功
+[2020-11-24 16:40:28,339] base_page.py->exit_driver line:64 [INFO] : 关闭浏览器
+[2020-11-24 16:40:30,630] Stard_End.py->tearDown line:43 [INFO] : --------测试方法执行完毕---------------
+[2020-11-24 16:40:30,630] Stard_End.py->tearDownClass line:49 [INFO] : =====================测 试 类 执 行 完 毕=====================
+[2020-11-24 16:44:15,316] Stard_End.py->setUpClass line:18 [INFO] : =====================测 试 类 初 始 化=====================
+[2020-11-24 16:44:15,317] Stard_End.py->setUp line:26 [INFO] : --------测试方法初始化---------------
+[2020-11-24 16:44:17,917] browser.py->__get_chrome_driver line:37 [INFO] : 初始化Google浏览器并启动
+[2020-11-24 16:44:19,038] base_page.py->set_browser_max line:29 [INFO] : 浏览器最大化
+[2020-11-24 16:44:19,588] base_page.py->open_url line:23 [INFO] : 打开url地址: https://www.91trial.com/User/Login/
+[2020-11-24 16:44:19,589] addPatient_case_test.py->test_addPatient_success line:23 [INFO] : test_addPatient_success 用例开始执行
+[2020-11-24 16:44:28,892] login_ation.py->login_action line:20 [INFO] : 输入的账号是：zhxcrc,  密码是：123123
+[2020-11-24 16:44:48,289] base_page.py->delete_element_attribute line:171 [INFO] : 删除[访视日期]的属性：maxlength
+[2020-11-24 16:44:48,578] ShaiXuan_visit_page.py->visit_date_input line:40 [INFO] : 输入访视日期:2020-01-22
+[2020-11-24 16:44:51,693] ShaiXuan_visit_page.py->patient_name_button line:48 [INFO] : 输入患者姓名： 赵荣芙
+[2020-11-24 16:44:54,857] ShaiXuan_visit_page.py->randomNumber_button line:55 [INFO] : 输入随机号名：19661
+[2020-11-24 16:44:57,999] ShaiXuan_visit_page.py->Liver_puncture_button line:67 [INFO] : 点击[肝穿]元素
+[2020-11-24 16:45:01,168] ShaiXuan_visit_page.py->Non_hepatic_penetration_button line:71 [INFO] : 点击[非肝穿]元素
+[2020-11-24 16:45:04,199] base_page.py->delete_element_attribute line:171 [INFO] : 删除[出生日期]的属性：maxlength
+[2020-11-24 16:45:04,517] ShaiXuan_visit_page.py->birthday_button line:77 [INFO] : 点击[出生日期]元素
+[2020-11-24 16:45:07,612] ShaiXuan_visit_page.py->sex_men_button line:84 [INFO] : 点击[男]元素
+[2020-11-24 16:45:10,753] ShaiXuan_visit_page.py->height_button line:92 [INFO] : 输入身高值： 178.3
+[2020-11-24 16:45:13,856] ShaiXuan_visit_page.py->group_ETV_button line:96 [INFO] : 点击[组别_ETV单药组]元素
+[2020-11-24 16:45:16,972] common_action.py->No_meiyou_button line:289 [INFO] : 点击[没有]元素
+[2020-11-24 16:45:20,068] common_action.py->Yes_shi_button line:294 [INFO] : 点击[是]元素
+[2020-11-24 16:45:23,143] common_action.py->Yes_shi_button line:294 [INFO] : 点击[是]元素
+[2020-11-24 16:45:32,462] base_page.py->click line:105 [ERROR] : [模块保存按钮] 元素点击操作失败，原因是：Message: unknown error: Element <button type="button" class="btn btn-success nhp_but" dataid="973141df-b582-4c97-95be-535f506db003" mongoid="d5813325-b796-41aa-a3f7-04838e529c1f" patientid="8fa93a46-e2c6-4011-9232-3d057d36cd65" visitid="492b10a4-5131-439a-890f-4eb25c1856b4" moduleid="08771952-85a1-4d07-a79c-eb4401930f55" onclick="infoSubmit('/Visit/SaveVisitData',this,0)">...</button> is not clickable at point (1404, 82). Other element would receive the click: <div class="layui-layer-shade" id="layui-layer-shade37" times="37" style="z-index:19891050; background-color:#000; opacity:0.01; filter:alpha(opacity=1);"></div>
+  (Session info: chrome=86.0.4240.198)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+[2020-11-24 16:45:41,692] common_action.py->quit line:24 [INFO] : 账号退出登录成功
+[2020-11-24 16:45:41,699] base_page.py->exit_driver line:64 [INFO] : 关闭浏览器
+[2020-11-24 16:45:44,004] Stard_End.py->tearDown line:43 [INFO] : --------测试方法执行完毕---------------
+[2020-11-24 16:45:44,004] Stard_End.py->tearDownClass line:49 [INFO] : =====================测 试 类 执 行 完 毕=====================
+[2020-11-24 16:46:15,515] Stard_End.py->setUpClass line:18 [INFO] : =====================测 试 类 初 始 化=====================
+[2020-11-24 16:46:15,515] Stard_End.py->setUp line:26 [INFO] : --------测试方法初始化---------------
+[2020-11-24 16:46:18,298] browser.py->__get_chrome_driver line:37 [INFO] : 初始化Google浏览器并启动
+[2020-11-24 16:46:19,433] base_page.py->set_browser_max line:29 [INFO] : 浏览器最大化
+[2020-11-24 16:46:22,119] base_page.py->open_url line:23 [INFO] : 打开url地址: https://www.91trial.com/User/Login/
+[2020-11-24 16:46:22,120] addPatient_case_test.py->test_addPatient_success line:23 [INFO] : test_addPatient_success 用例开始执行
+[2020-11-24 16:46:31,383] login_ation.py->login_action line:20 [INFO] : 输入的账号是：zhxcrc,  密码是：123123
+[2020-11-24 16:46:52,600] base_page.py->delete_element_attribute line:171 [INFO] : 删除[访视日期]的属性：maxlength
+[2020-11-24 16:46:52,976] ShaiXuan_visit_page.py->visit_date_input line:40 [INFO] : 输入访视日期:2020-01-22
+[2020-11-24 16:46:56,098] ShaiXuan_visit_page.py->patient_name_button line:48 [INFO] : 输入患者姓名： 钱二色
+[2020-11-24 16:46:59,273] ShaiXuan_visit_page.py->randomNumber_button line:55 [INFO] : 输入随机号名：18656
+[2020-11-24 16:47:02,376] ShaiXuan_visit_page.py->Liver_puncture_button line:67 [INFO] : 点击[肝穿]元素
+[2020-11-24 16:47:05,521] ShaiXuan_visit_page.py->Non_hepatic_penetration_button line:71 [INFO] : 点击[非肝穿]元素
+[2020-11-24 16:47:08,553] base_page.py->delete_element_attribute line:171 [INFO] : 删除[出生日期]的属性：maxlength
+[2020-11-24 16:47:08,840] ShaiXuan_visit_page.py->birthday_button line:77 [INFO] : 点击[出生日期]元素
+[2020-11-24 16:47:11,942] ShaiXuan_visit_page.py->sex_men_button line:84 [INFO] : 点击[男]元素
+[2020-11-24 16:47:15,116] ShaiXuan_visit_page.py->height_button line:92 [INFO] : 输入身高值： 178.3
+[2020-11-24 16:47:18,238] ShaiXuan_visit_page.py->group_ETV_button line:96 [INFO] : 点击[组别_ETV单药组]元素
+[2020-11-24 16:47:21,351] common_action.py->No_meiyou_button line:289 [INFO] : 点击[没有]元素
+[2020-11-24 16:47:24,456] common_action.py->Yes_shi_button line:294 [INFO] : 点击[是]元素
+[2020-11-24 16:47:27,519] base_page.py->click line:105 [ERROR] : [否] 元素点击操作失败，原因是：Message: element not visible
+  (Session info: chrome=86.0.4240.198)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+[2020-11-24 16:47:27,520] common_action.py->No_fou_button line:299 [INFO] : 点击[否]元素
+[2020-11-24 16:47:46,127] common_action.py->quit line:24 [INFO] : 账号退出登录成功
+[2020-11-24 16:47:46,133] base_page.py->exit_driver line:64 [INFO] : 关闭浏览器
+[2020-11-24 16:47:48,488] Stard_End.py->tearDown line:43 [INFO] : --------测试方法执行完毕---------------
+[2020-11-24 16:47:48,489] Stard_End.py->tearDownClass line:49 [INFO] : =====================测 试 类 执 行 完 毕=====================
+[2020-11-24 17:47:37,010] Stard_End.py->setUpClass line:18 [INFO] : =====================测 试 类 初 始 化=====================
+[2020-11-24 17:47:37,011] Stard_End.py->setUp line:26 [INFO] : --------测试方法初始化---------------
+[2020-11-24 17:47:39,699] browser.py->__get_chrome_driver line:37 [INFO] : 初始化Google浏览器并启动
+[2020-11-24 17:47:40,839] base_page.py->set_browser_max line:29 [INFO] : 浏览器最大化
+[2020-11-24 17:47:41,328] base_page.py->open_url line:23 [INFO] : 打开url地址: https://www.91trial.com/User/Login/
+[2020-11-24 17:47:41,328] addPatient_case_test.py->test_addPatient_success line:23 [INFO] : test_addPatient_success 用例开始执行
+[2020-11-24 17:47:50,640] login_ation.py->login_action line:20 [INFO] : 输入的账号是：zhxcrc,  密码是：123123
+[2020-11-24 17:48:10,258] base_page.py->delete_element_attribute line:171 [INFO] : 删除[访视日期]的属性：maxlength
+[2020-11-24 17:48:10,573] ShaiXuan_visit_page.py->visit_date_input line:40 [INFO] : 输入访视日期:2020-01-22
+[2020-11-24 17:48:13,693] ShaiXuan_visit_page.py->patient_name_button line:48 [INFO] : 输入患者姓名： 钱文维
+[2020-11-24 17:48:16,857] ShaiXuan_visit_page.py->randomNumber_button line:55 [INFO] : 输入随机号名：61454
+[2020-11-24 17:48:19,965] ShaiXuan_visit_page.py->Liver_puncture_button line:67 [INFO] : 点击[肝穿]元素
+[2020-11-24 17:48:23,083] ShaiXuan_visit_page.py->Non_hepatic_penetration_button line:71 [INFO] : 点击[非肝穿]元素
+[2020-11-24 17:48:26,112] base_page.py->delete_element_attribute line:171 [INFO] : 删除[出生日期]的属性：maxlength
+[2020-11-24 17:48:26,418] ShaiXuan_visit_page.py->birthday_button line:77 [INFO] : 点击[出生日期]元素
+[2020-11-24 17:48:29,494] ShaiXuan_visit_page.py->sex_men_button line:84 [INFO] : 点击[男]元素
+[2020-11-24 17:48:32,669] ShaiXuan_visit_page.py->height_button line:92 [INFO] : 输入身高值： 178.3
+[2020-11-24 17:48:35,767] ShaiXuan_visit_page.py->group_ETV_button line:96 [INFO] : 点击[组别_ETV单药组]元素
+[2020-11-24 17:48:38,891] common_action.py->No_meiyou_button line:289 [INFO] : 点击[没有]元素
+[2020-11-24 17:48:41,984] common_action.py->Signature_shi_button line:294 [INFO] : 点击[是]元素
+[2020-11-24 17:48:45,094] common_action.py->Third_Year_fou_button line:309 [INFO] : 点击[是]元素
+[2020-11-24 17:48:48,192] common_action.py->Third_Year_shi_button line:304 [INFO] : 点击[是]元素
+[2020-11-24 17:49:06,864] common_action.py->quit line:24 [INFO] : 账号退出登录成功
+[2020-11-24 17:49:06,870] base_page.py->exit_driver line:64 [INFO] : 关闭浏览器
+[2020-11-24 17:49:09,196] Stard_End.py->tearDown line:43 [INFO] : --------测试方法执行完毕---------------
+[2020-11-24 17:49:09,196] Stard_End.py->tearDownClass line:49 [INFO] : =====================测 试 类 执 行 完 毕=====================
+[2020-11-24 18:03:11,243] Stard_End.py->setUpClass line:18 [INFO] : =====================测 试 类 初 始 化=====================
+[2020-11-24 18:03:11,244] Stard_End.py->setUp line:26 [INFO] : --------测试方法初始化---------------
+[2020-11-24 18:03:13,884] browser.py->__get_chrome_driver line:37 [INFO] : 初始化Google浏览器并启动
+[2020-11-24 18:03:15,011] base_page.py->set_browser_max line:29 [INFO] : 浏览器最大化
+[2020-11-24 18:03:15,749] base_page.py->open_url line:23 [INFO] : 打开url地址: https://www.91trial.com/User/Login/
+[2020-11-24 18:03:15,749] addPatient_case_test.py->test_addPatient_success line:23 [INFO] : test_addPatient_success 用例开始执行
+[2020-11-24 18:03:25,071] login_ation.py->login_action line:20 [INFO] : 输入的账号是：zhxcrc,  密码是：123123
+[2020-11-24 18:03:47,068] base_page.py->delete_element_attribute line:178 [INFO] : 删除[访视日期]的属性：maxlength
+[2020-11-24 18:03:47,375] ShaiXuan_visit_page.py->visit_date_input line:40 [INFO] : 输入访视日期:2020-01-22
+[2020-11-24 18:03:50,469] ShaiXuan_visit_page.py->patient_name_button line:48 [INFO] : 输入患者姓名： 钱金恒
+[2020-11-24 18:03:53,627] ShaiXuan_visit_page.py->randomNumber_button line:55 [INFO] : 输入随机号名：64308
+[2020-11-24 18:03:56,746] ShaiXuan_visit_page.py->Liver_puncture_button line:67 [INFO] : 点击[肝穿]元素
+[2020-11-24 18:03:59,856] ShaiXuan_visit_page.py->Non_hepatic_penetration_button line:71 [INFO] : 点击[非肝穿]元素
+[2020-11-24 18:04:02,888] base_page.py->delete_element_attribute line:178 [INFO] : 删除[出生日期]的属性：maxlength
+[2020-11-24 18:04:03,196] ShaiXuan_visit_page.py->birthday_button line:77 [INFO] : 点击[出生日期]元素
+[2020-11-24 18:04:06,306] ShaiXuan_visit_page.py->sex_men_button line:84 [INFO] : 点击[男]元素
+[2020-11-24 18:04:09,489] ShaiXuan_visit_page.py->height_button line:92 [INFO] : 输入身高值： 178.3
+[2020-11-24 18:04:12,602] ShaiXuan_visit_page.py->group_ETV_button line:96 [INFO] : 点击[组别_ETV单药组]元素
+[2020-11-24 18:04:15,704] common_action.py->No_meiyou_button line:289 [INFO] : 点击[没有]元素
+[2020-11-24 18:04:18,826] common_action.py->Signature_shi_button line:294 [INFO] : 点击[是]元素
+[2020-11-24 18:04:21,935] common_action.py->Third_Year_fou_button line:309 [INFO] : 点击[是]元素
+[2020-11-24 18:04:25,028] common_action.py->Third_Year_shi_button line:304 [INFO] : 点击[是]元素
+[2020-11-24 18:04:28,078] base_page.py->click line:105 [ERROR] : [模块保存按钮] 元素点击操作失败，原因是：Message: element not visible
+  (Session info: chrome=86.0.4240.198)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+[2020-11-24 18:04:34,191] base_page.py->click line:105 [ERROR] : [模块保存按钮] 元素点击操作失败，原因是：Message: element not visible
+  (Session info: chrome=86.0.4240.198)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+[2020-11-24 18:04:43,384] common_action.py->quit line:24 [INFO] : 账号退出登录成功
+[2020-11-24 18:04:43,390] base_page.py->exit_driver line:64 [INFO] : 关闭浏览器
+[2020-11-24 18:04:45,691] Stard_End.py->tearDown line:43 [INFO] : --------测试方法执行完毕---------------
+[2020-11-24 18:04:45,691] Stard_End.py->tearDownClass line:49 [INFO] : =====================测 试 类 执 行 完 毕=====================
+[2020-11-24 18:07:23,997] Stard_End.py->setUpClass line:18 [INFO] : =====================测 试 类 初 始 化=====================
+[2020-11-24 18:07:23,998] Stard_End.py->setUp line:26 [INFO] : --------测试方法初始化---------------
+[2020-11-24 18:07:26,573] browser.py->__get_chrome_driver line:37 [INFO] : 初始化Google浏览器并启动
+[2020-11-24 18:07:27,696] base_page.py->set_browser_max line:29 [INFO] : 浏览器最大化
+[2020-11-24 18:07:28,213] base_page.py->open_url line:23 [INFO] : 打开url地址: https://www.91trial.com/User/Login/
+[2020-11-24 18:07:28,213] addPatient_case_test.py->test_addPatient_success line:23 [INFO] : test_addPatient_success 用例开始执行
+[2020-11-24 18:07:37,527] login_ation.py->login_action line:20 [INFO] : 输入的账号是：zhxcrc,  密码是：123123
+[2020-11-24 18:07:58,992] base_page.py->delete_element_attribute line:178 [INFO] : 删除[访视日期]的属性：maxlength
+[2020-11-24 18:07:59,275] ShaiXuan_visit_page.py->visit_date_input line:40 [INFO] : 输入访视日期:2020-01-22
+[2020-11-24 18:08:02,389] ShaiXuan_visit_page.py->patient_name_button line:48 [INFO] : 输入患者姓名： 钱未磊
+[2020-11-24 18:08:05,526] ShaiXuan_visit_page.py->randomNumber_button line:55 [INFO] : 输入随机号名：16614
+[2020-11-24 18:08:08,658] ShaiXuan_visit_page.py->Liver_puncture_button line:67 [INFO] : 点击[肝穿]元素
+[2020-11-24 18:08:11,764] ShaiXuan_visit_page.py->Non_hepatic_penetration_button line:71 [INFO] : 点击[非肝穿]元素
+[2020-11-24 18:08:14,796] base_page.py->delete_element_attribute line:178 [INFO] : 删除[出生日期]的属性：maxlength
+[2020-11-24 18:08:15,105] ShaiXuan_visit_page.py->birthday_button line:77 [INFO] : 点击[出生日期]元素
+[2020-11-24 18:08:18,210] ShaiXuan_visit_page.py->sex_men_button line:84 [INFO] : 点击[男]元素
+[2020-11-24 18:08:21,394] ShaiXuan_visit_page.py->height_button line:92 [INFO] : 输入身高值： 178.3
+[2020-11-24 18:08:24,504] ShaiXuan_visit_page.py->group_ETV_button line:96 [INFO] : 点击[组别_ETV单药组]元素
+[2020-11-24 18:08:27,616] common_action.py->No_meiyou_button line:289 [INFO] : 点击[没有]元素
+[2020-11-24 18:08:30,723] common_action.py->Signature_shi_button line:294 [INFO] : 点击[是]元素
+[2020-11-24 18:08:33,827] common_action.py->Third_Year_fou_button line:309 [INFO] : 点击[是]元素
+[2020-11-24 18:08:36,932] common_action.py->Third_Year_shi_button line:304 [INFO] : 点击[是]元素
+[2020-11-24 18:08:39,992] base_page.py->click line:105 [ERROR] : [模块保存按钮] 元素点击操作失败，原因是：Message: element not visible
+  (Session info: chrome=86.0.4240.198)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+[2020-11-24 18:08:46,108] base_page.py->click line:105 [ERROR] : [模块保存按钮] 元素点击操作失败，原因是：Message: element not visible
+  (Session info: chrome=86.0.4240.198)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+[2020-11-24 18:08:55,320] common_action.py->quit line:24 [INFO] : 账号退出登录成功
+[2020-11-24 18:08:55,326] base_page.py->exit_driver line:64 [INFO] : 关闭浏览器
+[2020-11-24 18:08:57,652] Stard_End.py->tearDown line:43 [INFO] : --------测试方法执行完毕---------------
+[2020-11-24 18:08:57,652] Stard_End.py->tearDownClass line:49 [INFO] : =====================测 试 类 执 行 完 毕=====================
+[2020-11-24 18:10:42,393] Stard_End.py->setUpClass line:18 [INFO] : =====================测 试 类 初 始 化=====================
+[2020-11-24 18:10:42,394] Stard_End.py->setUp line:26 [INFO] : --------测试方法初始化---------------
+[2020-11-24 18:10:44,934] browser.py->__get_chrome_driver line:37 [INFO] : 初始化Google浏览器并启动
+[2020-11-24 18:10:46,065] base_page.py->set_browser_max line:29 [INFO] : 浏览器最大化
+[2020-11-24 18:10:46,504] base_page.py->open_url line:23 [INFO] : 打开url地址: https://www.91trial.com/User/Login/
+[2020-11-24 18:10:46,504] addPatient_case_test.py->test_addPatient_success line:23 [INFO] : test_addPatient_success 用例开始执行
+[2020-11-24 18:10:55,800] login_ation.py->login_action line:20 [INFO] : 输入的账号是：zhxcrc,  密码是：123123
+[2020-11-24 18:11:14,794] base_page.py->delete_element_attribute line:178 [INFO] : 删除[访视日期]的属性：maxlength
+[2020-11-24 18:11:15,193] ShaiXuan_visit_page.py->visit_date_input line:40 [INFO] : 输入访视日期:2020-01-22
+[2020-11-24 18:11:18,300] ShaiXuan_visit_page.py->patient_name_button line:48 [INFO] : 输入患者姓名： 赵诞恒
+[2020-11-24 18:11:21,446] ShaiXuan_visit_page.py->randomNumber_button line:55 [INFO] : 输入随机号名：08016
+[2020-11-24 18:11:24,587] ShaiXuan_visit_page.py->Liver_puncture_button line:67 [INFO] : 点击[肝穿]元素
+[2020-11-24 18:11:27,721] ShaiXuan_visit_page.py->Non_hepatic_penetration_button line:71 [INFO] : 点击[非肝穿]元素
+[2020-11-24 18:11:30,752] base_page.py->delete_element_attribute line:178 [INFO] : 删除[出生日期]的属性：maxlength
+[2020-11-24 18:11:31,038] ShaiXuan_visit_page.py->birthday_button line:77 [INFO] : 点击[出生日期]元素
+[2020-11-24 18:11:34,139] ShaiXuan_visit_page.py->sex_men_button line:84 [INFO] : 点击[男]元素
+[2020-11-24 18:11:37,329] ShaiXuan_visit_page.py->height_button line:92 [INFO] : 输入身高值： 178.3
+[2020-11-24 18:11:40,431] ShaiXuan_visit_page.py->group_ETV_button line:96 [INFO] : 点击[组别_ETV单药组]元素
+[2020-11-24 18:11:43,571] common_action.py->No_meiyou_button line:289 [INFO] : 点击[没有]元素
+[2020-11-24 18:11:46,690] common_action.py->Signature_shi_button line:294 [INFO] : 点击[是]元素
+[2020-11-24 18:11:49,799] common_action.py->Third_Year_fou_button line:309 [INFO] : 点击[是]元素
+[2020-11-24 18:11:52,894] common_action.py->Third_Year_shi_button line:304 [INFO] : 点击[是]元素
+[2020-11-24 18:12:11,551] common_action.py->quit line:24 [INFO] : 账号退出登录成功
+[2020-11-24 18:12:11,558] base_page.py->exit_driver line:64 [INFO] : 关闭浏览器
+[2020-11-24 18:12:13,921] Stard_End.py->tearDown line:43 [INFO] : --------测试方法执行完毕---------------
+[2020-11-24 18:12:13,921] Stard_End.py->tearDownClass line:49 [INFO] : =====================测 试 类 执 行 完 毕=====================
+[2020-11-24 18:30:40,653] Stard_End.py->setUpClass line:18 [INFO] : =====================测 试 类 初 始 化=====================
+[2020-11-24 18:30:40,654] Stard_End.py->setUp line:26 [INFO] : --------测试方法初始化---------------
+[2020-11-24 18:30:43,777] browser.py->__get_chrome_driver line:37 [INFO] : 初始化Google浏览器并启动
+[2020-11-24 18:30:44,900] base_page.py->set_browser_max line:29 [INFO] : 浏览器最大化
+[2020-11-24 18:30:45,375] base_page.py->open_url line:23 [INFO] : 打开url地址: https://www.91trial.com/User/Login/
+[2020-11-24 18:30:45,375] addPatient_case_test.py->test_addPatient_success line:23 [INFO] : test_addPatient_success 用例开始执行
+[2020-11-24 18:30:54,699] login_ation.py->login_action line:20 [INFO] : 输入的账号是：zhxcrc,  密码是：123123
+[2020-11-24 18:31:07,446] common_action.py->project_search_way01 line:46 [INFO] : 搜索：[长期抗病毒] 项目
+[2020-11-24 18:31:08,140] common_action.py->chose_patient_menu line:64 [INFO] : 点击：受试者管理
+[2020-11-24 18:31:11,250] common_action.py->AddNewPatient line:110 [INFO] : 新增患者
+[2020-11-24 18:31:14,296] base_page.py->delete_element_attribute line:180 [INFO] : 删除[访视日期]的属性：maxlength
+[2020-11-24 18:31:14,603] ShaiXuan_visit_page.py->visit_date_input line:40 [INFO] : 输入访视日期:2020-01-22
+[2020-11-24 18:31:17,701] ShaiXuan_visit_page.py->patient_name_button line:48 [INFO] : 输入患者姓名： 郑李金
+[2020-11-24 18:31:20,858] ShaiXuan_visit_page.py->randomNumber_button line:55 [INFO] : 输入随机号名：76957
+[2020-11-24 18:31:24,010] ShaiXuan_visit_page.py->Liver_puncture_button line:67 [INFO] : 点击[肝穿]元素
+[2020-11-24 18:31:27,110] ShaiXuan_visit_page.py->Non_hepatic_penetration_button line:71 [INFO] : 点击[非肝穿]元素
+[2020-11-24 18:31:30,141] base_page.py->delete_element_attribute line:180 [INFO] : 删除[出生日期]的属性：maxlength
+[2020-11-24 18:31:30,443] ShaiXuan_visit_page.py->birthday_button line:77 [INFO] : 点击[出生日期]元素
+[2020-11-24 18:31:33,547] ShaiXuan_visit_page.py->sex_men_button line:84 [INFO] : 点击[男]元素
+[2020-11-24 18:31:36,736] ShaiXuan_visit_page.py->height_button line:92 [INFO] : 输入身高值： 178.3
+[2020-11-24 18:31:39,861] ShaiXuan_visit_page.py->group_ETV_button line:96 [INFO] : 点击[组别_ETV单药组]元素
+[2020-11-24 18:31:42,970] common_action.py->No_meiyou_button line:321 [INFO] : 点击[没有]元素
+[2020-11-24 18:31:46,094] common_action.py->Signature_shi_button line:326 [INFO] : 点击[是]元素
+[2020-11-24 18:31:49,173] common_action.py->Third_Year_fou_button line:341 [INFO] : 点击[是]元素
+[2020-11-24 18:31:52,278] common_action.py->Third_Year_shi_button line:336 [INFO] : 点击[是]元素
+[2020-11-24 18:31:55,326] base_page.py->click line:105 [ERROR] : [模块保存按钮] 元素点击操作失败，原因是：Message: element not visible
+  (Session info: chrome=86.0.4240.198)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+[2020-11-24 18:31:55,326] common_action.py->saveModule line:154 [INFO] : 模块保存
+[2020-11-24 18:31:58,396] common_action.py->upload_picture line:148 [INFO] : 上传图片
+[2020-11-24 18:32:01,423] base_page.py->click line:105 [ERROR] : [模块保存按钮] 元素点击操作失败，原因是：Message: element not visible
+  (Session info: chrome=86.0.4240.198)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+[2020-11-24 18:32:01,423] common_action.py->saveModule line:154 [INFO] : 模块保存
+[2020-11-24 18:32:10,619] common_action.py->quit line:24 [INFO] : 账号退出登录成功
+[2020-11-24 18:32:10,627] base_page.py->exit_driver line:64 [INFO] : 关闭浏览器
+[2020-11-24 18:32:12,938] Stard_End.py->tearDown line:43 [INFO] : --------测试方法执行完毕---------------
+[2020-11-24 18:32:12,938] Stard_End.py->tearDownClass line:49 [INFO] : =====================测 试 类 执 行 完 毕=====================
+[2020-11-24 18:37:07,643] Stard_End.py->setUpClass line:18 [INFO] : =====================测 试 类 初 始 化=====================
+[2020-11-24 18:37:07,644] Stard_End.py->setUp line:26 [INFO] : --------测试方法初始化---------------
+[2020-11-24 18:37:10,337] browser.py->__get_chrome_driver line:37 [INFO] : 初始化Google浏览器并启动
+[2020-11-24 18:37:11,478] base_page.py->set_browser_max line:29 [INFO] : 浏览器最大化
+[2020-11-24 18:37:12,019] base_page.py->open_url line:23 [INFO] : 打开url地址: https://www.91trial.com/User/Login/
+[2020-11-24 18:37:12,019] addPatient_case_test.py->test_addPatient_success line:23 [INFO] : test_addPatient_success 用例开始执行
+[2020-11-24 18:37:21,277] login_ation.py->login_action line:20 [INFO] : 输入的账号是：zhxcrc,  密码是：123123
+[2020-11-24 18:37:34,264] common_action.py->project_search_way01 line:46 [INFO] : 搜索：[长期抗病毒] 项目
+[2020-11-24 18:37:34,947] common_action.py->chose_patient_menu line:64 [INFO] : 点击：受试者管理
+[2020-11-24 18:37:38,036] common_action.py->AddNewPatient line:110 [INFO] : 新增患者
+[2020-11-24 18:37:41,085] base_page.py->delete_element_attribute line:179 [INFO] : 删除[访视日期]的属性：maxlength
+[2020-11-24 18:37:41,495] ShaiXuan_visit_page.py->visit_date_input line:40 [INFO] : 输入访视日期:2020-01-22
+[2020-11-24 18:37:44,589] ShaiXuan_visit_page.py->patient_name_button line:48 [INFO] : 输入患者姓名： 周书荣
+[2020-11-24 18:37:47,768] ShaiXuan_visit_page.py->randomNumber_button line:55 [INFO] : 输入随机号名：30652
+[2020-11-24 18:37:50,876] base_page.py->click line:105 [ERROR] : [肝穿分组_肝穿] 元素点击操作失败，原因是：Message: unknown error: Element <label for="d80211ae-0895-44af-92f1-fd43b24a2110" class="poradio">...</label> is not clickable at point (527, 375). Other element would receive the click: <td class="new day">...</td>
+  (Session info: chrome=86.0.4240.198)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+[2020-11-24 18:37:50,876] ShaiXuan_visit_page.py->Liver_puncture_button line:67 [INFO] : 点击[肝穿]元素
+[2020-11-24 18:37:53,960] base_page.py->click line:105 [ERROR] : [肝穿分组_非肝穿] 元素点击操作失败，原因是：Message: unknown error: Element <label for="66f03d36-94a7-4d74-9506-04d8cbed29e1" class="poradio">...</label> is not clickable at point (598, 375). Other element would receive the click: <td class="new day">...</td>
+  (Session info: chrome=86.0.4240.198)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+[2020-11-24 18:37:53,960] ShaiXuan_visit_page.py->Non_hepatic_penetration_button line:71 [INFO] : 点击[非肝穿]元素
+[2020-11-24 18:37:56,995] base_page.py->delete_element_attribute line:179 [INFO] : 删除[出生日期]的属性：maxlength
+[2020-11-24 18:37:57,354] ShaiXuan_visit_page.py->birthday_button line:77 [INFO] : 点击[出生日期]元素
+[2020-11-24 18:38:00,461] ShaiXuan_visit_page.py->sex_men_button line:84 [INFO] : 点击[男]元素
+[2020-11-24 18:38:03,638] ShaiXuan_visit_page.py->height_button line:92 [INFO] : 输入身高值： 178.3
+[2020-11-24 18:38:08,645] base_page.py->default_wait line:266 [INFO] : 默认等待时间：5.0
+[2020-11-24 18:38:17,839] common_action.py->quit line:24 [INFO] : 账号退出登录成功
+[2020-11-24 18:38:17,845] base_page.py->exit_driver line:64 [INFO] : 关闭浏览器
+[2020-11-24 18:38:20,097] Stard_End.py->tearDown line:43 [INFO] : --------测试方法执行完毕---------------
+[2020-11-24 18:38:20,104] Stard_End.py->tearDownClass line:49 [INFO] : =====================测 试 类 执 行 完 毕=====================
+[2020-11-24 18:39:54,464] Stard_End.py->setUpClass line:18 [INFO] : =====================测 试 类 初 始 化=====================
+[2020-11-24 18:39:54,465] Stard_End.py->setUp line:26 [INFO] : --------测试方法初始化---------------
+[2020-11-24 18:39:57,207] browser.py->__get_chrome_driver line:37 [INFO] : 初始化Google浏览器并启动
+[2020-11-24 18:39:58,342] base_page.py->set_browser_max line:29 [INFO] : 浏览器最大化
+[2020-11-24 18:39:58,833] base_page.py->open_url line:23 [INFO] : 打开url地址: https://www.91trial.com/User/Login/
+[2020-11-24 18:39:58,833] addPatient_case_test.py->test_addPatient_success line:23 [INFO] : test_addPatient_success 用例开始执行
+[2020-11-24 18:40:08,157] login_ation.py->login_action line:20 [INFO] : 输入的账号是：zhxcrc,  密码是：123123
+[2020-11-24 18:40:22,597] common_action.py->project_search_way01 line:46 [INFO] : 搜索：[长期抗病毒] 项目
+[2020-11-24 18:40:23,391] common_action.py->chose_patient_menu line:64 [INFO] : 点击：受试者管理
+[2020-11-24 18:40:26,464] common_action.py->AddNewPatient line:110 [INFO] : 新增患者
+[2020-11-24 18:40:29,510] base_page.py->delete_element_attribute line:180 [INFO] : 删除[访视日期]的属性：maxlength
+[2020-11-24 18:40:29,882] ShaiXuan_visit_page.py->visit_date_input line:40 [INFO] : 输入访视日期:2020-01-22
+[2020-11-24 18:40:32,997] ShaiXuan_visit_page.py->patient_name_button line:48 [INFO] : 输入患者姓名： 李李二
+[2020-11-24 18:40:36,126] ShaiXuan_visit_page.py->randomNumber_button line:55 [INFO] : 输入随机号名：41280
+[2020-11-24 18:40:39,266] ShaiXuan_visit_page.py->Liver_puncture_button line:67 [INFO] : 点击[肝穿]元素
+[2020-11-24 18:40:42,378] ShaiXuan_visit_page.py->Non_hepatic_penetration_button line:71 [INFO] : 点击[非肝穿]元素
+[2020-11-24 18:40:45,407] base_page.py->delete_element_attribute line:180 [INFO] : 删除[出生日期]的属性：maxlength
+[2020-11-24 18:40:45,717] ShaiXuan_visit_page.py->birthday_button line:77 [INFO] : 点击[出生日期]元素
+[2020-11-24 18:40:48,818] ShaiXuan_visit_page.py->sex_men_button line:84 [INFO] : 点击[男]元素
+[2020-11-24 18:40:52,002] ShaiXuan_visit_page.py->height_button line:92 [INFO] : 输入身高值： 178.3
+[2020-11-24 18:40:52,007] base_page.py->Scroll_buttom line:164 [INFO] : 屏幕滚动到底部
+[2020-11-24 18:40:55,127] ShaiXuan_visit_page.py->group_ETV_button line:96 [INFO] : 点击[组别_ETV单药组]元素
+[2020-11-24 18:40:58,240] common_action.py->No_meiyou_button line:321 [INFO] : 点击[没有]元素
+[2020-11-24 18:41:01,332] common_action.py->Signature_shi_button line:326 [INFO] : 点击[是]元素
+[2020-11-24 18:41:04,443] common_action.py->Third_Year_fou_button line:341 [INFO] : 点击[是]元素
+[2020-11-24 18:41:07,546] common_action.py->Third_Year_shi_button line:336 [INFO] : 点击[是]元素
+[2020-11-24 18:41:10,719] common_action.py->saveModule line:154 [INFO] : 模块保存
+[2020-11-24 18:41:13,785] common_action.py->upload_picture line:148 [INFO] : 上传图片
+[2020-11-24 18:41:16,980] common_action.py->saveModule line:154 [INFO] : 模块保存
+[2020-11-24 18:41:26,162] common_action.py->quit line:24 [INFO] : 账号退出登录成功
+[2020-11-24 18:41:26,169] base_page.py->exit_driver line:64 [INFO] : 关闭浏览器
+[2020-11-24 18:41:28,511] Stard_End.py->tearDown line:43 [INFO] : --------测试方法执行完毕---------------
+[2020-11-24 18:41:28,511] Stard_End.py->tearDownClass line:49 [INFO] : =====================测 试 类 执 行 完 毕=====================

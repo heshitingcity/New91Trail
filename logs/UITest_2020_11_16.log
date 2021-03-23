@@ -1,0 +1,28 @@
+[2020-11-16 16:27:26,763] Stard_End.py->setUpClass line:18 [INFO] : =====================测 试 类 初 始 化=====================
+[2020-11-16 16:27:26,766] Stard_End.py->setUp line:26 [INFO] : --------测试方法初始化---------------
+[2020-11-16 16:27:29,692] browser.py->__get_chrome_driver line:37 [INFO] : 初始化Google浏览器并启动
+[2020-11-16 16:27:30,834] base_page.py->set_browser_max line:25 [INFO] : 浏览器最大化
+[2020-11-16 16:27:32,559] base_page.py->open_url line:19 [INFO] : 打开url地址: https://www.91trial.com/User/Login/
+[2020-11-16 16:27:32,559] login_case_test.py->test_login01_success line:24 [INFO] : test_login01_success 用例开始执行
+[2020-11-16 16:27:41,893] login_ation.py->login_action line:20 [INFO] : 输入的账号是：zhxcra,  密码是：123123
+[2020-11-16 16:27:46,926] Stard_End.py->tearDownClass line:49 [INFO] : =====================测 试 类 执 行 完 毕=====================
+[2020-11-16 16:53:53,565] Stard_End.py->setUpClass line:18 [INFO] : =====================测 试 类 初 始 化=====================
+[2020-11-16 16:53:53,566] Stard_End.py->setUp line:26 [INFO] : --------测试方法初始化---------------
+[2020-11-16 16:53:56,232] browser.py->__get_chrome_driver line:37 [INFO] : 初始化Google浏览器并启动
+[2020-11-16 16:53:57,371] base_page.py->set_browser_max line:25 [INFO] : 浏览器最大化
+[2020-11-16 16:53:57,846] base_page.py->open_url line:19 [INFO] : 打开url地址: https://www.91trial.com/User/Login/
+[2020-11-16 16:53:57,847] login_case_test.py->test_login01_success line:24 [INFO] : test_login01_success 用例开始执行
+[2020-11-16 16:54:07,173] login_ation.py->login_action line:20 [INFO] : 输入的账号是：zhxcra,  密码是：123123
+[2020-11-16 16:54:12,211] Stard_End.py->tearDownClass line:49 [INFO] : =====================测 试 类 执 行 完 毕=====================
+[2020-11-16 16:55:02,937] Stard_End.py->setUpClass line:18 [INFO] : =====================测 试 类 初 始 化=====================
+[2020-11-16 16:55:02,938] Stard_End.py->setUp line:26 [INFO] : --------测试方法初始化---------------
+[2020-11-16 16:55:05,613] browser.py->__get_chrome_driver line:37 [INFO] : 初始化Google浏览器并启动
+[2020-11-16 16:55:06,759] base_page.py->set_browser_max line:25 [INFO] : 浏览器最大化
+[2020-11-16 16:55:07,296] base_page.py->open_url line:19 [INFO] : 打开url地址: https://www.91trial.com/User/Login/
+[2020-11-16 16:55:07,297] login_case_test.py->test_login01_success line:24 [INFO] : test_login01_success 用例开始执行
+[2020-11-16 16:55:16,670] login_ation.py->login_action line:20 [INFO] : 输入的账号是：zhxcra,  密码是：123123
+[2020-11-16 16:55:16,684] login_case_test.py->test_login01_success line:30 [INFO] : test_login01_success 用例结束执行
+[2020-11-16 16:55:25,882] common_action.py->quit line:24 [INFO] : 账号退出登录成功
+[2020-11-16 16:55:25,890] base_page.py->exit_driver line:60 [INFO] : 关闭浏览器
+[2020-11-16 16:55:28,096] Stard_End.py->tearDown line:43 [INFO] : --------测试方法执行完毕---------------
+[2020-11-16 16:55:28,097] Stard_End.py->tearDownClass line:49 [INFO] : =====================测 试 类 执 行 完 毕=====================
